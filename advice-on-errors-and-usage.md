@@ -1,5 +1,8 @@
 Print a formatted PDF of any page of this repository by replacing the github.com part of the URL with gitprint.com, then hitting "enter." 
 
+## Introduction
+This guide is an ever-evolving list of advice on errors and usage. It's based on the comments that I find myself giving to St. Edward's University students over and over. As a result, it reflects local concerns and my own biases and preferences. I hope that it's broad enough to be useful, but it can't be comprehensive (read Bryan Garner's *Modern English Usage* and the whole [Purdue OWL](https://owl.english.purdue.edu/owl/) if you want comprehensive). 
+
 # A
 
 #### *affect* vs. *effect*
