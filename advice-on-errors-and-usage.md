@@ -1,17 +1,16 @@
 # A
 
+#### *affect* vs. *effect*
+[Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 #### *and/or*
 Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
+#### apostrophe error
+The Purdue OWL [has some great advice on using apostrophes](https://owl.english.purdue.edu/owl/resource/621/01/).
+#### *as humans*, *we as humans*
+These are abstract placeholders for ideas. Can we really be other than humans or experience anything other than as humans? Rework for clarity.
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
 
-
-#### *as humans*, *we as humans*
-These are abstract placeholders for ideas. Can we really be other than humans or experience anything other than as humans? Rework for clarity.
-#### apostrophe error
-The Purdue OWL [has some great advice on using apostrophes](https://owl.english.purdue.edu/owl/resource/621/01/)
-#### *affect* vs. *effect*
-[Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 
 
 # B
@@ -19,7 +18,7 @@ The Purdue OWL [has some great advice on using apostrophes](https://owl.english.
 #### *based off of*, *based around*
 Logically, nothing can be "based off of/off/around" something else. Just write *based on.*
 #### *begs the question* vs. *raises the question*
-Begging the question is a logical fallacy of circular argument, e.g., "God created the world because the Bible says so." Using "beg the question" to mean "raise the question" is certain to annoy traditionalists (on this, I am a traditionalist) because they see it as imprecise. 
+Begging the question is a logical fallacy of circular argument, e.g., "God created the world because the Bible says so." Using *beg the question* to mean *raise the question* is certain to annoy traditionalists (on this, I am a traditionalist) because they see it as imprecise. 
 #### *being that*
 Never write *being that* to mean *because.* Just write *because.*
 #### Britishisms
@@ -32,7 +31,7 @@ A “buried” verb is a noun that is really a verb or adjective in disguise, of
 #### capitalization
 The (Purdue OWL explains the rules for using capital letters)[https://owl.english.purdue.edu/owl/resource/592/1/]
 #### cliche
-A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
+A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, student-centered learning, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
 
 
 #### comma after introductory element
@@ -147,6 +146,6 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 
 # W
 
-#### who, whom
+#### *who, whom*
 “Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom) 
 
