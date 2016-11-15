@@ -4,9 +4,12 @@
 + 
 
 # B
-### being that: Never write "being that" to mean "because." Just write "because."
-+ ### Britishisms: Avoid Britishisms (e.g., colour, humour, whilst, spelt, spot-on) in American contexts. 
-+ ### buried verb: A “buried” verb is a noun that is really a verb or adjective in disguise, often with a –tion, -sion, -ment, -ence, -ance, or –ity ending added to the verb (e.g., realization instead of realize). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
+### being that
+Never write "being that" to mean "because." Just write "because."
+### Britishisms
+Avoid Britishisms (e.g., colour, humour, whilst, spelt, spot-on) in American contexts. 
+### buried verb
+A “buried” verb is a noun that is really a verb or adjective in disguise, often with a –tion, -sion, -ment, -ence, -ance, or –ity ending added to the verb (e.g., realization instead of realize). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
 
 # C
 
