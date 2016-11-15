@@ -47,7 +47,7 @@ If you have two clauses that could each stand alone as individual sentences but 
 # D
 
 #### decades
-Do not use apostrophe before the s in a decade. Incorrect: 1970's; *Correct: 1970s.* However, you do use an apostrophe to signal omission of the first part of a decade: *The '60s*
+Do not use an apostrophe before the *s* in a decade. Incorrect: *1970's*; Correct: *1970s.* However, you do use an apostrophe to signal omission of the first part of a decade: *the '60s*
 #### dropped quote
 Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
 
@@ -65,11 +65,11 @@ A *There is...* or *there are* sentence-opener is usually mere filler that can b
 # F
 
 #### *female* as noun
-If you mean a human being, use "girl" or "woman"--whichever is age-appropriate. Only when writing scientifically or about animals should you use female as a noun, e.g., "These lab rats are the males; these are the females." 
+If you mean a human being, use *girl* or *woman*--whichever is age-appropriate. Only when writing scientifically or about animals should you use *female* as a noun, e.g., *These lab rats are the males; these are the females.* 
 #### fragment (sentence fragment)
-Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. Like this. Really. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.english.purdue.edu/owl/resource/620/01/). 
+Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.english.purdue.edu/owl/resource/620/01/). 
 #### fused (aka run-on) sentence
-If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
+If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
 
 
 # G
@@ -84,7 +84,7 @@ Phrasal adjective (phrases being used as adjectives) should generally be hyphena
 
 # I
 
-#### impactful
+#### *impactful*
 As usage expert Paul Brians argues, "Many people in business and education like to speak of things that have an impact as being 'impactful,' but this term does not appear in most dictionaries and is not well thought of by traditionalists. Use 'influential' or 'effective' instead." *Impactful* may be in dictionaries by now, but some usage experts (and I) consider it yet another awful corporate buzzword (e.g., *Let's reach out for some impactful metrics in our mobile, disruptive, next-gen solutions brainstorming.*). Take Brians' suggestions re: *influential* or *effective.*
 #### *In conclusion, *In summary*
 Never end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [good advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/)
