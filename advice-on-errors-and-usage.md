@@ -34,7 +34,7 @@ A “buried” verb is a noun that is really a verb or adjective in disguise, of
 # C
 
 #### capitalization
-The (Purdue OWL explains the rules for using capital letters)[https://owl.english.purdue.edu/owl/resource/592/1/]
+The [Purdue OWL explains the rules for using capital letters](https://owl.english.purdue.edu/owl/resource/592/1/).
 #### cliche
 A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, student-centered learning, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
 
