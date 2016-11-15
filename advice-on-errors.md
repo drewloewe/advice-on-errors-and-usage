@@ -4,9 +4,9 @@
 + 
 
 # B
-+ being that: Never write "being that" to mean "because." Just write "because."
-+ Britishisms: Avoid Britishisms (e.g., colour, humour, whilst, spelt, spot-on) in American contexts. 
-+ buried verb: A “buried” verb is a noun that is really a verb or adjective in disguise, often with a –tion, -sion, -ment, -ence, -ance, or –ity ending added to the verb (e.g., realization instead of realize). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
++ ###being that: Never write "being that" to mean "because." Just write "because."
++ ###Britishisms: Avoid Britishisms (e.g., colour, humour, whilst, spelt, spot-on) in American contexts. 
++ ###buried verb: A “buried” verb is a noun that is really a verb or adjective in disguise, often with a –tion, -sion, -ment, -ence, -ance, or –ity ending added to the verb (e.g., realization instead of realize). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
 
 # C
 
@@ -17,9 +17,12 @@
 
 + decades: Do not use apostrophe before the s in a decade. Incorrect: 1970's; *Correct: 1970s.* However, you do use an apostrophe to signal omission of the first part of a decade: *The '60s*
 + dropped quote: Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
-++ Example of dropped quote: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. **“The challenge we face as teachers is to develop comments which will provide an inherent reason for students to revise; it is a sense of revision as discovery, as a repeated process of beginning again, as starting out new, that our students have not learned” (156).** The quote is simply plunked into the writing. 
-++ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. She calls on teachers to **“develop comments which will provide an inherent reason for students to revise”** because students don’t yet have **“a sense of revision as discovery, as a repeated process of beginning again, as starting out new” (156)**. What are all the changes you see between the two versions of the Sommers quote? 
-++ **NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in as if it stops the conversation of your paper. 
+
+Example of dropped quote: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. **“The challenge we face as teachers is to develop comments which will provide an inherent reason for students to revise; it is a sense of revision as discovery, as a repeated process of beginning again, as starting out new, that our students have not learned” (156).** The quote is simply plunked into the writing. 
+
+Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. She calls on teachers to **“develop comments which will provide an inherent reason for students to revise”** because students don’t yet have **“a sense of revision as discovery, as a repeated process of beginning again, as starting out new” (156)**. What are all the changes you see between the two versions of the Sommers quote? 
+
+**NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in as if it stops the conversation of your paper. 
 
 
 # E
