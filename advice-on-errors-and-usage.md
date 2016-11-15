@@ -148,6 +148,8 @@ Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use qu
 
 #### Verbs, precise
 Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://studentsuccess.asu.edu/sites/default/files/Annotation%20Verbs.pdf) that you will find useful in replacing weak verbs.
+#### very
+*Very* usually signals a weak construction that should be tightened with more precise word choice. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*).
 
 # W
 
