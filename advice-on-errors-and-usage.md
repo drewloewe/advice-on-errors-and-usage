@@ -1,3 +1,5 @@
+Print a formatted PDF of any page of this repository by replacing the github.com part of the URL with gitprint.com, then hitting "enter." 
+
 # A
 
 #### *affect* vs. *effect*
