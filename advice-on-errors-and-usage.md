@@ -1,7 +1,7 @@
 # A
 
-#### and/or
-Although some people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
+#### *and/or*
+Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
 
