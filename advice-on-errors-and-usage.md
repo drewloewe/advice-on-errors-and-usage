@@ -35,7 +35,7 @@ A cliche can be any overused metaphor, word, or phrase that you've heard or read
 
 
 #### comma after introductory element
-Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: **Before I could kill Count Dracula,** I had to find a wooden stake. Introductory elements often (but not always) require a comma. (The Purdue OWL explains more here)[https://owl.english.purdue.edu/owl/resource/607/03/].
+Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: **Before I could kill Count Dracula,** I had to find a wooden stake. Introductory elements often (but not always) require a comma. [The Purdue OWL explains more here](https://owl.english.purdue.edu/owl/resource/607/03/).
 #### comma splice
 If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences.You have several options to rework a comma splice. See [this advice from a textbook](http://bcs.bedfordstmartins.com/everyday_writer3e/20errors/8.html) for help. 
 
@@ -69,7 +69,7 @@ If you have two clauses that could each stand alone as individual sentences but 
 
 # G
 
-#### GSA--Giant Squishy Abstraction
+#### GSAs--Giant Squishy Abstractions
 GSAs (*technology, human nature, society, the youth of today, this modern age*, etc.) are enemies of precision and clarity. They are huge abstract concepts that are, necessarily, almost impossible to wrestle with in most of your projects. How might you refine, clarify, and refocus?
 
 # H
@@ -80,9 +80,9 @@ Phrasal adjective (phrases being used as adjectives) should generally be hyphena
 # I
 
 #### impactful
-As usage expert Paul Brians argues, "Many people in business and education like to speak of things that have an impact as being 'impactful,' but this term does not appear in most dictionaries and is not well thought of by traditionalists. Use 'influential' or 'effective' instead." "Impactful" may be in dictionaries by now, but some usage experts (and I) consider it yet another imprecise corporate buzzword (e.g., "Let's reach out for some impactful metrics in our mobile, disruptive, next-gen solutions brainstorming"). Take Brians' suggestions re: "influential" or "effective." 
+As usage expert Paul Brians argues, "Many people in business and education like to speak of things that have an impact as being 'impactful,' but this term does not appear in most dictionaries and is not well thought of by traditionalists. Use 'influential' or 'effective' instead." *Impactful* may be in dictionaries by now, but some usage experts (and I) consider it yet another awful corporate buzzword (e.g., *Let's reach out for some impactful metrics in our mobile, disruptive, next-gen solutions brainstorming.*). Take Brians' suggestions re: *influential* or *effective.*
 #### *In conclusion, *In summary*
-Never end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [ood advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/)
+Never end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [good advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/)
 #### *incredibly*
 Students love to write *incredibly* for some reason--I had a paper recently that had seven instances of *incredibly* in four pages. *Incredibly* is imprecise and should usually be changed or cut. It's usually a sign of a phrase that can be replaced by a well-chosen adjective. 
 #### indirect quote
@@ -98,7 +98,7 @@ If you mean *problem*, you should just write *problem*. Many people use *issue* 
 
 #### *less* vs. *fewer*
 
-See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) "Use fewer when referring to individual or countable things {fewer than ten chairs} {fewer questions asked by judges}. Use less when referring to volume, quantity, or degree {less influence on the jurors}, mass or bulk nouns {less water in the glass}, or units of measure or time {less than three ounces} {less than five months}. There is one exception: use less when count nouns are really being used as amounts instead of individual increments {he has less than one million dollars} {we have less than two minutes of rebuttal time}."
+See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) "Use *fewer* when referring to individual or countable things (*fewer than ten chairs*, *fewer questions asked by judges*). Use *less* when referring to volume, quantity, or degree (*less influence on the jurors*), mass or bulk nouns (*less water in the glass*), or units of measure or time (*less than three ounces,* *less than five months*). There is one exception: use *less* when count nouns are really being used as amounts instead of individual increments (he has *less* than one million dollars*, *e have less than two minutes of rebuttal time*)."
 
 #### *Look at/looking at*
 These are vague phrases. If you mean something like *analyze* or *examine*, use forms of those verbs.
