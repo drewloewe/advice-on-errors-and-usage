@@ -2,10 +2,12 @@
 
 #### and/or
 Although some people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
+#### *as such*
+Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
 
 
-#### as humans, we as humans
-These are vague, wooly, abstract placeholders for ideas. Can we really be other than humans or experience anything other than as humans? Rework for clarity.
+#### *as humans*, *we as humans*
+These are abstract placeholders for ideas. Can we really be other than humans or experience anything other than as humans? Rework for clarity.
 #### apostrophe error
 The Purdue OWL [has some great advice on using apostrophes](https://owl.english.purdue.edu/owl/resource/621/01/)
 #### *affect* vs. *effect*
@@ -19,11 +21,11 @@ Logically, nothing can be "based off of/off/around" something else. Just write *
 #### *begs the question* vs. *raises the question*
 Begging the question is a logical fallacy of circular argument, e.g., "God created the world because the Bible says so." Using "beg the question" to mean "raise the question" is certain to annoy traditionalists (on this, I am a traditionalist) because they see it as imprecise. 
 #### *being that*
-Never write "being that" to mean "because." Just write "because."
+Never write *being that* to mean *because.* Just write *because.*
 #### Britishisms
-Avoid Britishisms (e.g., colour, humour, whilst, spelt, spot-on) in American contexts. 
+Avoid Britishisms (e.g., *colour, humour, whilst, centre, spilt*) in American contexts. 
 #### buried verb
-A “buried” verb is a noun that is really a verb or adjective in disguise, often with a –tion, -sion, -ment, -ence, -ance, or –ity ending added to the verb (e.g., realization instead of realize). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
+A “buried” verb is a noun that is really a verb or adjective in disguise, often with a *–tion, -sion, -ment, -ence, -ance*, or *–ity* ending added (e.g., *realization* instead of *realize*). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
 
 # C
 
@@ -52,6 +54,9 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 **NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in as if it stops the conversation of your paper. 
 
 # E
+
+#### existential filler
+A *There is...* or *there are* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* 
 
 # F
 
@@ -94,17 +99,15 @@ If you mean *problem*, you should just write *problem*. Many people use *issue* 
 
 #### *less* vs. *fewer*
 
-See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) 
-
-"Use fewer when referring to individual or countable things {fewer than ten chairs} {fewer questions asked by judges}. Use less when referring to volume, quantity, or degree {less influence on the jurors}, mass or bulk nouns {less water in the glass}, or units of measure or time {less than three ounces} {less than five months}.
-
-There is one exception: use less when count nouns are really being used as amounts instead of individual increments {he has less than one million dollars} {we have less than two minutes of rebuttal time}."
+See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) "Use fewer when referring to individual or countable things {fewer than ten chairs} {fewer questions asked by judges}. Use less when referring to volume, quantity, or degree {less influence on the jurors}, mass or bulk nouns {less water in the glass}, or units of measure or time {less than three ounces} {less than five months}. There is one exception: use less when count nouns are really being used as amounts instead of individual increments {he has less than one million dollars} {we have less than two minutes of rebuttal time}."
 
 #### *Look at/looking at*
 These are vague phrases. If you mean something like *analyze* or *examine*, use forms of those verbs.
 
 # P
 
+#### Paramedic Method
+Richard Lanham's famous Paramedic Method for revising sentences helps you to rework vague, wordy, bureaucratic-sounding prose. [The Purdue OWL explains this easy, effective method](https://owl.english.purdue.edu/owl/resource/635/01/) for tightening sentences and reworking wooly ideas. 
 #### passive voice
 You should have a strong bias favoring active voice (*Lincoln delivered the speech*) over passive voice (*The speech was delivered by Lincoln*), unless you have a specific reason for using passive voice. Passive voice is not **wrong**; it’s just (usually) weaker. For more details, see [this handout from our Writing Center](https://sites.stedwards.edu/writing/files/2015/09/St.-Edwards-Univ-Writing-Center-Handout-on-Passive-Voice-19nzb1n.pdf). 
 #### people vs entities: pronouns
@@ -134,8 +137,6 @@ I favor the serial comma (aka “Oxford comma") because it enhances clarity. [De
 In American usage, favor *that* over  *which,* unless you have a nonrestrictive [i.e., not necessary to the sentence] clause. The basic rule: Use *which* plus commas to  set off nonrestrictive (unnecessary) clauses; use *that* to introduce a restrictive (necessary) clause. EXAMPLE OF NONRESTRICTIVE CLAUSE: Queso dip, which is a favorite among Austinites, can be either smooth or chunky. EXAMPLE OF RESTRICTIVE CLAUSE: Queso dip that contains too much Velveeta is called "fake queso dip." Bryan Garner offers [more advice](http://www.lawprose.org/garners-usage-tip-of-the-day-that-1/).
 #### *that*, wrongly suppressed
 Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating a miscue or an ambiguity, even if only momentarily. In particular, the conjunction that should usually be retained to introduce clauses following verbs such as *acknowledge, ask, believe, claim, doubt, hold, indicate, say*, and *suggest*. [More here on the "wrongly suppressed *that*":](http://abovethelaw.com/career-files/lawprose-lesson-127-wrongly-suppressed-that/)
-
-
 #### TV titles
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 
@@ -143,6 +144,8 @@ Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use qu
 
 #### Verbs, precise
 Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://studentsuccess.asu.edu/sites/default/files/Annotation%20Verbs.pdf) that you will find useful in replacing weak verbs.
+
+# W
 
 #### who, whom
 “Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom) 
