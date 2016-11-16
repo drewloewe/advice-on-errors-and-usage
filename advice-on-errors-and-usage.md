@@ -145,6 +145,9 @@ If you mean *that* or *those*, write *that* or *those.* *Said* sounds like a leg
 If even one of the individual items in a list has a comma, separate all list items with semicolons. 
 #### serial comma aka "Oxford comma"
 I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](http://www.oxforddictionaries.com/words/what-is-the-oxford-comma)
+#### sexist language
+[Garner offers strategies](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-3/) for reworking sentences to avoid a generic masculine pronoun and for [handling words that traditionally end in -man](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-5/) (e.g., *fireman* becomes *firefighter*). 
+
 
 # T
 
@@ -152,7 +155,9 @@ I favor the serial comma (aka “Oxford comma") because it enhances clarity. [De
 In American usage, favor *that* over  *which,* unless you have a nonrestrictive [i.e., not necessary to the sentence] clause. The basic rule: Use *which* plus commas to  set off nonrestrictive (unnecessary) clauses; use *that* to introduce a restrictive (necessary) clause. EXAMPLE OF NONRESTRICTIVE CLAUSE: Queso dip, which is a favorite among Austinites, can be either smooth or chunky. EXAMPLE OF RESTRICTIVE CLAUSE: Queso dip that contains too much Velveeta is called "fake queso dip." Bryan Garner offers [more advice](http://www.lawprose.org/garners-usage-tip-of-the-day-that-1/).
 #### *that*, wrongly suppressed
 Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating a miscue or an ambiguity, even if only momentarily. In particular, the conjunction that should usually be retained to introduce clauses following verbs such as *acknowledge, ask, believe, claim, doubt, hold, indicate, say*, and *suggest*. [More here on the "wrongly suppressed *that*](http://abovethelaw.com/career-files/lawprose-lesson-127-wrongly-suppressed-that/).
-#### TV titles
+#### *they,* singular 
+[Bryan Garner has covered this masterfully](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-4/). I accept the singular *they* because it has a long history of use, it solves the English language's common-sex singular personal pronoun glitch, and avoids sexism. 
+#### TV-show titles
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 
 # V
