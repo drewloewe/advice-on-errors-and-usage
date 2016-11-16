@@ -76,13 +76,13 @@ If you mean a human being, use *girl* or *woman*--whichever is age-appropriate. 
 #### fragment (sentence fragment)
 Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.english.purdue.edu/owl/resource/620/01/). 
 #### fused (aka run-on) sentence
-If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
+If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice on fused sentences from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
 
 
 # G
 
 #### GSAs--Giant Squishy Abstractions
-GSAs (*technology, human nature, society, the youth of today, this modern age*, etc.) are enemies of precision and clarity. They are huge abstract concepts that are, necessarily, almost impossible to wrestle with in most of your projects. How might you refine, clarify, and refocus?
+GSAs (*technology, human nature, today's society, the youth of today, this modern age*, etc.) are enemies of precision and clarity. They are huge abstract concepts that are, necessarily, almost impossible to wrestle with in most of your projects. How might you refine, clarify, and refocus?
 
 # H
 
@@ -96,7 +96,7 @@ As usage expert Paul Brians argues, "Many people in business and education like 
 #### *In conclusion, *In summary*
 Never end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [good advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/)
 #### *incredibly*
-Students love to write *incredibly* for some reason--I had a paper recently that had seven instances of *incredibly* in four pages. *Incredibly* is imprecise and should usually be changed or cut. It's usually a sign of a phrase that can be replaced by a well-chosen adjective. 
+For some reason, students seem to love to write the word *incredibly.* I had a paper recently that had seven instances of *incredibly* in four pages. *Incredibly* is imprecise and should usually be changed or cut. Much like *very,* *incredibly* usually signals a phrase that can be replaced by a well-chosen adjective. 
 #### indirect quote
 An "indirect quote" is a source quoted in another source. For example, suppose Source A quotes and cites Source B, but you don't have Source B yourself. In MLA style use *qtd. in* to indicate the source you actually used. For example: Sherman contends that "Writing centers across the country have struggled with the problem of securing adequate resources" (qtd. in Jefferson 493). That construction signals that you are using the quotation and citation to Sherman from p. 493 of Jefferson, but you are not using the original Sherman source itself. NB: Except for use of textbook-type materials, a good researcher will try to find the original source, rather than relying on indirect quotes. In any case, you have to accurately attribute quotes to their actual sources. 
 #### *in order to*,*in order for*
@@ -128,7 +128,10 @@ You should have a strong bias favoring active voice (*Lincoln delivered the spee
 #### people vs entities: pronouns
 Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? See [this advice](www.quickanddirtytips.com/education/grammar/people-versus-entities)
 
-# R
+# Q
+
+#### quotation marks with other punctuation 
+See [this resource on punctuation and quotation marks](https://owl.english.purdue.edu/owl/resource/577/03/) by the Purdue OWL. Students often mistakenly place periods and commas outside of quotation marks when they should be inside.
 
 #### *reach out to*
 *Reach out to* is voguish bizspeak for *contact, call, write*, or some other specific verb. *Reach out to* is becoming common usage, but many readers find it grating, vague, and wordy. A specific single verb is probably best.
