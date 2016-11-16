@@ -8,7 +8,7 @@ This guide is an ever-evolving list of advice on errors and usage. It's based on
 #### *affect* vs. *effect*
 [Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 #### *a lot*
-*A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*). Generally, in formal writing, *a lot* comes across as vague or imprecise. Try reworking it. Also, *alot* is always wrong.
+*A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) Generally, in formal writing, *a lot* comes across as vague or imprecise. Try reworking it. Also, *alot* is always wrong.
 #### *and/or*
 Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### apostrophe error
