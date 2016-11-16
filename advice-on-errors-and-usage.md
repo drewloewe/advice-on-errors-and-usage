@@ -108,7 +108,7 @@ If you mean *problem*, you should just write *problem*. Many people use *issue* 
 
 #### *less* vs. *fewer*
 
-See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) "Use *fewer* when referring to individual or countable things (*fewer than ten chairs*, *fewer questions asked by judges*). Use *less* when referring to volume, quantity, or degree (*less influence on the jurors*), mass or bulk nouns (*less water in the glass*), or units of measure or time (*less than three ounces,* *less than five months*). There is one exception: use *less* when count nouns are really being used as amounts instead of individual increments (he has *less* than one million dollars*, *e have less than two minutes of rebuttal time*)."
+See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) "Use *fewer* when referring to individual or countable things (*fewer than ten chairs*, *fewer questions asked by judges*). Use *less* when referring to volume, quantity, or degree (*less influence on the jurors*), mass or bulk nouns (*less water in the glass*), or units of measure or time (*less than three ounces,* *less than five months*). There is one exception: use *less* when count nouns are really being used as amounts instead of individual increments (he has *less* than one million dollars*, *We have less than two minutes of rebuttal time*)."
 
 #### *Look at/looking at*
 These are vague phrases. If you mean something like *analyze* or *examine*, use forms of those verbs.
@@ -145,7 +145,7 @@ I favor the serial comma (aka “Oxford comma") because it enhances clarity. [De
 #### *that* vs. *which*
 In American usage, favor *that* over  *which,* unless you have a nonrestrictive [i.e., not necessary to the sentence] clause. The basic rule: Use *which* plus commas to  set off nonrestrictive (unnecessary) clauses; use *that* to introduce a restrictive (necessary) clause. EXAMPLE OF NONRESTRICTIVE CLAUSE: Queso dip, which is a favorite among Austinites, can be either smooth or chunky. EXAMPLE OF RESTRICTIVE CLAUSE: Queso dip that contains too much Velveeta is called "fake queso dip." Bryan Garner offers [more advice](http://www.lawprose.org/garners-usage-tip-of-the-day-that-1/).
 #### *that*, wrongly suppressed
-Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating a miscue or an ambiguity, even if only momentarily. In particular, the conjunction that should usually be retained to introduce clauses following verbs such as *acknowledge, ask, believe, claim, doubt, hold, indicate, say*, and *suggest*. [More here on the "wrongly suppressed *that*":](http://abovethelaw.com/career-files/lawprose-lesson-127-wrongly-suppressed-that/)
+Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating a miscue or an ambiguity, even if only momentarily. In particular, the conjunction that should usually be retained to introduce clauses following verbs such as *acknowledge, ask, believe, claim, doubt, hold, indicate, say*, and *suggest*. [More here on the "wrongly suppressed *that*](http://abovethelaw.com/career-files/lawprose-lesson-127-wrongly-suppressed-that/).
 #### TV titles
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 
@@ -159,5 +159,5 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 # W
 
 #### *who, whom*
-“Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom) 
+“Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom).
 
