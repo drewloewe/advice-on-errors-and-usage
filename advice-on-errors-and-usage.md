@@ -42,7 +42,7 @@ A cliche can be any overused metaphor, word, or phrase that you've heard or read
 
 
 #### comma after introductory element
-Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: **Before I could kill Count Dracula,** I had to find a wooden stake. Introductory elements often (but not always) require a comma. [The Purdue OWL explains more here](https://owl.english.purdue.edu/owl/resource/607/03/).
+Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: ***Before I could kill Count Dracula,** I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [The Purdue OWL explains more here](https://owl.english.purdue.edu/owl/resource/607/03/).
 #### comma splice
 If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences.You have several options to rework a comma splice. See [this advice from a textbook](http://bcs.bedfordstmartins.com/everyday_writer3e/20errors/8.html) for help. 
 
