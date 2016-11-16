@@ -173,5 +173,5 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 # W
 
 #### *who, whom*
-“Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom).
+Mignon Fogarty: “Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom).
 
