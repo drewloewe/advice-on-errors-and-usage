@@ -108,7 +108,7 @@ An "indirect quote" is a source quoted in another source. For example, suppose S
 #### *issue* vs. *problem*
 If you mean *problem*, you should just write *problem*. Many people use *issue* as a synonym, but it's imprecise. Rework.  
 #### *its* vs. *it's*: 
-*Its* is the possessive of *it*: The monkey played with its tail. *It's* is a contraction for *it is*: It's important to know how to cook.
+*Its* is the possessive of *it*: *The monkey played with its tail*. *It's* is a contraction for *it is*: *It's important to know how to cook.*
 
 # L 
 
