@@ -38,7 +38,7 @@ A “buried” verb is a noun that is really a verb or adjective in disguise, of
 # C
 
 #### capitalization
-The [Purdue OWL explains the rules for using capital letters](https://owl.english.purdue.edu/owl/resource/592/1/).
+The [Purdue OWL explains the rules for using capital letters](https://owl.english.purdue.edu/owl/resource/592/1/). NB: When referring to someone by title, capitalize the title if it precedes their name: *President Lincoln.* Don't capitalize titles that refer generically to the idea of the title: *College presidents need to listen to faculty.* Don't capitalize titles that come after the name: *Cruz is a senator who has not always gotten along with his own party.* But: *Senator Cruz*
 #### cliche
 A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, easier said than done, student-centered learning, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
 
