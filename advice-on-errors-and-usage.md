@@ -5,6 +5,8 @@ This guide is an ever-evolving list of advice on errors and usage. It's based on
 
 # A
 
+#### *is/was able to*
+Students often write, when describing something someone else did, wrote, or said, that the other person *is/was able to* do, write, or say such and such. If someone actually did something, then clearly they must have been able to do that thing. The problem is one of emphasis: is the emphasis on the thing that they did, or on their ability to do it? Compare: *Richard Sherman was able to intercept Tom Brady's pass, ending the Patriots' drive.// Richard Sherman intercepted Tom Brady's pass, ending the Patriots' drive.* In any event, *is/was able to* can often just become *can/could*. 
 #### *affect* vs. *effect*
 [Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 #### *a lot*
@@ -122,7 +124,7 @@ If you begin a sentence *Meaning that....*, you are probably trying to express s
 # P
 
 #### Paramedic Method
-Richard Lanham's famous Paramedic Method for revising sentences helps you to rework vague, wordy, bureaucratic-sounding prose. [The Purdue OWL explains this easy, effective method](https://owl.english.purdue.edu/owl/resource/635/01/) for tightening sentences and reworking wooly ideas. 
+Richard Lanham's famous Paramedic Method for revising sentences helps you to rework vague, wordy, bureaucratic-sounding prose. [The Purdue OWL explains this easy, effective method](https://owl.english.purdue.edu/owl/resource/635/01/) for tightening sentences and reworking wooly ideas. The Writing Center at the University of Wisconsin-Madison has [an excellent handout](http://writing.wisc.edu/Handbook/CCS_wordyphrases.html) on tightening wordy phrases.
 #### passive voice
 You should have a strong bias favoring active voice (*Lincoln delivered the speech*) over passive voice (*The speech was delivered by Lincoln*), unless you have a specific reason for using passive voice. Passive voice is not **wrong**; it’s just (usually) weaker. For more details, see [this handout from our Writing Center](https://sites.stedwards.edu/writing/files/2015/09/St.-Edwards-Univ-Writing-Center-Handout-on-Passive-Voice-19nzb1n.pdf). 
 #### people vs entities: pronouns
