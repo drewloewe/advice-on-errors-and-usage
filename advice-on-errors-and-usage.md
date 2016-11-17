@@ -134,9 +134,10 @@ Is it *it/its* or *they/theirs* when referring to groups of people, companies, c
 
 # Q
 
+#### quotation marks, single vs. double
+In American usage, double quotation marks start a quotation and single quotation marks are for material quoted inside that quote: *Jones agrees with this point, adding that "I often heard Dr. Doom claim that he was 'sure to vanquish that pesky Spider-Man' whenever Doom had a few too many Red Bulls" (67).* Use double quotations for those ironic, sarcastic quotation marks that distance you from the term or material within the quotation marks: *This "innovation" that the consultant touted is not worth the effort.* These are sometimes called *shudder quotes* and have the effect of adding "so-called": *This [so-called] "innovation.."* Use shudder quotes sparingly--a writer who leans too heavily on them comes off as snarky, hectoring, or tedious. 
 #### quotation marks with other punctuation 
 See [this resource on punctuation and quotation marks](https://owl.english.purdue.edu/owl/resource/577/03/) by the Purdue OWL. Students often mistakenly place periods and commas outside of quotation marks when they should be inside.
-
 #### *reach out to*
 *Reach out to* is voguish bizspeak for *contact, call, write*, or some other specific verb. *Reach out to* is becoming common usage, but many readers find it grating, vague, and wordy. A specific single verb is probably best.
 #### *relatable*
