@@ -167,7 +167,9 @@ In American usage, favor *that* over  *which,* unless you have a nonrestrictive 
 Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating a miscue or an ambiguity, even if only momentarily. In particular, the conjunction that should usually be retained to introduce clauses following verbs such as *acknowledge, ask, believe, claim, doubt, hold, indicate, say*, and *suggest*. [More here on the "wrongly suppressed *that*](http://abovethelaw.com/career-files/lawprose-lesson-127-wrongly-suppressed-that/).
 #### *they,* singular 
 [Bryan Garner has covered this masterfully](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-4/). I accept the singular *they* because it has a long history of use, it solves the English language's common-sex singular personal pronoun glitch, and it avoids sexism. The singular *they* can also be used to refer to people who don't identify as male or female. Much more on that [here](http://www.bbc.com/news/magazine-34901704).
-#### TV-show titles
+#### titles, periodicals
+Titles of periodicals (newspapers, magazines, scholarly journals) should be italicized: *New York Times,* the *Times* article, *Rhetoric Review,* *National Geographic,* *Lucky Peach.* 
+#### titles, TV shows
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 
 # U
