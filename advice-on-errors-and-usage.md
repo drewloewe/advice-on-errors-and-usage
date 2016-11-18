@@ -170,6 +170,10 @@ Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating
 #### TV-show titles
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 
+# U
+#### *use* vs *utilize*
+Some people [claim that there is a meaningful distinction between these words](http://throwgrammarfromthetrain.blogspot.com/2013/12/using-utilize-what-mavens-say.html), but I am not convinced. In my view, *utilize* is always inferior to *use* because it is bureucratic-sounding, elliptical, and unnecessarily burdensome.
+
 # V
 
 #### Verbs, precise
