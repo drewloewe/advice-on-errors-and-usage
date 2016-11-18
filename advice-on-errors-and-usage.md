@@ -133,6 +133,8 @@ Richard Lanham's famous Paramedic Method for revising sentences helps you to rew
 You should have a strong bias favoring active voice (*Lincoln delivered the speech*) over passive voice (*The speech was delivered by Lincoln*), unless you have a specific reason for using passive voice. Passive voice is not **wrong**; it’s just (usually) weaker. For more details, see [this handout from our Writing Center](https://sites.stedwards.edu/writing/files/2015/09/St.-Edwards-Univ-Writing-Center-Handout-on-Passive-Voice-19nzb1n.pdf). 
 #### people vs entities: pronouns
 Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? See [this advice](www.quickanddirtytips.com/education/grammar/people-versus-entities)
+#### *problematic*
+*Problematic* is often used to flag a statement, an idea, or a representation as wrong, pernicious, or troubling in some way, at least from the perspective of the person labeling it *problematic.* There's nothing inherently wrong with *problematic,* except it has been used so often and in so many contexts (ranging from the truly troubling to the mildly annoying or even frivolous) that it is in danger of devolving into a mere cliche. Bryan Garner has no problem with it, calling it "standard" usage (Source: *Garner's Modern English Usage*, 4th ed.), but one sees it so often in the humanities that it is in danger of becoming a placeholder for an argument rather than a precise term that enables argument. So: use with caution and consider rewording for precision. 
 
 # Q
 
