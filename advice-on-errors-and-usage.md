@@ -181,4 +181,7 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 
 #### *who, whom*
 Mignon Fogarty: “Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom).
+#### *who vs. that* 
+The [Purdue OWL summarizes the current thinking on *who* vs. *that*](https://owl.english.purdue.edu/owl/resource/645/01/): "When referring to people, both *that* and *who* can be used in informal language. *That* may be used to refer to the characteristics or abilities of an individual or a group of people: *He is the kind of person that/who will never let you down.*[...] However, when speaking about a particular person in formal language, *who* is preferred: *The old lady who lives next door is a teacher.*" In my opinion, using *who* for people preserves something special about being a person, if indeed there is something special about being a person--certainly, many people still think so. *That* sounds a bit like you're referring to an object, so it's frowned upon slightly in some quarters. Technically, though, *that* is correct and has a long history of usage. 
+
 
