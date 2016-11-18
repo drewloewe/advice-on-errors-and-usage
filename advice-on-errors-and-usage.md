@@ -37,14 +37,14 @@ A “buried” verb is a noun that is really a verb or adjective in disguise, of
 
 # C
 
-#### capitalization
-The [Purdue OWL explains the rules for using capital letters](https://owl.english.purdue.edu/owl/resource/592/1/). NB: When referring to someone by title, capitalize the title if it precedes their name: *President Lincoln.* Don't capitalize titles that refer generically to the idea of the title: *College presidents need to listen to faculty.* Don't capitalize titles that come after the name: *Cruz is a senator who has not always gotten along with his own party.* But: *Senator Cruz*
+#### capitalization, general
+The [Purdue OWL explains the rules for using capital letters](https://owl.english.purdue.edu/owl/resource/592/1/). NB: When referring to someone by title, capitalize the title if it precedes their name: *President Lincoln.* Don't capitalize titles that refer generically to the idea of the title: *College presidents need to listen to faculty.* Don't capitalize titles that come after the name: *Ted Cruz is a senator who has not always gotten along with his own party.* But: *Senator Cruz spoke at the luncheon.* 
+#### capitalization, *armed forces*
+"Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed-forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
 #### capitalization of *Black/black, White/white*, etc.
 This is a fraught issue and I have read well-reasoned arguments for and against capitalization. The *Columbia Journalism Review* offers [a good discussion](http://www.cjr.org/analysis/language_corner_1.php) of the issues and choices involved. 
 #### cliche
 A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, easier said than done, student-centered learning, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
-
-
 #### comma after introductory element
 Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [The Purdue OWL explains more here](https://owl.english.purdue.edu/owl/resource/607/03/).
 #### comma splice
