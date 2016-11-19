@@ -43,6 +43,8 @@ The [Purdue OWL explains the rules for using capital letters](https://owl.englis
 "Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed-forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
 #### capitalization of *Black/black, White/white*, etc.
 This is a fraught issue and I have read well-reasoned arguments for and against capitalization. The *Columbia Journalism Review* offers [a good discussion](http://www.cjr.org/analysis/language_corner_1.php) of the issues and choices involved. 
+#### classic style
+Classic style, a term coined by Francis Noel-Thomas and Mark Turner, describes a middle style between informal and formal. It aims for clarity and economy of expression. The goal is to make writing sound like educated speech (not stuff speech, not highfalutin' speech) and to create a confident, thoughtful persona through stylistic choices. [Much more on classic style, including caveats](http://drewloewe.net/prose-style/), can be found on my website. I also encourage you to [read more about it from Thomas and Turner themselves](http://drewloewe.net/prose-style/).
 #### cliche
 A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, easier said than done, student-centered learning, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
 #### comma after introductory element
@@ -71,7 +73,7 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 # E
 
 #### existential filler
-A *There is...* or *there are* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* 
+A *There is...* or *There are...* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* 
 
 # F
 
