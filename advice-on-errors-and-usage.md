@@ -189,7 +189,8 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 *Very* with an adjective usually signals a weak construction that should be tightened with more precise word choice. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*).
 
 # W
-
+#### *whether or not*
+Bryan Garner reminds us that "Despite the superstition to the contrary, the words *or not* are usually superfluous, sinces *whether* implies *or not.*" But, he adds, "*or not* is necessary when *whether or not* means 'regarless of whether' [e.g.,] *the meeting will go on whether or not it rains*." More than half of the student uses of *whether* that I've seen are of the first kind, making *or not* superfluous. 
 #### *who, whom*
 Mignon Fogarty: “Like *whom*, the pronoun *him* ends with *m*. When you're trying to decide whether to use *who* or *whom*, ask yourself if the answer to the question could be *he* or *him*. That's the trick: if you can answer the question being asked with *him*, use *whom*, and it's easy to remember because they both end with *m*.” [See more](http://www.quickanddirtytips.com/education/grammar/who-versus-whom).
 #### *who vs. that* 
