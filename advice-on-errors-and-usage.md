@@ -125,7 +125,7 @@ These are vague phrases. If you mean something like *analyze* or *examine*, use 
 #### *Meaning that*
 If you begin a sentence *Meaning that....*, you are probably trying to express something like *In other words,...* *Meaning that....* usually indicates a sentence fragment.
 #### *medium/media*
-*Media* as a mass noun is perfectly okay: *The media are investigating Anthony Weiner's tweets.* When referring to a single medium, such as TV, radio, etc., use *medium.* When referring to more than one medium, use *media,* never *mediums*: *Shep Gordon has promoted a variety of artists in several media: live performance, television, films, and books.* *Mediums* is the plural of *medium,* i.e., a person who claims to be in contact with the spirit world: *Madame Xsaya is a medium who charges $500 for a seance* or sizes of things: *Old Navy was sold out of XL T-shirts--I could only find mediums.* 
+*Media* as a mass noun is perfectly okay: *The media are investigating Anthony Weiner's tweets.* When referring to a single medium, such as TV, radio, etc., use *medium.* When referring to more than one medium, use *media,* never *mediums*: *Shep Gordon has promoted a variety of artists in several media: live performance, television, films, and books.* *Mediums* is the plural of *medium,* i.e., a person who claims to be in contact with the spirit world: *Madame Xsaya is a medium who charges $500 for a seance* or sizes of things: *Old Navy was sold out of large T-shirts--I could only find mediums.* 
 
 # P
 
