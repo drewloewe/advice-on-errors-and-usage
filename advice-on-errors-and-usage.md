@@ -117,7 +117,8 @@ If you mean *problem*, you should just write *problem*. Many people use *issue* 
 #### *less* vs. *fewer*
 
 See [this advice from Bryan Garner:](http://www.lawprose.org/lawprose-lesson-144-less-vs-fewer/]) "Use *fewer* when referring to individual or countable things (*fewer than ten chairs*, *fewer questions asked by judges*). Use *less* when referring to volume, quantity, or degree (*less influence on the jurors*), mass or bulk nouns (*less water in the glass*), or units of measure or time (*less than three ounces,* *less than five months*). There is one exception: use *less* when count nouns are really being used as amounts instead of individual increments (he has *less* than one million dollars*, *We have less than two minutes of rebuttal time*)."
-
+#### *like* vs. *such as*
+Strict usage sticklers insist that *like* (in this sense) means "similar to," while *such as* introduces examples. Compare: *I like restaurants like La Casa Bonita* (restaurants similar to Casa Bonita) vs. *I like restaurants such as Casa Bonita* (restaurants in general, of which Casa Bonita is an example). This so-called rule may never have been a rule in the first place, but some readers insist upon it. In general, it might be a good idea to ask whether you mean to focus on the class of things (drawing similarities) or on examples and choose accordingly. I have read that academic writing favors *such as* because it often uses examples, but I have not seen the support for that position myself. A [history and synopsis of this usage question](http://www.grammarphobia.com/blog/2012/02/like-such-as.html) can be found at the Grammarphobia blog. 
 #### *Look at/looking at*
 These are vague phrases. If you mean something like *analyze* or *examine*, use forms of those verbs.
 
