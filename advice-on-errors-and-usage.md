@@ -189,6 +189,8 @@ Titles of periodicals (newspapers, magazines, scholarly journals) should be ital
 In MLA style, film titles are italicized: *The Godfather*, *Shrek*, *Sharknado*. Other styles, such as the *New York Times* style sheet, use double quotation marks: "The Godfather," "Shrek," "Sharknado."
 #### titles, TV shows
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
+#### *try and*
+*Try and* is an accepted informal way of expressing *try to.* If you use *try and,* ask yourself if the overall genre, purpose, tone, and style of the document is formal or informal. Consider changing *try and* to *try to.* 
 
 # U
 #### *use* vs *utilize*
