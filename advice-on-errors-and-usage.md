@@ -182,7 +182,7 @@ Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating
 #### titles, periodicals
 Titles of periodicals (newspapers, magazines, scholarly journals) should be italicized: *New York Times,* the *Times* article, *Rhetoric Review,* *National Geographic,* *Lucky Peach.* 
 #### titles, films
-Film titles are italicized: *The Godfather*, *Shrek*, *Citizen Kane*.
+In MLA style, film titles are italicized: *The Godfather*, *Shrek*, *Sharknado*. Other styles, such as the *New York Times* style sheet, use double quotation marks: "The Godfather," "Shrek," "Sharknado."
 #### titles, TV shows
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 
