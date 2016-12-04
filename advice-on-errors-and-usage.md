@@ -128,6 +128,10 @@ If you begin a sentence *Meaning that....*, you are probably trying to express s
 #### *medium/media*
 *Media* as a mass noun is perfectly okay: *The media are investigating Anthony Weiner's tweets.* When referring to a single medium, such as TV, radio, etc., use *medium.* When referring to more than one medium, use *media,* never *mediums*: *Shep Gordon has promoted a variety of artists in several media: live performance, television, films, and books.* *Mediums* is the plural of *medium,* i.e., a person who claims to be in contact with the spirit world: *Madame Xsaya is a medium who charges $500 for a seance* or sizes of things: *Old Navy was sold out of large T-shirts--I could only find mediums.* 
 
+# N
+#### names
+When referring to someone by name, use first name and last name the first time you mention them (*Kenneth Burke*), then last name from that point forward (*Later, Burke adds that....*). You don't need to keep repeating their first and last names together. If you have two people with the same last name, you'll have to bend this rule so as to keep clear who you mean.
+
 # P
 
 #### Paramedic Method
