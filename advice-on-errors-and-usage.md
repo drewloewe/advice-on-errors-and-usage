@@ -132,7 +132,9 @@ If you begin a sentence *Meaning that....*, you are probably trying to express s
 
 # N
 #### names
-When referring to someone by name, use first name and last name the first time you mention them (*Kenneth Burke*), then last name from that point forward (*Later, Burke adds that....*). You don't need to keep repeating their first and last names together. If you have two people with the same last name, you'll have to bend this rule so as to keep clear who you mean.
+When referring to someone by name, use first name and last name the first time you mention them (*Kenneth Burke*), then last name from that point forward (*Later, Burke adds that....*). You don't need to keep repeating their first and last names together. If you have two people with the same last name, you'll have to bend this rule so as to keep clear who you mean. 
+
+Watch out when you use first names--generally, most analytical or expository writing uses last names. Using someone's first name often creates a tone problem, a problem that is magnified if you refer to men as *Mr. So and So*, but revert to first names when referring to women by their first names.
 
 # P
 
