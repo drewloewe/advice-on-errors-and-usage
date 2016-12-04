@@ -6,7 +6,7 @@ This guide is an ever-evolving list of advice on errors and usage. It's based on
 # A
 
 #### *is/was able to*
-When describing something someone else did, wrote, or said, students often write that the other person *is/was able to* do, write, or say such and such. If someone actually did something, then it follows that they must have been able to do that thing. The problem is one of emphasis: is the emphasis on the thing that they did, or on their ability to do it? Compare: *Richard Sherman was able to intercept Tom Brady's pass, ending the Patriots' drive.// Richard Sherman intercepted Tom Brady's pass, ending the Patriots' drive.* In any event, when you truly want to focus on ability to do something more than on the thing actually done, *is/was able to* should become *can/could*. 
+When describing something someone else did, wrote, or said, students often write that the other person *is/was able to* do, write, or say such and such. If someone actually did something, then it follows that they must have been able to do that thing. The problem is one of emphasis: is the emphasis on the thing that they did, or on their ability to do it? Compare: *Richard Sherman was able to intercept Tom Brady's pass, ending the Patriots' drive.// Richard Sherman intercepted Tom Brady's pass, ending the Patriots' drive.* Where do you want the emphasis? If some precondition is or was necessary to the action, and you want to bring all that out in your sentence, *is/was able to* can be okay: *By watching the receiver's eyes, Richard Sherman was able to time his jump just right to intercept Tom Brady's pass.* 
 #### *affect* vs. *effect*
 [Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 #### *a lot*
