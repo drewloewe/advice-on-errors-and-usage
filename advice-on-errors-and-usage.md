@@ -9,6 +9,8 @@ This guide is an ever-evolving list of advice on errors and usage. It's based on
 When describing something someone else did, wrote, or said, students often write that the other person *is/was able to* do, write, or say such and such. If someone actually did something, then it follows that they must have been able to do that thing. The problem is one of emphasis: is the emphasis on the thing that they did, or on their ability to do it? Compare: *Richard Sherman was able to intercept Tom Brady's pass, ending the Patriots' drive.// Richard Sherman intercepted Tom Brady's pass, ending the Patriots' drive.* Where do you want the emphasis? If some precondition is or was necessary to the action, and you want to bring all that out in your sentence, *is/was able to* can be okay: *By watching the receiver's eyes, Richard Sherman was able to time his jump just right to intercept Tom Brady's pass.* 
 #### *affect* vs. *effect*
 [Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
+#### *aforementioned*
+Assuming that the reference to something that came before is clear (is it?), this stuffy, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* rewrite for clarity. 
 #### *a lot*
 *A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) Generally, in formal writing, *a lot* comes across as vague or imprecise. Try reworking it. Also, *alot* is always wrong.
 #### *and/or*
