@@ -10,7 +10,7 @@ When describing something someone else did, wrote, or said, students often write
 #### *affect* vs. *effect*
 [Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 #### *aforementioned*
-Assuming that the reference to something that came before is clear (is it?), this stuffy, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* rewrite for clarity. 
+Assuming that the reference to something that came before is clear (is it?), this stuffy, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* which creates tone problems, rewrite for clarity.
 #### *a lot*
 *A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) Generally, in formal writing, *a lot* comes across as vague or imprecise. Try reworking it. Also, *alot* is always wrong.
 #### *and/or*
