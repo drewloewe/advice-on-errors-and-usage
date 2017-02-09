@@ -191,7 +191,7 @@ Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating
 Titles of periodicals (newspapers, magazines, scholarly journals) should be italicized: *New York Times,* the *Times* article, *Rhetoric Review,* *National Geographic,* *Lucky Peach.* 
 #### titles, films
 In MLA style, film titles are italicized: *The Godfather*, *Shrek*, *Sharknado*. Other styles, such as the *New York Times* style sheet, use double quotation marks: "The Godfather," "Shrek," "Sharknado."
-### titles, music
+#### titles, music
 In MLA style, song titles are set off with quotation marks: "Welcome to the Terrordome," "Smells Like Teen Spirit." Album titles are italicized: *Houses of the Holy,* *Q: Are We Not Men? A: We are Devo!*
 #### titles, TV shows
 Italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
