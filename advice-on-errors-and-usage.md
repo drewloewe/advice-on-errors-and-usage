@@ -99,7 +99,7 @@ GSAs (*technology, human nature, today's society, the youth of today, this moder
 # H
 
 #### hyphenating phrasal adjectives
-Phrasal adjective (phrases being used as adjectives) should generally be hyphenated, e.g., last-known address. [Bryan Garner explains more, with examples](http://www.lawprose.org/lawprose-lesson-151-the-art-of-hyphenating-phrasal-adjectives). That post is written for lawyers, but is applicable to any expository writer. **It also lists the exceptions to the general rule.**
+Phrasal adjectives (phrases being used as adjectives) should generally be hyphenated, e.g., last-known address. [Bryan Garner explains more, with examples](http://www.lawprose.org/lawprose-lesson-151-the-art-of-hyphenating-phrasal-adjectives). That post is written for lawyers, but is applicable to any expository writer. **It also lists the exceptions to the general rule.**
 
 # I
 
