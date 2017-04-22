@@ -111,6 +111,8 @@ Never end a paper or other project with *In conclusion* or *In summary* because 
 For some reason, students seem to love to write the word *incredibly.* I had a paper recently that had seven instances of *incredibly* in four pages. *Incredibly* is imprecise and should usually be changed or cut. Much like *very,* *incredibly* usually signals a phrase that can be replaced by a well-chosen adjective. 
 #### indirect quote
 An "indirect quote" is a source quoted in another source. For example, suppose Source A quotes and cites Source B, but you don't have Source B yourself. In MLA style use *qtd. in* to indicate the source you actually used. For example: Sherman contends that "Writing centers across the country have struggled with the problem of securing adequate resources" (qtd. in Jefferson 493). That construction signals that you are using the quotation and citation to Sherman from p. 493 of Jefferson, but you are not using the original Sherman source itself. NB: Except for use of textbook-type materials, a good researcher will try to find the original source, rather than relying on indirect quotes. In any case, you have to accurately attribute quotes to their actual sources. 
+#### *infamous*
+Be sure that you really mean *infamous,* which has negative connotations. Often, students write *infamous* when they mean *famous*. Merriam-Webster Dictionaries [explains the two words' meaning](https://www.merriam-webster.com/words-at-play/infamous-vs-famous).
 #### *in order to*, *in order for*
 *In order to* and *in order for* can usually be cut to *to* or *for* without losing meaning. Try cutting and see whether you think it works.
 #### *issue* vs. *problem*
