@@ -99,6 +99,8 @@ If you have two clauses that could each stand alone as individual sentences but 
 
 # G
 
+#### *ghetto*
+Use this word with caution, and only as a noun. [Here's why.](http://www.chronicle.com/blogs/linguafranca/2016/03/08/sanders-in-the-ghetto/)
 #### GSAs--Giant Squishy Abstractions
 GSAs (*technology, human nature, today's society, the youth of today, this modern age*, etc.) are enemies of precision and clarity. They are huge abstract concepts that are, necessarily, almost impossible to wrestle with in most of your projects. How might you refine, clarify, and refocus?
 
