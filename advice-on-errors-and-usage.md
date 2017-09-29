@@ -111,8 +111,8 @@ Phrasal adjectives (phrases being used as adjectives) should generally be hyphen
 As usage expert Paul Brians argues, "Many people in business and education like to speak of things that have an impact as being 'impactful,' but this term does not appear in most dictionaries and is not well thought of by traditionalists. Use 'influential' or 'effective' instead." *Impactful* may be in dictionaries by now, but some usage experts (and I) consider it yet another awful corporate buzzword (e.g., *Let's reach out for some impactful metrics in our mobile, disruptive, next-gen solutions brainstorming.*). Take Brians' suggestions re: *influential* or *effective.*
 #### *In conclusion*, *In summary*
 Never end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [good advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/)
-#### *incredibly*
-For some reason, students seem to love to write the word *incredibly.* I had a paper recently that had seven instances of *incredibly* in four pages. *Incredibly* is imprecise and should usually be changed or cut. Much like *very,* *incredibly* usually signals a phrase that can be replaced by a well-chosen adjective. 
+#### *incredible,* *incredibly*
+For some reason, students seem to love to write *incredible* and *incredibly.* I had a paper recently that had seven instances of *incredibly* in four pages. These words are hyperbolic, imprecise, and should usually be replaced. Much like the overused word *very,* *incredibly* usually signals a phrase that can be cut and then replaced by a single well-chosen adjective. 
 #### indirect quote
 An "indirect quote" is a source quoted in another source. For example, suppose Source A quotes and cites Source B, but you don't have Source B yourself. In MLA style use *qtd. in* to indicate the source you actually used. For example: Sherman contends that "Writing centers across the country have struggled with the problem of securing adequate resources" (qtd. in Jefferson 493). That construction signals that you are using the quotation and citation to Sherman from p. 493 of Jefferson, but you are not using the original Sherman source itself. NB: Except for use of textbook-type materials, a good researcher will try to find the original source, rather than relying on indirect quotes. In any case, you have to accurately attribute quotes to their actual sources. 
 #### *infamous*
@@ -213,7 +213,7 @@ Some people [claim that there is a meaningful distinction between these words](h
 #### Verbs, precise
 Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://studentsuccess.asu.edu/sites/default/files/Annotation%20Verbs.pdf) that you will find useful in replacing weak verbs.
 #### very
-*Very* with an adjective usually signals a weak construction that should be tightened with more precise word choice. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*).
+*Very* followed by an adjective usually signals a weak construction that should be tightened with more precise word choice. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*).
 #### very unique
 *Very unique* is a phrase that should be used with caution in edited writing. [The folks at Merriam-Webster explain why](https://www.merriam-webster.com/words-at-play/very-unique-and-absolute-adjectives) (scroll to bottom of page).
 
