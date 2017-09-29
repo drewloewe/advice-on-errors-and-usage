@@ -79,7 +79,7 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 
 
 # E
-#### editorial *we*/royal *we
+#### editorial *we*/royal *we*
 As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *we* and *our* when no one else is involved." In the same vein, but with more humor, Mark Twain argues: "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'" Rework.
 
 #### existential filler
