@@ -154,7 +154,7 @@ Watch out when you use first names--generally, most analytical or expository wri
 Richard Lanham's famous Paramedic Method for revising sentences helps you to rework vague, wordy, bureaucratic-sounding prose. [The Purdue OWL explains this easy, effective method](https://owl.english.purdue.edu/owl/resource/635/01/) for tightening sentences and reworking wooly ideas. The Writing Center at the University of Wisconsin-Madison has [an excellent handout](http://writing.wisc.edu/Handbook/CCS_wordyphrases.html) on tightening wordy phrases.
 #### passive voice
 You should have a strong bias favoring active voice (*Lincoln delivered the speech*) over passive voice (*The speech was delivered by Lincoln*), unless you have a specific reason for using passive voice. Passive voice is not **wrong**; it’s just (usually) weaker. For more details, see [this handout from our Writing Center](https://sites.stedwards.edu/writing/files/2015/09/St.-Edwards-Univ-Writing-Center-Handout-on-Passive-Voice-19nzb1n.pdf). 
-#### *per,* *as per*
+#### *per,* *as per,* *as per usual/per usual*
 I agree with Bryan Garner that *per* is an avoidable Latinism that should simply be replaced with *under, *according to,* or the like. *As per* is doubly clunky since it is both a Latinism and redundant bit of bizspeak, giving the reader nothing more than the already-clunky *per* gives. Finally, as Garner argues (and I agree), the phrase *as per usual/per usual* is "an embarassing barbarism" that one should never write. 
 
 #### people vs entities: pronouns
