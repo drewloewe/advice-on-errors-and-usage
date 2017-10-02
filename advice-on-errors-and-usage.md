@@ -66,6 +66,8 @@ Don't begin a conclusion to an essay by writing "In conclusion," "In summary," o
 Do not use an apostrophe before the *s* in a decade. Incorrect: *1970's*; Correct: *1970s.* However, you do use an apostrophe to signal omission of the first part of a decade: *the '60s*
 #### *detract* vs. *deter*
 As Bryan Garner explains, *detract* can mean *to divert,* but it's much more commonly used to mean *to take something away from* (*The flies buzzing around the room detracted from my enjoyment of the tasting menu at Chez Louis*). Garner explains that the less-common use of *detract* is much better expressed as *distract*: *Some claim that Trump hopes that his tweets will ~~detract~~ distract attention from his scandals*. Sometimes, students write *detract* when they mean *deter*: *This policy change could ~~detract~~ deter students from signing up for those classes.*
+#### *disconnect* as noun
+Although this sort of shift in function (*disconnect* is first a verb, not a noun) is a feature of our evolving language, *disconnect* as a noun (e.g., *There's a disconnect between what the front office wants and what's going on in the warehouse"*) may be too faddish and loose for some audiences, at least right now. Through simple day-to-day speech and writing, *disconnect* as a noun may well soon pass without notice as unimpeachable usage, but it isn't quite there yet.
 #### dropped quote
 Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
 
