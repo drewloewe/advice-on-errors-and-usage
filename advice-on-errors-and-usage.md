@@ -230,7 +230,7 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 #### *whether or not*
 Bryan Garner reminds us that "Despite the superstition to the contrary, the words *or not* are usually superfluous, sinces *whether* implies *or not.*" But, he adds, "*or not* is necessary when *whether or not* means 'regarless of whether' [e.g.,] *the meeting will go on whether or not it rains*." More than half of the student uses of *whether* that I've seen are of the first kind, making *or not* superfluous. 
 #### *who, whom*
-[Bryan Garner offers some excellent advice.](http://www.lawprose.org/lawprose-lesson-176-who-vs-whom/). 
+[Bryan Garner offers some excellent advice.](http://www.lawprose.org/lawprose-lesson-176-who-vs-whom/)
 #### *who vs. that* 
 The [Purdue OWL summarizes the current thinking on *who* vs. *that*](https://owl.english.purdue.edu/owl/resource/645/01/): "When referring to people, both *that* and *who* can be used in informal language. *That* may be used to refer to the characteristics or abilities of an individual or a group of people: *He is the kind of person that/who will never let you down.*[...] However, when speaking about a particular person in formal language, *who* is preferred: *The old lady who lives next door is a teacher.*" In my opinion, using *who* for people preserves something special about being a person, if indeed there is something special about being a person--certainly, many people still think so. *That* sounds a bit like you're referring to an object, so it's frowned upon slightly in some quarters. Technically, though, *that* is correct and has a long history of usage. 
 #### *would be* as odd substitute for *is*
