@@ -56,7 +56,7 @@ Bryan Garner explains [the basics of handling this tricky situation](http://www.
 #### comma after introductory element
 Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [The Purdue OWL explains more here](https://owl.english.purdue.edu/owl/resource/607/03/).
 #### comma splice
-If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice from a textbook](http://bcs.bedfordstmartins.com/everyday_writer3e/20errors/8.html) for help. 
+If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice from the Purdue OWL](https://owl.english.purdue.edu/engagement/2/1/34/) for help. 
 #### conclusions
 Don't begin a conclusion to an essay by writing "In conclusion," "In summary," or some such. As the Harvard Writing Center explains: "These phrases can be useful--even welcome--in oral presentations. But readers can see, by the tell-tale compression of the pages, when an essay is about to end. You'll irritate your audience if you belabor the obvious."
 
