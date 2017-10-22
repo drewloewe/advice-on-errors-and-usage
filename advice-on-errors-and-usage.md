@@ -162,7 +162,7 @@ You should have a strong bias favoring active voice (*Lincoln delivered the spee
 I agree with Bryan Garner that *per* is an avoidable Latinism that should simply be replaced with *under*, *according to,* or the like. *As per* is doubly clunky since it is both a Latinism and redundant bit of bizspeak, giving the reader nothing more than the already-clunky *per* gives. Finally, as Garner argues (and I agree), the phrase *as per usual/per usual* is "an embarassing barbarism" that one should never write. 
 #### people vs entities: pronouns
 Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? See [this advice](www.quickanddirtytips.com/education/grammar/people-versus-entities)
-### *principal* vs *principle*
+#### *principal* vs *principle*
 Writers often confuse these two words. They have nothing to do with each other, though they sound alike. Bryan Garner explains that *principle* is most commonly a noun (e.g., *the principle of charity,* *the Peter principle*), but *principal* can be an adjective meaning "first or most important" (*the principal reason she lost the case*) or a noun (e.g., *the school principal*). 
 #### *problematic*
 *Problematic* is often used to flag a statement, an idea, or a representation as wrong, pernicious, or troubling in some way, at least from the perspective of the person labeling it *problematic.* There's nothing inherently wrong with *problematic,* except it has been used so often and in so many contexts (ranging from the truly troubling to the mildly annoying or even frivolous) that it is in danger of devolving into a mere cliche. Bryan Garner has no problem with it, calling it "standard" usage (Source: *Garner's Modern English Usage*, 4th ed.). But it has become so common and so readily deployed that--at least in my opinion--it is in danger of becoming a placeholder for an argument rather than a precise term that enables argument. So: use with caution and consider rewording for precision. 
@@ -193,6 +193,8 @@ If even one of the individual items in a list has a comma, separate all list ite
 I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](http://www.oxforddictionaries.com/words/what-is-the-oxford-comma)
 #### sexist language
 [Garner offers strategies](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-3/) for reworking sentences to avoid a generic masculine pronoun and for [handling words that traditionally end in -man](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-5/) (e.g., *fireman* becomes *firefighter*). 
+#### *significant*
+*Significant* has become a fraught word because of abuses and misunderstandings of the concept of **statistical significance**, which [Diane F. Halpern explains here](https://www.edge.org/response-detail/11693), [Charles Seife explains here](https://www.edge.org/response-detail/25414) and from confusions about the related concept of effect size, which [Bruce Hood explains here](https://www.edge.org/response-detail/25414). Be sure to understand how any of your sources is using (or abusing) *significance* in the scientific sense, and consider alternative adjectives in your own writing. 
 
 
 # T
