@@ -194,7 +194,7 @@ I favor the serial comma (aka “Oxford comma") because it enhances clarity. [De
 #### sexist language
 [Garner offers strategies](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-3/) for reworking sentences to avoid a generic masculine pronoun and for [handling words that traditionally end in -man](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-5/) (e.g., *fireman* becomes *firefighter*). 
 #### *significant*
-*Significant* has become a fraught word because of abuses and misunderstandings of the concept of **statistical significance**, which [Diane F. Halpern explains here](https://www.edge.org/response-detail/11693), [Charles Seife explains here](https://www.edge.org/response-detail/25414) and from confusions about the related concept of effect size, which [Bruce Hood explains here](https://www.edge.org/response-detail/25414). Be sure to understand how any of your sources is using (or abusing) *significance* in the scientific sense, and consider alternative adjectives in your own writing. 
+*Significant* has become a fraught word because of abuses and misunderstandings of the concept of **statistical significance**, which [Diane F. Halpern explains here](https://www.edge.org/response-detail/11693), [Charles Seife explains here](https://www.edge.org/response-detail/25414), and from confusions about the related concept of effect size, which [Bruce Hood explains here](https://www.edge.org/response-detail/25414). Be sure to understand how any of your sources is using (or abusing) *significance* in the scientific sense, and consider alternative adjectives in your own writing. 
 
 
 # T
