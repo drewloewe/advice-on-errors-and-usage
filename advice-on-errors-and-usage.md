@@ -79,7 +79,7 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 #### *due to the fact that*
 *Due to the fact that* can always be switched to a simple *because*. 
 #### *dynamic*
-*Dynamic* as an adjective (*dynamic content*) and as a noun (*the family dynamic*) is often a vague buzzword. Can you reword to clarify?
+*Dynamic* as an adjective (*dynamic teaching*) and as a noun (*the family dynamic*) is often a vague buzzword. Can you reword to clarify?
 
 
 # E
