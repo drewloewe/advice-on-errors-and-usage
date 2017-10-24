@@ -34,6 +34,8 @@ Logically, nothing can be "based off of/off/around" something else. Just write *
 Begging the question is a logical fallacy of circular argument, e.g., "God created the world because the Bible says so." Using *beg the question* to mean *raise the question* is certain to annoy traditionalists (on this, I am a traditionalist) because they see it as imprecise. 
 #### *being that*
 Never write *being that* to mean *because.* Just write *because.*
+#### *blatant, blatantly*
+As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid* or another non-pejorative adjective describing something that stands out.
 #### Britishisms
 Avoid Britishisms (e.g., *colour, humour, whilst, centre, spilt*) in American contexts. 
 #### buried verb
