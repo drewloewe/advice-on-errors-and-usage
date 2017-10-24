@@ -59,6 +59,8 @@ Introductory elements are dependent clauses that set up, contextualize, or intro
 If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice from the Purdue OWL](https://owl.english.purdue.edu/engagement/2/1/34/) for help. 
 #### conclusions
 Don't begin a conclusion to an essay by writing "In conclusion," "In summary," or some such. As the Harvard Writing Center explains: "These phrases can be useful--even welcome--in oral presentations. But readers can see, by the tell-tale compression of the pages, when an essay is about to end. You'll irritate your audience if you belabor the obvious."
+#### court cases
+Italicize the names of parties in court cases, e.g., *Roe v. Wade,* both in MLA style and in legal citation style that you'll use if you take Legal Writing. 
 
 # D
 
