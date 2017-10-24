@@ -236,9 +236,9 @@ Some people [claim that there is a meaningful distinction between these words](h
 
 #### Verbs, precise
 Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://studentsuccess.asu.edu/sites/default/files/Annotation%20Verbs.pdf) that you will find useful in replacing weak verbs.
-#### very
+#### *very*
 *Very* should often be cut. It is usually a filler word. *Very* followed by an adjective usually signals a weak construction that should be tightened by cutting *very* and choosing a precise adjective. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*). 
-#### very unique
+#### *very unique*
 *Very unique* is a phrase that should be used with caution in edited writing. [The folks at Merriam-Webster explain why](https://www.merriam-webster.com/words-at-play/very-unique-and-absolute-adjectives) (scroll to bottom of page).
 
 # W
