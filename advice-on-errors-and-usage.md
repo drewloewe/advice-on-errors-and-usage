@@ -1,5 +1,7 @@
 Print a formatted PDF of any page of this repository by replacing the github.com part of the URL with gitprint.com, then hitting "enter." 
 
+NB: This guide assumes MLA citation style. MLA style is certainly not the only (or best) citation style, but it is widely used in humanities courses. In Legal Writing, though, we will use a version of the Texas "Greenbook" style. 
+
 ## Introduction
 This guide is an ever-evolving list of advice on errors and usage. It's based on the comments that I find myself giving to St. Edward's University students over and over. As a result, it reflects local concerns and my own biases and preferences. I hope that it's broad enough to be useful, but it can't be comprehensive (read Bryan Garner's *Modern English Usage* and the whole [Purdue OWL](https://owl.english.purdue.edu/owl/) if you want comprehensive). 
 
@@ -213,6 +215,8 @@ Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating
 [Bryan Garner has covered this masterfully](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-4/). I accept the singular *they* because it has a long history of use, it solves the English language's common-sex singular personal pronoun glitch, and it avoids sexism. The singular *they* can also be used to refer to people who don't identify as male or female. Much more on that [here](http://www.bbc.com/news/magazine-34901704).
 #### titles, periodicals
 Titles of periodicals (newspapers, magazines, scholarly journals) should be italicized: *New York Times,* the *Times* article, *Rhetoric Review,* *National Geographic,* *Lucky Peach.* 
+#### titles, articles in periodicals, chapters in edited collections of scholary essays
+Titles of articles in periodicals (newspapers, magazines, scholarly journals) and chapters in edited collections of scholarly essays should be in quotation marks, in title case, no italics, no bolding: Lucas, Brad E. and Drew M. Loewe. “Coordinating Citations and the Cartography of Knowledge: Finding True North in Five Scholarly Journals.” *The Changing of Knowledge in Composition: Contemporary Perspectives*, edited by Richard Gebhardt and Lance Massey, Utah State UP, 2011, pp. 264-82.
 #### titles, films
 In MLA style, film titles are italicized: *The Godfather*, *Shrek*, *Sharknado*. Other styles, such as the *New York Times* style sheet, use double quotation marks: "The Godfather," "Shrek," "Sharknado."
 #### titles, music
