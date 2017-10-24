@@ -194,6 +194,8 @@ See [this resource on punctuation and quotation marks](https://owl.english.purdu
 *Relatable* is a vague word that many readers, including me, dislike. When students use *relatable*, they usually mean to express something about identification, empathy, or appealing to an audience. Can you reword to be clearer? 
 ####  *relate to*
 That X "relates to" Y explains almost nothing. Here is an exaggerated illustration: I "relate to" the planet Neptune because we are in the same solar system. So what? Can you reword to be clearer? What is the exact relationship between X and Y?
+#### *reveal* as noun
+This reality-show buzzword is becoming more and more common in everyday parlance, but it often causes a weird tone in academic or professional writing, making it borrow a hackneyed TV trope ("the big reveal"). In writing, stick to using *reveal* just as a verb and find some other way to express the thought. 
 
 # S
 
