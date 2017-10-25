@@ -34,7 +34,7 @@ These phrases say nothing more than *now,* so you should probably just use *now.
 
 # B
 
-#### *based of,*based off of*, *based around*
+#### *based off*,*based off of*, *based around*
 Logically, nothing can be "based off of/off/around" something else. Just write *based on.*
 #### *begs the question* vs. *raises the question*
 Begging the question is a logical fallacy of circular argument, e.g., "God created the world because the Bible says so." Using *beg the question* to mean *raise the question* is certain to annoy traditionalists (on this, I am a traditionalist) because they see it as imprecise. 
