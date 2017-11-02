@@ -142,6 +142,10 @@ If you mean *problem*, you should just write *problem*. Many people use *issue* 
 #### *its* vs. *it's*: 
 *Its* is the possessive of *it*: *The monkey played with its tail*. *It's* is a contraction for *it is*: *It's important to know how to cook.*
 
+# J
+#### *judgment* vs. *judgement*
+In American spelling, it's *judgment.* 
+
 # L 
 
 #### *less* vs. *fewer*
