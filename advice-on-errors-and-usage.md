@@ -177,7 +177,7 @@ You should have a strong bias favoring active voice (*Lincoln delivered the spee
 #### *per,* *as per,* *as per usual/per usual*
 I agree with Bryan Garner that *per* is an avoidable Latinism that should simply be replaced with *under*, *according to,* or the like. *As per* is doubly clunky since it is both a Latinism and redundant bit of bizspeak, giving the reader nothing more than the already-clunky *per* gives. Finally, as Garner argues (and I agree), the phrase *as per usual/per usual* is "an embarassing barbarism" that one should never write. 
 #### people vs entities: pronouns
-Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? See [this advice](www.quickanddirtytips.com/education/grammar/people-versus-entities)
+Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? See [this advice](http://www.quickanddirtytips.com/education/grammar/people-versus-entities).
 #### *principal* vs *principle*
 Writers often confuse these two words. They have nothing to do with each other, though they sound alike. Bryan Garner explains that *principle* is most commonly a noun (e.g., *the principle of charity,* *the Peter principle*), but *principal* can be an adjective meaning "first or most important" (*the principal reason she lost the case*) or a noun (e.g., *the school principal*). 
 #### *problematic*
