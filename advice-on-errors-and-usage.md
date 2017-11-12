@@ -238,7 +238,7 @@ In MLA style, play titles are italicized: *The Book of Mormon,* *Hamlet,* *Gleng
 #### titles, TV shows
 In MLA style, italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 #### *try and*
-*Try and* is an accepted informal way of expressing *try to.* If you use *try and,* ask yourself if the overall genre, purpose, tone, and style of the document is formal or informal. Consider changing *try and* to *try to.* 
+*Try and* should probably be *try to*. While *try and* is an accepted informal and (especially) spoken form of expressing *try to,* you can never go wrong by writing *try to.* Oddly, *try and* is standard in UK usage, according to Garner. But in US academic or legal contexts, stick to *try to.* 
 
 # U
 #### *use* vs *utilize*
