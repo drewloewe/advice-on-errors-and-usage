@@ -99,7 +99,7 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *we* and *our* when no one else is involved." In the same vein, but with more humor, Mark Twain argues: "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'" Rework.
 
 #### existential filler
-A *There is...* or *There are...* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* 
+A *There is...* or *There are...* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* *There is* and *there are* in other places in a sentence also can indicate wordiness. Search for these phrases in your writing and see whether you should rework sentences that have them.
 
 # F
 
