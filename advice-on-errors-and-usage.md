@@ -44,7 +44,7 @@ Never write *being that* to mean *because.* Just write *because.*
 As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid* or another non-pejorative adjective describing something that stands out.
 #### Britishisms
 Avoid Britishisms (e.g., *colour, humour, whilst, centre, spilt*) in American contexts. 
-#### *braadcasted*
+#### *broadcasted*
 The past tense of *broadcast is *braadcast,* not *broadasted.* *Broadcasted* seems logical, but its usage in quality print sources is far outweighed by *broadcast.* So, *The show was broadcast on March 7, 1989* is correct. 
 #### buried verb
 A “buried” verb is a noun that is really a verb or adjective in disguise, often with a *–tion, -sion, -ment, -ence, -ance*, or *–ity* ending added (e.g., *realization* instead of *realize*). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
