@@ -19,6 +19,8 @@ When describing something someone else did, wrote, or said, students often write
 Assuming that the reference to something that came before is clear (is it?), this stuffy, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* which creates tone problems, rewrite for clarity.
 #### *a lot*
 *A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) Generally, in formal writing, *a lot* comes across as vague or imprecise. Try reworking it. Also, *alot* is always wrong.
+#### *alright* vs *all right*
+*Alright* is definitely not standard usage and is likely to be seen as a blunder by many audiences. In informal contexts and genres, nobody might care if you write *alright.* But in college and workplace writing, stick to *all right* as a two-word phrase and you'll be *all right.* 
 #### *and/or*
 Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### apostrophe error
