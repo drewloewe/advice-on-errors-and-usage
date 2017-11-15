@@ -26,7 +26,7 @@ Although some use people *and/or* as a crutch, don't use it in your own writing.
 #### apostrophe error
 The Purdue OWL [has some great advice on using apostrophes](https://owl.english.purdue.edu/owl/resource/621/01/).
 #### *as humans*, *we as humans*, *as people*
-These are abstract placeholders for ideas. Can we really be other than humans or experience anything other than as humans or people? Rework for clarity.
+These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut.
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
 #### *at this time* / *at this point in time*
