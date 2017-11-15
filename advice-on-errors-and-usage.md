@@ -99,7 +99,8 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 # E
 #### editorial *we*/royal *we*
 As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *we* and *our* when no one else is involved." In the same vein, but with more humor, Mark Twain argues: "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'" Rework.
-
+#### *elicit* and *illicit*
+*Elicit,* a verb, means "to bring forth," or to "draw out." *Illicit* is an adjective, meaning *illegal* or *not allowed.* Confusing the two is a credibility-harming error. More on these two words and how to keep their meanings clear [can be found on the Oxford Dictoniaries Blog](https://blog.oxforddictionaries.com/2014/03/31/elicit-illicit/).
 #### existential filler
 A *There is...* or *There are...* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* *There is* and *there are* in other places in a sentence also can indicate wordiness. Search for these phrases and similar ones (*there was, there were*) in your writing and see whether you should rework sentences that have them.
 
