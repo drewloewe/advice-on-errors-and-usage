@@ -125,6 +125,8 @@ GSAs (*technology, human nature, today's society, the youth of today, this moder
 
 # H
 
+#### *hone in [on]* vs. *home in [on]*
+*Hone in on* is technically wrong and always a bad choice in edited writing; the intended meaning is *home in on*, like a guided missile focuses on a target. In *Modern English Usage,* Bryan Garner explains that swapping *hone in* for *home in* is increasingly common, especially in spoken English, but is still considered a fault when one is trying to be precise (as I want you to be).
 #### hyphenating phrasal adjectives
 Phrasal adjectives (phrases being used as adjectives) should generally be hyphenated, e.g., last-known address. [Bryan Garner explains more, with examples](http://www.lawprose.org/lawprose-lesson-151-the-art-of-hyphenating-phrasal-adjectives). That post is written for lawyers, but is applicable to any expository writer. **It also lists the exceptions to the general rule.**
 
