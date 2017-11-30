@@ -176,6 +176,10 @@ When referring to someone by name, use first name and last name the first time y
 
 Watch out when you use first names--generally, most analytical or expository writing uses last names. Using someone's first name often creates a tone problem, a problem that is magnified if you refer to men as *Mr. So and So*, but revert to first names when referring to women (odd tone becomes sexist tone).
 
+# O
+#### *only* misplaced
+Bryan Garner argues that "The word *only* is probably misplaced more often than any other modifier," and Mignon Fogarty calls *only* "the most insidious misplaced modifier." Where *only* goes can radically alter the meaning of the sentence. See [the five examples here](http://www.shearsoneditorial.com/2012/02/adverb-placement-predominantly-mainly-mostly/). See also [Garner's advice](http://www.lawprose.org/lawprose-lesson-129-placement-of-only/). Read your writing aloud and ask yourself where the *only* should be placed to emphasize what you really meant to emphasize.
+
 # P
 
 #### Paramedic Method
