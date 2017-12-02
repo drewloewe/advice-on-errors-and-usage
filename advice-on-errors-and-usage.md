@@ -112,6 +112,8 @@ A *There is...* or *There are...* sentence-opener is usually mere filler that ca
 
 #### *female* as noun
 If you mean a human being, use *girl* or *woman*--whichever is age-appropriate. Only when writing scientifically or about animals should you use *female* as a noun, e.g., *These lab rats are the males; these are the females.* 
+#### *first and foremost*
+This construction feels like a redundant cliche. Just write *first*.
 #### fragment (sentence fragment)
 Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.english.purdue.edu/owl/resource/620/01/). 
 #### fused (aka run-on) sentence
