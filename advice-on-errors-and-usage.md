@@ -219,7 +219,7 @@ This reality-show buzzword is becoming more and more common in everyday parlance
 
 # S
 
-#### *said* [for *those* or *that*]
+#### *said* [for *this,* *those,* or *that*]
 If you mean *that* or *those*, write *that* or *those.* *Said* sounds like a legalese-loving attorney, not like a human being communicating something interesting.
 #### semicolons in series
 If even one of the individual items in a list has a comma, separate all list items with semicolons. 
