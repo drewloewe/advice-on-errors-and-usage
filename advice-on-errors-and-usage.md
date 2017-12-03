@@ -227,6 +227,8 @@ If even one of the individual items in a list has a comma, separate all list ite
 I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](http://www.oxforddictionaries.com/words/what-is-the-oxford-comma)
 #### sexist language
 [Garner offers strategies](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-3/) for reworking sentences to avoid a generic masculine pronoun and for [handling words that traditionally end in -man](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-5/) (e.g., *fireman* becomes *firefighter*). 
+#### *showcase*
+If you mean *show* or *demonstrate* or *establish,* you should just write those words. *Showcase* has become (to my mind, anyway), an overused and hyperbolic-sounding buzzword. 
 #### [*sic*]
 When a source truly misspells something or is ungrammatical, but you are quoting it exactly anyway for some good reason, use [*sic*] so readers know that the fault is not yours. [Bryan Garner offers more advice](http://www.lawprose.org/garners-usage-tip-of-the-day-sic/), including advice about when not to use [*sic*]. Another option is to alter the quote responsibly to fix the error. See the [Purdue OWL's advice on altering source material in a quotation](https://owl.english.purdue.edu/owl/resource/577/02/).
 #### *significant*
