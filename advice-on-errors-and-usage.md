@@ -257,16 +257,16 @@ Bryan Garner: "In formal writing *that* is often ill-advisedly omitted, creating
 [Bryan Garner has covered this masterfully](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-4/). I accept the singular *they* because it has a long history of use, it solves the English language's common-sex singular personal pronoun glitch, and it avoids sexism. The singular *they* can also be used to refer to people who don't identify as male or female. Much more on that [here](http://www.bbc.com/news/magazine-34901704). Avoid convoluted constructions such as *his/her* and the like. Sentences can often be reworked to avoid the pronoun, too.
 #### titles, articles in periodicals, chapters in edited collections of scholary essays
 Titles of articles in periodicals (newspapers, magazines, scholarly journals) and chapters in edited collections of scholarly essays should be in quotation marks, in title case, no italics, no bolding: Lucas, Brad E. and Drew M. Loewe. “Coordinating Citations and the Cartography of Knowledge: Finding True North in Five Scholarly Journals.” *The Changing of Knowledge in Composition: Contemporary Perspectives*, edited by Richard Gebhardt and Lance Massey, Utah State UP, 2011, pp. 264-82.
-#### titles, books
-Italicize book titles. No quotation marks. Ex.: *A Rhetoric of Motives*, *The Hobbit*, *Rhetoric Retold: Regendering the Tradition from Antiquity Through the Renaissance*.
 #### titles, blog posts or single pages from a website
 Use quotation marks. Examples: "Decrying Dialects and Despising Speakers,"About Us,""Our Mission," "Something is Wrong on the Internet."
-#### titles, periodicals
-Titles of periodicals (newspapers, magazines, scholarly journals) should be italicized: *New York Times,* the *Times* article, *Rhetoric Review,* *National Geographic,* *Lucky Peach.* 
+#### titles, books
+Italicize book titles. No quotation marks. Ex.: *A Rhetoric of Motives*, *The Hobbit*, *Rhetoric Retold: Regendering the Tradition from Antiquity Through the Renaissance*.
 #### titles, films
 In MLA style, film titles are italicized: *The Godfather*, *Shrek*, *Sharknado*. Other styles, such as the *New York Times* style sheet, use double quotation marks: "The Godfather," "Shrek," "Sharknado."
 #### titles, music
 In MLA style, song titles are set off with quotation marks: "Welcome to the Terrordome," "Smells Like Teen Spirit." Album titles are italicized: *Houses of the Holy,* *Q: Are We Not Men? A: We are Devo!*
+#### titles, periodicals
+Titles of periodicals (newspapers, magazines, scholarly journals) should be italicized: *New York Times,* the *Times* article, *Rhetoric Review,* *National Geographic,* *Lucky Peach.* 
 #### titles, plays
 In MLA style, play titles are italicized: *The Book of Mormon,* *Hamlet,* *Glengarry Glen Ross.* The titles of short plays, e.g., one-act plays, are in quotation marks: "This Is a Test," "Two Guys in a Bar." Individual numbers (songs) in a musical are titled in quotation marks: "Man Up," "Aaron Burr, Sir." 
 #### titles, TV shows
