@@ -150,6 +150,8 @@ An "indirect quote" is a source quoted in another source. For example, suppose S
 Be sure that you really mean *infamous,* which has negative connotations. Often, students write *infamous* when they mean *famous*. Merriam-Webster Dictionaries [explains the two words' meaning](https://www.merriam-webster.com/words-at-play/infamous-vs-famous).
 #### *in order to*, *in order for*
 *In order to* and *in order for* can usually be cut to *to* or *for* without losing meaning. Try cutting and see whether you think it works.
+### in-text citations and closing punctuation--MLA format
+In MLA citation format, the in-text citation is part of the sentence, so the closing punctuation (typically a period) of your sentence containing the citation goes **after** the closing parenthesis of the citation. So, like this: Smith argues that "if students can be taught to develop a set of help-seeking behaviors, their peformance in writing courses "can exceed all predicted outcomes" (65). <---See that period after the closing parenthesis?
 #### *issue* vs. *problem*
 If you mean *problem*, you should just write *problem*. Many people use *issue* as a synonym, but it's imprecise. Rework.  
 #### *its* vs. *it's*: 
