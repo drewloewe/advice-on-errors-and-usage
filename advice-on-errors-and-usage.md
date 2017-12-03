@@ -103,6 +103,8 @@ Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should 
 # E
 #### editorial *we*/royal *we*
 As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *we* and *our* when no one else is involved." In the same vein, but with more humor, Mark Twain argues: "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'" Rework.
+#### *effectivity*
+*Effectivity* is a word, but it is a high unusual word that most readers would not know—just write *effectiveness*.
 #### *elicit* and *illicit*
 *Elicit,* a verb, means "to bring forth," or to "draw out." *Illicit* is an adjective, meaning *illegal* or *not allowed.* More on these two words and how to keep their meanings clear [can be found on the Oxford Dictoniaries Blog](https://blog.oxforddictionaries.com/2014/03/31/elicit-illicit/).
 #### existential filler
