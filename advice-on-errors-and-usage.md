@@ -187,6 +187,8 @@ When referring to someone by name, use first name and last name the first time y
 Watch out when you use first names--generally, most analytical or expository writing uses last names. Using someone's first name often creates a tone problem, a problem that is magnified if you refer to men as *Mr. So and So*, but revert to first names when referring to women (odd tone becomes sexist tone).
 
 # O
+#### *obviously*
+This word can usually be cut. It adds little to something that you have shown already (if you have shown it clearly, there is no need to lard it up with *obviously*). 
 #### *OK*
 In class projects, it's *OK* or *okay,* (or even *O.K.,* but this is relatively uncommon). It is never *ok* (unless maybe you are quoting a text message or someething). *OK* is always casual, so consider whether you should replace it in precise writing occasions. 
 #### *only* misplaced
