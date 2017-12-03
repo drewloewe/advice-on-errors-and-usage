@@ -22,7 +22,7 @@ Assuming that the reference to something that came before is clear (is it?), thi
 #### *alright* vs *all right*
 *Alright* is definitely not standard usage and is likely to be seen as a blunder by many audiences. In informal contexts and genres, nobody might care if you write *alright.* But in college and workplace writing, stick to *all right* as a two-word phrase and you'll be *all right.* 
 #### *among* vs *amongst*
-In American English, there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
+In American English (and assuming expository writing), there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
 #### *and/or*
 Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### apostrophe error
