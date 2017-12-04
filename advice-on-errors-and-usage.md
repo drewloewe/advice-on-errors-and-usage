@@ -153,7 +153,7 @@ Be sure that you really mean *infamous,* which has negative connotations. Often,
 #### *in order to*, *in order for*
 *In order to* and *in order for* can usually be cut to *to* or *for* without losing meaning. Try cutting and see whether you think it works.
 #### in-text citations and closing punctuation--MLA and APA format
-The in-text citation is part of the sentence, so the closing punctuation (typically a period) of your sentence containing the citation goes **after** the closing parenthesis of the citation. So, like this (MLA example): Smith argues that "if students can be taught to develop a set of help-seeking behaviors, their peformance in writing courses "can exceed all predicted outcomes" (65). <---See that period after the closing parenthesis?
+The in-text citation is part of the sentence, so the closing punctuation (typically a period) of your sentence containing the citation goes **after** the closing parenthesis of the citation. So, like this (MLA example): Smith argues that "if students can be taught to develop a set of help-seeking behaviors, their peformance in writing courses "can exceed all predicted outcomes" (65). <---See that period after the closing parenthesis? See that the closing quotation mark goes **before** the opening parenthesis?
 #### in-text citations and shortening titles (MLA)
 It's tedious and unnecessary to keep repeating a long title of a source in an in-text citation. [Writing Commons offers this advice](https://writingcommons.org/open-text/collaboration/167-common-comments/in-text-citations-/625-abbreviate-the-title-of-this-source-in-the-citation) on shortening titles meaningfully.
 #### *issue* vs. *problem*
