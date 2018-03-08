@@ -61,6 +61,8 @@ The [Purdue OWL explains the rules for using capital letters](https://owl.englis
 "Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed-forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
 #### capitalization of *Black/black, White/white*, etc.
 This is a fraught issue and I have read well-reasoned arguments for and against capitalization. The *Columbia Journalism Review* offers [a good discussion](http://www.cjr.org/analysis/language_corner_1.php) of the issues and choices involved. 
+#### *Catholic, catholic*
+Capitalize *Catholic* when it has anything to do with the Catholic Church, (e.g., *St. Edward's is a Catholic university.) The word *catholic* can be an adjective, lower-cased, connoting "universal," "broad-minded," "wide-ranging," and the like. 
 #### classic style
 Classic style, a term coined by Francis Noel-Thomas and Mark Turner, describes a middle style between informal and formal. It aims for clarity and economy of expression. The goal is to make writing sound like educated speech (not stuffy speech, not highfalutin speech) and to create a confident, thoughtful persona through stylistic choices. [Much more on classic style, including caveats](http://drewloewe.net/prose-style/), can be found on my website. I also encourage you to [read more about it from Thomas and Turner themselves](http://drewloewe.net/prose-style/).
 #### cliche
