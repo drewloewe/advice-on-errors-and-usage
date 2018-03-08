@@ -47,7 +47,7 @@ Never write *being that* to mean *because.* Just write *because.*
 #### *blatant, blatantly*
 As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid* or another non-pejorative adjective describing something that stands out.
 #### Britishisms
-Avoid Britishisms (e.g., *colour, humour, whilst, centre, programme, spilt*) in American contexts. 
+Avoid Britishisms (e.g., *colour, humour, whilst, centre, programme, spilt*) in American writing contexts. 
 #### *broadcasted*
 The past tense of *broadcast is *braadcast,* not *broadasted.* *Broadcasted* seems logical, but its usage in quality print sources is far outweighed by *broadcast.* So, *The show was broadcast on March 7, 1989* is correct. 
 #### buried verb
