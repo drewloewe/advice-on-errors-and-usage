@@ -27,7 +27,7 @@ In American English (and assuming expository writing), there is no reason to wri
 Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### apostrophe error
 The Purdue OWL [has some great advice on using apostrophes](https://owl.english.purdue.edu/owl/resource/621/01/).
-### appositive punctutation error
+#### appositive punctutation error
 The Purdue OWL [explains what an appositive is and how to punctuate one](https://owl.english.purdue.edu/owl/resource/596/01/)
 #### *as humans*, *we as humans*, *as people*
 These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut.
