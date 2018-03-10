@@ -5,7 +5,7 @@ This guide is an ever-evolving list of advice on errors and usage. It's based on
 
 NB: This guide assumes MLA citation style. MLA style is certainly not the only (or best) citation style, but it is widely used in humanities courses.  
 
-Send suggestions or warnings about broken links/inaccuracies to drewml at stedwards dot edu.
+Send suggestions or warnings about broken links or inaccuracies to drewml at stedwards dot edu.
 
 # A
 
