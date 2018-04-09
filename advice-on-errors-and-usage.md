@@ -243,6 +243,8 @@ See [this resource on punctuation and quotation marks](https://owl.english.purdu
 *Reach out to* is voguish bizspeak for *contact, call, write*, or some other specific verb. *Reach out to* is becoming common usage, but many readers find it grating, vague, and wordy. A specific single verb is probably best.
 #### *reason[s] as to why*
 This phrase expresses nothing more than writing *reason[s] why*; *as to* should be cut in all cases. Try also to cut *why* and see if the sentence can be improved. *Reason[s] why* is mildly redundant, but (according to Garner), well-established and accepted. 
+#### *reason is because*
+This phrase can always be modified. *Because* expresses a causal reason. *The reason is that* would be better, but try reworking the sentence to just get to the X because Y idea cleanly.
 #### *relatable*
 *Relatable* is a vague word that many readers, including me, dislike. When students use *relatable*, they usually mean to express something about identification, empathy, or appealing to an audience. Can you reword to be clearer? 
 ####  *relate to*
