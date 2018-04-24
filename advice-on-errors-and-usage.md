@@ -224,7 +224,7 @@ I agree with Bryan Garner that *per* is an avoidable Latinism that should simply
 #### periods or other closing punctuation, spaces after
 Use [one space after a period or other closing punctuation](http://www.chicagomanualofstyle.org/qanda/data/faq/topics/OneSpaceorTwo.html) in Loewe classes and in most situations when you're writing to people who understand typography. However, a few specific audiences still want two spaces after a period, including [the APA (in preparing manuscripts](https://owl.english.purdue.edu/owl/resource/560/24/)--I'd like to see the resulting printed journals from these manuscripts, which likely do not have two spaces). 
 #### people vs entities: pronouns
-Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? See [this advice](http://www.quickanddirtytips.com/education/grammar/people-versus-entities).
+Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? Students often write *they/their* when it should be *it/its*. But please see this advice: See [this advice](http://www.quickanddirtytips.com/education/grammar/people-versus-entities).
 #### *principal* vs *principle*
 Writers often confuse these two words. They have nothing to do with each other, though they sound alike. Bryan Garner explains that *principle* is most commonly a noun (e.g., *the principle of charity,* *the Peter principle*), but *principal* can be an adjective meaning "first or most important" (*the principal reason she lost the case*) or a noun (e.g., *the school principal*). 
 #### *problematic*
