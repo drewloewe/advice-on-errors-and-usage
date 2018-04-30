@@ -164,6 +164,8 @@ An "indirect quote" is a source quoted in another source. For example, suppose S
 Be sure that you really mean *infamous,* which has negative connotations. Often, students write *infamous* when they mean *famous*. Merriam-Webster Dictionaries [explains the two words' meaning](https://www.merriam-webster.com/words-at-play/infamous-vs-famous).
 #### *in order to*, *in order for*
 *In order to* and *in order for* can usually be cut to *to* or *for* without losing meaning. Try cutting and see whether you think it works.
+#### *X is interesting* claims
+*Interesting* is, well, interesting since it can mean many things. Because anything can be *interesting* in various ways, it is usually vague and ineffective to leave your own claims at the level of asserting that *X is interesting*, *X is an interesting phenomenon*, or some such. *X is interesting* is roughly the same as asserting "*So...thats a thing*." So what? What, specifically, about X is worth building an argument around? What about that is arguable and supportable with sound evidence? 
 #### in-text citations and closing punctuation--MLA and APA format
 The in-text citation is part of the sentence, so the closing punctuation (typically a period) of your sentence containing the citation goes **after** the closing parenthesis of the citation. So, like this (MLA example): Smith argues that "if students can be taught to develop a set of help-seeking behaviors, their peformance in writing courses "can exceed all predicted outcomes" (65). <---See that period after the closing parenthesis? See that the closing quotation mark goes **before** the opening parenthesis?
 #### in-text citations and shortening titles (MLA)
@@ -255,7 +257,7 @@ This reality-show buzzword is becoming more and more common in everyday parlance
 # S
 
 #### *said* [for *this,* *those,* or *that*]
-If you mean *that* or *those*, write *that* or *those.* *Said* sounds like a legalese-loving attorney, not like a human being communicating something interesting.
+If you mean *that* or *those*, write *that* or *those.* *Said* sounds like a legalese-loving attorney, not like a human being communicating something important.
 #### semicolons in series
 If even one of the individual items in a list has a comma, separate all list items with semicolons. 
 #### serial comma aka "Oxford comma"
