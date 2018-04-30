@@ -171,7 +171,7 @@ It's tedious and unnecessary to keep repeating a long title of a source in an in
 #### *issue* vs. *problem*
 If you mean *problem*, you should just write *problem*. Many people use *issue* as a synonym, but it's imprecise. Rework.  
 #### *its* vs. *it's*: 
-*Its* is the possessive of *it*: *The monkey played with its tail*. *It's* is a contraction for *it is*: *It's important to know how to cook.*
+*Its* is the possessive of *it*: *The monkey played with its tail*. *It's* is a contraction for *it is*: *It's important to know how to cook.* [The Oxford Dictionaries](https://en.oxforddictionaries.com/usage/its-or-it-s) explain more.
 
 # J
 #### *judgment* vs. *judgement*
