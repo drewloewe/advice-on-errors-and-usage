@@ -30,7 +30,7 @@ The Purdue OWL [has some great advice on using apostrophes](https://owl.english.
 #### appositive punctutation error
 The Purdue OWL [explains what an appositive is and how to punctuate one](https://owl.english.purdue.edu/owl/resource/596/01/)
 #### *as humans*, *we as humans*, *as people*
-These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut.
+These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut. Consider why *as humans* is in the sentence in the first place. Try substituting it with other terms: *we as basketballs, we as fish* to see the oddness of this phrase. 
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
 #### *at this time* / *at this point in time*
