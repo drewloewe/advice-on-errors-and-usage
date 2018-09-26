@@ -74,7 +74,7 @@ Bryan Garner explains [the basics of handling this tricky situation](http://www.
 #### comma after introductory element
 Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [The Purdue OWL explains more here](https://owl.english.purdue.edu/owl/resource/607/03/).
 #### comma splice
-If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice from the Purdue OWL](https://owl.english.purdue.edu/engagement/2/1/34/) for help. 
+If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice](http://advice.writing.utoronto.ca/revising/comma-splices/) for help. 
 #### *compliment* vs. *complement*
 To *compliment* (verb) is to express raise or admiration; as a noun, it's that expression (*He paid me a compliment.*). To *complement* something is to complete it or enhance it: *The red wine was the perfect complement to the grilled steak.* See the [Oxford Dictionaries website](https://blog.oxforddictionaries.com/2011/04/13/compliment-or-complement/) for more information on these commonly confused words.
 #### conclusions
