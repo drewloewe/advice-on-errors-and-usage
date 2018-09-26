@@ -58,7 +58,7 @@ A “buried” verb is a noun that is really a verb or adjective in disguise, of
 # C
 
 #### capitalization, general
-The [Purdue OWL explains the rules for using capital letters](https://owl.english.purdue.edu/owl/resource/592/1/). NB: When referring to someone by title, capitalize the title if it precedes their name: *President Lincoln.* Don't capitalize titles that refer generically to the idea of the title: *College presidents need to listen to faculty.* Don't capitalize titles that come after the name: *Ted Cruz is a senator who has not always gotten along with his own party.* But: *Senator Cruz spoke at the luncheon.* 
+The [Purdue OWL explains the rules for using capital letters](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html). NB: When referring to someone by title, capitalize the title if it precedes their name: *President Lincoln.* Don't capitalize titles that refer generically to the idea of the title: *College presidents need to listen to faculty.* Don't capitalize titles that come after the name: *Ted Cruz is a senator who has not always gotten along with his own party.* But: *Senator Cruz spoke at the luncheon.* 
 #### capitalization, *armed forces*
 "Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed-forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
 #### capitalization of *Black/black, White/white*, etc.
