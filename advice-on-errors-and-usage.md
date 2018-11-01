@@ -120,7 +120,7 @@ As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *
 #### *every day* vs. *everyday*
 *Every day,* a two-word phrase that functions as an **adverb** describes the manner or extent of something that happens regularly, e.g.  *He walks his dog every day.* *Everyday,* a one-word **adjective**, describes something that is commonplace or ordinary: *Commuting on Mopac is an everyday torment for many drivers.* 
 #### existential filler
-A *There is...* or *There are...* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* *There is* and *there are* in other places in a sentence also can indicate wordiness. Search for these phrases and similar ones (*there was, there were*) in your writing and see whether you should rework sentences that have them.
+A *There is...* or *There are...* or *It is...* sentence-opener is usually filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* Such phrases in other places in a sentence after the beginning also can indicate wordiness. Search for these phrases and similar ones in your writing and see whether you should rework the sentences that have them.
 
 # F
 
