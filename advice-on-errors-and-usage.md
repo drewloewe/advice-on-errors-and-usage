@@ -209,6 +209,9 @@ Watch out when you use first names--generally, most analytical or expository wri
 #### *not only*....*but also*
 Keep this parallel. Don't forget the *also* after *but.*
 
+#### numbers in sentences
+Journalistic (AP) style allows you to start a sentence with a number if the number is a year, but my courses do not use journalistic style. Don't start sentences with numbers. See [that, and other, rules for using numbers](https://www.grammarbook.com/numbers/numbers.asp) in a sentence, such as when to spell them out, writing fractions, monetary amounts, etc.
+
 # O
 #### *obviously*
 This word can usually be cut. It adds little to something that you have shown already (if you have shown it clearly, there is no need to lard it up with *obviously*). 
