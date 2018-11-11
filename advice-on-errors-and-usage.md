@@ -25,6 +25,8 @@ Assuming that the reference to something that came before is clear (is it?), thi
 In American English (and assuming expository writing), there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
 #### *and/or*
 Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
+#### APA, multiple uses of single source in one paragraph
+How do you handle multiple uses of a single source in a paragraph? You **can't** just save up one citation for the end of the paragraph and hope that your reader knows that the citation means "all that stuff in this paragraph came from this source." But APA style doesn't oblige you to keep putting the same citation after multiple sentences drawing from the same source in the same paragraph. So what to do? See [this advice](https://rasmussen.libanswers.com/faq/32328) from Rasmussen College Library and Learning Services (the three "good" examples).
 #### apostrophe error
 The Purdue OWL [has some great advice on using apostrophes](https://owl.english.purdue.edu/owl/resource/621/01/).
 #### appositive punctutation error
