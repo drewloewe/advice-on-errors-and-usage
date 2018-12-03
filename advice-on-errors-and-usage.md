@@ -133,7 +133,7 @@ This construction feels like a redundant cliche. Just write *first*.
 #### *firstly [secondly*, etc.]
 Current usage favors *first*, *second*, etc. [Merriam-Webster explains why](https://www.merriam-webster.com/words-at-play/first-or-firstly). 
 #### fragment (sentence fragment)
-Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.english.purdue.edu/owl/resource/620/01/). 
+Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html). 
 #### fused (aka run-on) sentence
 If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice on fused sentences from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
 
