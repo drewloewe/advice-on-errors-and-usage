@@ -83,6 +83,8 @@ To *compliment* (verb) is to express raise or admiration; as a noun, it's that e
 Don't begin a conclusion to an essay by writing "In conclusion," "In summary," or some such. As the Harvard Writing Center explains: "These phrases can be useful--even welcome--in oral presentations. But readers can see, by the tell-tale compression of the pages, when an essay is about to end. You'll irritate your audience if you belabor the obvious."
 #### court cases
 Italicize the names of parties in court cases, e.g., *Roe v. Wade,* both in MLA style and in legal citation style that you'll use if you take Legal Writing. 
+#### *counsel*, *council*, *consul*
+These words are often confused. [This handoutfrom The University of Denver School of Law](https://www.law.du.edu/documents/aap/writing-tips-counsel-council-and-consul.pdf) can help you figure out which of these words you really mean.
 
 # D
 
