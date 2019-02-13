@@ -314,7 +314,7 @@ In MLA style, italicize the titles of TV programs: *The Wire,* *Monday Night Foo
 #### *toward* vs *towards*
 You should, in US English contexts, favor *toward* over *towards.* Brian Garner explains that *toward* has been preferred in US English usage "[s]ince about 1900."
 #### transfer errors, Spanish to English
-If you are used to thinking, speaking, reading, and writing in Spanish, and are now trying to write university-level American English, you will make certain patterns of errors. That's completely understandable and normal. Cuando escribo en espa&#241;
+If you are used to thinking, speaking, reading, and writing in Spanish, and are now trying to write university-level American English, you will make certain patterns of errors. That's completely understandable and normal. Cuando escribo en espa&#241;ol, yo tambien hago errores. Los que leen lo que escribo van a saber que espa&#241;ol no es mi idioma mas entendida. [Here is a helpful link to common Spanish-to-English transfer errors](https://resources.jjay.cuny.edu/erc/tutoring/pdfs/52.pdf) and how to find and change them. 
 #### *try and*
 *Try and* should probably be *try to*. While *try and* is an accepted informal and (especially) spoken form of expressing *try to,* you can never go wrong by writing *try to.* Oddly, *try and* is standard in UK usage, according to Garner. But in US academic or legal contexts, stick to *try to.* 
 
