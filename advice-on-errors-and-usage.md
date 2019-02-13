@@ -313,6 +313,8 @@ In MLA style, play titles are italicized: *The Book of Mormon,* *Hamlet,* *Gleng
 In MLA style, italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
 #### *toward* vs *towards*
 You should, in US English contexts, favor *toward* over *towards.* Brian Garner explains that *toward* has been preferred in US English usage "[s]ince about 1900."
+#### transfer errors, Spanish to English
+If you are used to thinking, speaking, reading, and writing in Spanish, and are now trying to write university-level American English, you will make certain patterns of errors. That's completely understandable and normal. Cuando escribo en espa&#241;
 #### *try and*
 *Try and* should probably be *try to*. While *try and* is an accepted informal and (especially) spoken form of expressing *try to,* you can never go wrong by writing *try to.* Oddly, *try and* is standard in UK usage, according to Garner. But in US academic or legal contexts, stick to *try to.* 
 
