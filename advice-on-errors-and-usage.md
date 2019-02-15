@@ -226,6 +226,8 @@ Bryan Garner argues that "The word *only* is probably misplaced more often than 
 
 # P
 
+#### paragraph length
+Generally speaking, paragraphs should be built around one core idea (which is usually part of a larger idea) and everything in the paragraph is germane to some facet of that idea. There is no ideal paragraph length, and different occasions, audiences, and genres might create different expectations for those contexts. In most essayistic writing, one- or two-sentence paragraphs are seen as underdeveloped and ineffective. Extremely long paragraphs, generally those more than half a page, are exhausting and create information overload. [The Purdue OWL has some good advice on paragraphing](https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html), including some advice on how you might judge when a new paragraph is necessary. 
 #### Paramedic Method
 Richard Lanham's famous Paramedic Method for revising sentences helps you to rework vague, wordy, bureaucratic-sounding prose. [The Purdue OWL explains this easy, effective method](https://owl.english.purdue.edu/owl/resource/635/01/) for tightening sentences and reworking wooly ideas. The Writing Center at the University of Wisconsin-Madison has [an excellent handout](http://writing.wisc.edu/Handbook/CCS_wordyphrases.html) on tightening wordy phrases.
 #### passive voice
