@@ -237,7 +237,7 @@ Use [one space after a period or other closing punctuation](http://www.chicagoma
 #### people vs entities: pronouns
 Is it *it/its* or *they/theirs* when referring to groups of people, companies, countries? Students often write *they/their* when it should be *it/its*. But please see this advice: See [this advice](http://www.quickanddirtytips.com/education/grammar/people-versus-entities).
 #### *piece of rhetoric* (or *rhetoric piece/rhetorical piece,* etc.)
-Please do not write about rhetorical artifacts or occasions as "piece(s) of rhetoric." Sometimes, articles or op-eds or similar writings are informally called "pieces," but "piece of rhetoric" makes no sense. Rhetoric is not reducible to any particular artifact or contained within it. Rhetoric is not something broken into pieces. Finally, nobody in the discipline uses the term "piece of rhetoric," so it's best to avoid that phrase.
+Please do not write about rhetorical artifacts or occasions as "piece(s) of rhetoric." Sometimes, articles or op-eds or similar writings are informally called "pieces," but "piece of rhetoric" makes no sense. Rhetoric is not reducible to any particular artifact or contained within it. Finally, nobody in the discipline uses the term "piece of rhetoric," so it's best to avoid that phrase.
 #### *principal* vs *principle*
 Writers often confuse these two words. They have nothing to do with each other, though they sound alike. Bryan Garner explains that *principle* is most commonly a noun (e.g., *the principle of charity,* *the Peter principle*), but *principal* can be an adjective meaning "first or most important" (*the principal reason she lost the case*) or a noun (e.g., *the school principal*). 
 #### *problematic*
