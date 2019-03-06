@@ -67,6 +67,8 @@ The [Purdue OWL explains the rules for using capital letters](https://owl.purdue
 "Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed-forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
 #### capitalization of *Black/black, White/white*, etc.
 This is a fraught issue and I have read well-reasoned arguments for and against capitalization. The *Columbia Journalism Review* offers [a good discussion](http://www.cjr.org/analysis/language_corner_1.php) of the issues and choices involved. 
+#### *case-by-case*
+Bryan Garner, in his *Dictionary of Modern Legal Usage,* explains that this phrase needs to be hyphenated when appearing before the noun it modifies, but not hyphenated when appearing after it. So: *on a case-by-case basis:; *the court developed this doctrine case by case.*
 #### *Catholic, catholic*
 Capitalize *Catholic* when it has anything to do with the Catholic Church, (e.g., *St. Edward's is a Catholic university.) The word *catholic* can be an adjective, lower-cased, connoting "universal," "broad-minded," "wide-ranging," and the like. 
 #### classic style
