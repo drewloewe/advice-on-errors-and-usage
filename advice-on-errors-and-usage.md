@@ -55,7 +55,7 @@ As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly.
 #### Britishisms
 Avoid Britishisms (e.g., *colour, humour, whilst, centre, programme, organisation, maths, spilt*) in American writing contexts. 
 #### *broadcasted*
-The past tense of *broadcast is *braadcast,* not *broadasted.* *Broadcasted* seems logical, but its usage in quality print sources is far outweighed by *broadcast.* So, *The show was broadcast on March 7, 1989* is correct. 
+The past tense of *broadcast is *broadcast,* not *broadasted.* *Broadcasted* seems logical, but its usage in quality print sources is far outweighed by *broadcast.* So, *The show was broadcast on March 7, 1989* is correct. 
 #### buried verb
 A “buried” verb is a noun that is really a verb or adjective in disguise, often with a *–tion, -sion, -ment, -ence, -ance*, or *–ity* ending added (e.g., *realization* instead of *realize*). Vigorous, clear writing favors simple “unburied” prose. See [this column](http://www.latimes.com/tn-gnp-0612-casagrande-story.html) for more advice.
 
