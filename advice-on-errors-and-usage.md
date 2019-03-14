@@ -337,7 +337,7 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 
 # W
 #### *whether or not*
-Bryan Garner reminds us that "Despite the superstition to the contrary, the words *or not* are usually superfluous, since *whether* implies *or not.*" But, he adds, "*or not* is necessary when *whether or not* means 'regarless of whether' [e.g.,] *the meeting will go on whether or not it rains*." More than half of the student uses of *whether* that I've seen are of the first kind, making *or not* superfluous. 
+Bryan Garner reminds us that "Despite the superstition to the contrary, the words *or not* are usually superfluous, since *whether* implies *or not.*" But, he adds, "*or not* is necessary when *whether or not* means 'regardless of whether' [e.g.,] *the meeting will go on whether or not it rains*." More than half of the student uses of *whether* that I've seen are of the first kind, making *or not* superfluous. 
 #### *who, whom*
 [Bryan Garner offers some excellent advice.](http://www.lawprose.org/lawprose-lesson-176-who-vs-whom/)
 #### *who vs. that* 
