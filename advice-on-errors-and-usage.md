@@ -23,10 +23,10 @@ Assuming that the reference to something that came before is clear (is it?), thi
 *Alright* is definitely not standard usage and is likely to be seen as a blunder by many audiences. In informal contexts and genres, nobody might care if you write *alright.* But in college and workplace writing, stick to *all right* as a two-word phrase and you'll be *all right.* 
 #### *among* vs *amongst*
 In American English (and assuming expository writing), there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
-#### *and/or*
-Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### *analyzation*
 This is arguably a word (so say some sources), though Garner calls it "pseudo-learned," a "nonword," and a needless variant. In anyone's hands, even if it's a word, it just means "analysis." So why use it?
+#### *and/or*
+Although some use people *and/or* as a crutch, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities."
 #### APA, multiple uses of single source in one paragraph
 How do you handle multiple uses of a single source in a paragraph? You **can't** just save up one citation for the end of the paragraph and hope that your reader knows that the citation means "all that stuff in this paragraph came from this source." But APA style doesn't oblige you to keep putting the same citation after multiple sentences drawing from the same source in the same paragraph. So what to do? See [this advice](https://rasmussen.libanswers.com/faq/32328) from Rasmussen College Library and Learning Services (the three "good" examples).
 #### apostrophe error
