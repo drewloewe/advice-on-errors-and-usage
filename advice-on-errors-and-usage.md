@@ -83,7 +83,7 @@ Bryan Garner explains [the basics of handling this tricky situation](http://www.
 Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [The Texas A&M Writing Center explains more here](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Punctuation/Comma-Guide).
 #### comma with nonrestrictive element
 Writers often stumble by not using commas with restrictive clauses. What's a restrictive clause? As the Writing Center at Texas A&M explains, "If you can eliminate the element [of the sentence] without altering what you’re talking about, then it’s a nonrestrictive element and should be marked off with commas." [More advice and explanation from A&M's Writing Center](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Punctuation/Comma-Guide) can be found under Nonrestrictive Elements (or “Extra Stuff”).
-#### comma splice
+#### comma splice (CS)
 I mark these **CS**. If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice](http://advice.writing.utoronto.ca/revising/comma-splices/) for help. 
 #### *compliment* vs. *complement*
 To *compliment* (verb) is to express raise or admiration; as a noun, it's that expression (*He paid me a compliment.*). To *complement* something is to complete it or enhance it: *The red wine was the perfect complement to the grilled steak.* See the [Oxford Dictionaries website](https://blog.oxforddictionaries.com/2011/04/13/compliment-or-complement/) for more information on these commonly confused words.
@@ -108,8 +108,8 @@ As Bryan Garner explains, *detract* can mean *to divert,* but it's much more com
 Although this sort of shift in function (*disconnect* is first a verb, not a noun) is a feature of our evolving language, *disconnect* as a noun (e.g., *There's a disconnect between what the front office wants and what's going on in the warehouse"*) may be too faddish and loose for some audiences, at least right now. Through simple day-to-day speech and writing, *disconnect* as a noun may well soon pass without notice as unimpeachable usage, but it isn't quite there yet.
 #### *discreet* vs. *discrete*
 These two words are often confused, but [they have distinct meanings.](https://en.oxforddictionaries.com/usage/discreet-or-discrete)
-#### dropped quote
-Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
+#### dropped quote (DQ)
+I marked dropped quotes **DQ**. Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
 
 Example of dropped quote: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. **“The challenge we face as teachers is to develop comments which will provide an inherent reason for students to revise; it is a sense of revision as discovery, as a repeated process of beginning again, as starting out new, that our students have not learned” (156).** The quote is simply plunked into the writing. 
 
@@ -142,9 +142,9 @@ If you mean a human being, use *girl* or *woman*--whichever is age-appropriate. 
 This construction feels like a redundant cliche. Just write *first*.
 #### *firstly [secondly*, etc.]
 Current usage favors *first*, *second*, etc. [Merriam-Webster explains why](https://www.merriam-webster.com/words-at-play/first-or-firstly). 
-#### fragment (sentence fragment)
+#### fragment (sentence fragment) (SF)
 I mark these **SF**. Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html). 
-#### fused (aka run-on) sentence
+#### fused (aka run-on) sentence (FS)
 I mark these **FS**. If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice on fused sentences from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
 
 
