@@ -334,7 +334,7 @@ If you are used to thinking, speaking, reading, and writing in Spanish, and are 
 *Try and* should probably be *try to*. While *try and* is an accepted informal and (especially) spoken form of expressing *try to,* you can never go wrong by writing *try to.* Oddly, *try and* is standard in UK usage, according to Garner. But in US academic or legal contexts, stick to *try to.* 
 
 # U
-#### *use* vs *utilize*
+#### *utilize* (vs *use*)
 Some people [claim that there is a meaningful distinction between these words](http://throwgrammarfromthetrain.blogspot.com/2013/12/using-utilize-what-mavens-say.html), but I am not convinced. In my view, *utilize* is always inferior to *use* because it is bureucratic-sounding, elliptical, and unnecessarily burdensome.
 
 # V
