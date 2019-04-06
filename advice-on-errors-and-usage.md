@@ -97,7 +97,7 @@ These words are often confused. [This handout from The University of Denver Scho
 # D
 
 #### dangling and misplaced modifiers
-These errors often result in sentences that are easy for readers to misunderstand or find (without you wanting them to) hilarious. Either way, your ethos and your writing's clarity both take a hit. See [this advice from the University of Minnesota Libraries](http://open.lib.umn.edu/writingforsuccess/chapter/2-7-misplaced-and-dangling-modifiers/) for how to find and fix these kinds of mistakes. 
+These errors often result in sentences that are easy for readers to misunderstand or find hilarious (with your wanting them to). Your ethos and your writing's clarity both take a hit. See [this advice from the University of Minnesota Libraries](http://open.lib.umn.edu/writingforsuccess/chapter/2-7-misplaced-and-dangling-modifiers/) for how to find and fix these kinds of mistakes. 
 #### decades
 Do not use an apostrophe before the *s* in a decade. Incorrect: *1970's*; Correct: *1970s.* However, you do use an apostrophe to signal omission of the first part of a decade: *the '60s*
 #### *deconstruct*
