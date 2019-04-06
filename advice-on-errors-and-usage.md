@@ -219,6 +219,9 @@ Watch out when you use first names--generally, most analytical or expository wri
 #### *not only*....*but also*
 Keep this parallel. Don't forget the *also* after *but.*
 
+#### *novel*
+A novel is a long work of narrative fiction, often published in the form of a book. But just because something is a book doesn't make it a novel. Just because something is a sandwich doesn't make it a turkey sub. If you don't know what to call that book you intend to use and cite, just ask me and I will be happy to help you. 
+
 #### numbers in sentences
 Journalistic (AP) style allows you to start a sentence with a number if the number is a year, but my courses do not use journalistic style. Don't start sentences with numbers. See [that, and other, rules for using numbers](https://www.grammarbook.com/numbers/numbers.asp) in a sentence, such as when to spell them out, writing fractions, monetary amounts, etc.
 
