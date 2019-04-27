@@ -166,6 +166,8 @@ Phrasal adjectives (phrases being used as adjectives) should generally be hyphen
 
 #### *impactful*
 As usage expert Paul Brians argues, "Many people in business and education like to speak of things that have an impact as being 'impactful,' but this term does not appear in most dictionaries and is not well thought of by traditionalists. Use 'influential' or 'effective' instead." *Impactful* may be in dictionaries by now, but some usage experts (and I) consider it yet another awful corporate buzzword (e.g., *Let's reach out for some impactful metrics in our mobile, disruptive, next-gen solutions brainstorming.*). Take Brians' suggestions re: *influential* or *effective.*
+#### *imply* vs *infer*
+These two words are commonly confused. To imply is to suggest something without stating it outright. To infer is to conclude something on the basis of support or logic without its being directly evident or stated. Towson U. has a [useful page and links to exercises](https://webapps.towson.edu/ows/implyinfer.htm) about this common confusion.
 #### *In conclusion*, *In summary*
 **Never** end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [good advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/).
 #### *incredible,* *incredibly*
