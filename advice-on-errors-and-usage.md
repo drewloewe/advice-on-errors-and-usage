@@ -235,7 +235,7 @@ In class projects, it's *OK* or *okay,* (or even *O.K.,* but this is relatively 
 #### *only* misplaced
 Bryan Garner argues that "The word *only* is probably misplaced more often than any other modifier," and Mignon Fogarty calls *only* "the most insidious misplaced modifier." Where *only* goes can radically alter the meaning of the sentence. See [the five examples here](http://www.shearsoneditorial.com/2012/02/adverb-placement-predominantly-mainly-mostly/). See also [Garner's advice](http://www.lawprose.org/lawprose-lesson-129-placement-of-only/). Read your writing aloud and ask yourself where the *only* should be placed to emphasize what you really meant to emphasize.
 #### *over time* vs. *overtime*
-*Over time* is an adverb phrase and means "over a period of time" or "gradually." "Overtime" is a noun; it names what hourly employees can collect if asked to work extra hours or what happens if a sporting contest (say, a basketball game) isn't resolved during regulation time. 
+*Over time* is an adverb phrase and means "over a period of time" or "gradually." *Overtime* is a noun; it names what hourly employees can collect if asked to work extra hours or what happens if a sporting contest (say, a basketball game) isn't resolved during regulation time. 
 
 # P
 
