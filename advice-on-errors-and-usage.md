@@ -73,6 +73,8 @@ This is a fraught issue and I have read well-reasoned arguments for and against 
 Bryan Garner, in his *Dictionary of Modern Legal Usage,* explains that this phrase needs to be hyphenated when appearing before the noun it modifies, but not hyphenated when appearing after it. So: *on a case-by-case basis:; *the court developed this doctrine case by case.*
 #### *Catholic, catholic*
 Capitalize *Catholic* when it has anything to do with the Catholic Church, (e.g., *St. Edward's is a Catholic university.*) The word *catholic* can be an adjective, lower-cased, connoting "universal," "broad-minded," "wide-ranging," and the like. 
+#### *cite* vs *site*
+These words sound the same and vary by just one letter, but differ in meaning. In writing, to *cite* something is to refer to something and show a source for it, such as citing an article that you used in writing a paper or a lawyer citing a statute in their legal argument. *Site* means location, e.g., a construction site (physical location) or a social media site (online location). 
 #### classic style
 Classic style, a term coined by Francis Noel-Thomas and Mark Turner, describes a middle style between informal and formal. It aims for clarity and economy of expression. The goal is to make writing sound like educated speech (not stuffy speech, not highfalutin speech) and to create a confident, thoughtful persona through stylistic choices. [Much more on classic style, including caveats](http://drewloewe.net/prose-style/), can be found on my website. I also encourage you to [read more about it from Thomas and Turner themselves](http://drewloewe.net/prose-style/).
 #### cliche
