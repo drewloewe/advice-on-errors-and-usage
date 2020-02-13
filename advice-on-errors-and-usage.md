@@ -97,6 +97,8 @@ Don't begin a conclusion to an essay by writing "In conclusion," "In summary," o
 Italicize the names of parties in court cases, e.g., *Roe v. Wade,* both in MLA style and in legal citation style that you'll use if you take Legal Writing. 
 #### *counsel*, *council*, *consul*
 These words are often confused. [This handout from The University of Denver School of Law](https://www.law.du.edu/documents/aap/writing-tips-counsel-council-and-consul.pdf) can help you figure out which of these words you really mean.
+#### *cut and dry*
+This expression should read *cut and dried*. Confusion arises because the expression is common in speech, but not in writing, so many people don't see it written properly. When you use it to modify a noun, hyphenate it as a phrasal adjective, e.g. *The administration's budget offered a cut-and-dried rationale for not increasing investment in criminal justice reform.*
 
 # D
 
