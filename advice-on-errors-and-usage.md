@@ -115,7 +115,7 @@ Although this sort of shift in function (*disconnect* is first a verb, not a nou
 #### *discreet* vs. *discrete*
 These two words are often confused, but [they have distinct meanings.](https://en.oxforddictionaries.com/usage/discreet-or-discrete)
 #### dropped quote (DQ)
-I marked dropped quotes **DQ**. Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
+Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
 
 Example of dropped quote: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. **“The challenge we face as teachers is to develop comments which will provide an inherent reason for students to revise; it is a sense of revision as discovery, as a repeated process of beginning again, as starting out new, that our students have not learned” (156).** The quote is simply plunked into the writing. 
 
