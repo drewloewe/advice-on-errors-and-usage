@@ -33,6 +33,8 @@ How do you handle multiple uses of a single source in a paragraph? You **can't**
 The Purdue OWL [has some great advice on using apostrophes](https://owl.purdue.edu/owl/general_writing/punctuation/apostrophe_introduction.html).
 #### appositive punctutation error
 The Purdue OWL [explains what an appositive is and how to punctuate one](https://owl.english.purdue.edu/owl/resource/596/01/)
+#### article errors
+Articles (a, an, the) often confuse English language learners because such learners' languages may not use articles at all, but English uses them extensively. [Claus Wilke offers a good overview of correct article use in English](https://serialmentor.com/blog/2013/10/1/articles#note2).
 #### *as humans*, *we as humans*, *as people*
 These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut. Consider why *as humans* is in the sentence in the first place. Try substituting it with other terms: *we as basketballs, we as fish* to see the oddness of this phrase. 
 #### *as per*
