@@ -213,6 +213,8 @@ Strict usage sticklers insist that *like* (in this sense) means "similar to," wh
 These phrases as synonyms for *analyze* or *examine* are okay in informal speech and informal writing, but you're probably better off being precise and just writing *analyze,* *examine,* or some such in most of your expository writing.
 
 # M
+#### *make use of*
+All this means is "use," so just write "use."
 #### *Meaning that*
 If you begin a sentence *Meaning that....*, you are probably trying to express something like *In other words,...* *Meaning that....* usually indicates a sentence fragment.
 #### *medium/media*
