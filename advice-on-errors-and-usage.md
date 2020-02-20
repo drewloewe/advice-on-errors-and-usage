@@ -253,6 +253,8 @@ Generally speaking, paragraphs should be built around one core idea (which is us
 Richard Lanham's famous Paramedic Method for revising sentences helps you to rework vague, wordy, bureaucratic-sounding prose. [The Purdue OWL explains this easy, effective method](https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html).
 #### passive voice
 You should have a strong bias favoring active voice (*Lincoln delivered the speech*) over passive voice (*The speech was delivered by Lincoln*), unless you have a specific reason for using passive voice. Passive voice is not **wrong**; it’s just (usually) weaker. For more details, see [this handout from our Writing Center](https://sites.stedwards.edu/writing/files/2015/09/St.-Edwards-Univ-Writing-Center-Handout-on-Passive-Voice-19nzb1n.pdf). 
+#### *peak* vs. *pique*
+It's *pique* interest, not *peak.* The words sound identical, but are spelled differently and have different meanings. *Peak* means "highest point," but *pique* means "to stimulate, excite, or arouse," and is almost always followed by "curiosity" or "interest" as the feeling being excited.
 #### *per,* *as per,* *as per usual/per usual*
 I agree with Bryan Garner that *per* is an avoidable Latinism that should simply be replaced with *under*, *according to,* or the like. *As per* is doubly clunky since it is both a Latinism and redundant bit of bizspeak, giving the reader nothing more than the already-clunky *per* gives. Finally, as Garner argues (and I agree), the phrase *as per usual/per usual* is "an embarassing barbarism" that one should never write. 
 #### periods or other closing punctuation, spaces after
