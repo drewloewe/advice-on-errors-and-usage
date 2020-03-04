@@ -16,12 +16,11 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 * Under Automatic Substitution, copy/paste the items below one by one (this works best if you use two monitors, or at least two tabs) to replace missteps with better choices.
 * If you type the usage misstep in Google Docs, it'll automatically be corrected.
 
-**Replace                    With**
+### Replace..........With
 
-for the reason that          because
-
-
-
+* for the reason that..........because
+* due to the fact that.........because
+* whether or not...............whether
 
 
 
