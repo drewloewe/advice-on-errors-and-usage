@@ -7,6 +7,25 @@ NB: This guide assumes MLA citation style. MLA style is certainly not the only (
 
 Send suggestions or warnings about broken links or inaccuracies to drewml at stedwards dot edu.
 
+##  Automatic Substitution Entries
+You can save yourself some aggravation by using Google Docs' Tools-->Preferences menu to automatically replace usage missteps with better choices. Here is how:
+
+* Open a document in Google Docs
+* Click the Tools menu 
+* On the Tools menu, click Preferences
+* Under Automatic Substitution, copy/paste the items below one by one (this works best if you use two monitors, or at least two tabs) to replace missteps with better choices.
+* If you type the usage misstep in Google Docs, it'll automatically be corrected.
+
+**Replace                    With**
+
+for the reason that          because
+
+
+
+
+
+
+
 # A
 
 #### *is/was able to*
