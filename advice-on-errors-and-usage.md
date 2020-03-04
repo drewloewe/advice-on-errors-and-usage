@@ -25,12 +25,12 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 * based around----> based on
 * hone in on----> home in on
 * in order to----> to
-* in order for----> or
+* in order for----> for
 * judgement----> judgment
 * make use of----> use
-* makes use of.................uses
-* try and......................try to
-* utilize......................use
+* makes use of----> uses
+* try and----> try to
+* utilize----> use
 
 
 # A
