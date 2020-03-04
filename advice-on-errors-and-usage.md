@@ -16,7 +16,7 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 * Under Automatic Substitution, enter the items below one by one to replace missteps with better choices.
 * After that, if you type the usage misstep in Google Docs, it'll automatically be corrected.
 
-
+### Replace----> With
 * for the reason that---> because
 * due to the fact that---> because
 * whether or not----> whether
