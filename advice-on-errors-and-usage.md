@@ -18,9 +18,11 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 
 ### Replace..........With
 
-* for the reason that..........because
-* due to the fact that.........because
+
+* for the reason that         because
+* due to the fact that        because
 * whether or not...............whether
+* based off....................based on
 * based off of.................based on
 * based around.................based on
 * hone in on...................home in on
