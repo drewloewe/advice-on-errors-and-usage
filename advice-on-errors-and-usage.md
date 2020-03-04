@@ -13,16 +13,24 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 * Open a document in Google Docs
 * Click the Tools menu 
 * On the Tools menu, click Preferences
-* Under Automatic Substitution, copy/paste the items below one by one (this works best if you use two monitors, or at least two tabs) to replace missteps with better choices.
-* If you type the usage misstep in Google Docs, it'll automatically be corrected.
+* Under Automatic Substitution, enter the items below one by one to replace missteps with better choices.
+* After that, if you type the usage misstep in Google Docs, it'll automatically be corrected.
 
 ### Replace..........With
 
 * for the reason that..........because
 * due to the fact that.........because
 * whether or not...............whether
-
-
+* based off of.................based on
+* based around.................based on
+* hone in on...................home in on
+* in order to..................to
+* in order for.................for
+* judgement....................judgment
+* make use of..................use
+* makes use of.................uses
+* try and......................try to
+* utilize......................use
 
 
 # A
