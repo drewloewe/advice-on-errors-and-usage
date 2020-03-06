@@ -25,6 +25,8 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 * based off of----> based on
 * based around----> based on
 * hone in on----> home in on
+* came to an agreement-----> agreed
+* come to an agreement-----> agree
 * in order to----> to
 * in order for----> for
 * judgement----> judgment
