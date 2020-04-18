@@ -48,7 +48,7 @@ When describing something someone else did, wrote, or said, students often write
 #### *aforementioned*
 Assuming that the reference to something that came before is clear (is it?), this stuffy, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* which creates tone problems, rewrite for clarity.
 #### *allot*, *a lot*, *alot*
-*Allot* is a verb meaning to share or apportion something, e.g., *The prosecution and defense teams were allotted one hour each*. *A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) *Allot* is not a synonym for *a lot* and *a lot* should be tightened up in polished expository prose anyway since it's too imprecise.
+*Allot* is a verb meaning to share or apportion something, e.g., *The prosecution and defense teams were allotted one hour each*. *A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) *Allot* is not a synonym for *a lot* and *a lot* should be tightened up in polished expository prose anyway since it's too imprecise. *Alot* is an incorrect way of writing *a lot.*
 #### *alright* vs *all right*
 *Alright* is definitely not standard usage and is likely to be seen as a blunder by many audiences. In informal contexts and genres, nobody might care if you write *alright.* But in college and workplace writing, stick to *all right* as a two-word phrase and you'll be *all right.* 
 #### *among* vs *amongst*
