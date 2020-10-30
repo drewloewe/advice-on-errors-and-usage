@@ -35,6 +35,7 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 * try and----> try to
 * utilize----> use
 * utilized----> used
+* ways in which---->how 
 
 
 # A
