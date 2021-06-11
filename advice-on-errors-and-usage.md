@@ -364,7 +364,7 @@ I haven't tracked it empirically, but I have years of anecdotal observations to 
 #### titles, articles in periodicals, chapters in edited collections of scholary essays
 Titles of articles in periodicals (newspapers, magazines, scholarly journals) and chapters in edited collections of scholarly essays should be in quotation marks, in title case, no italics, no bolding: Lucas, Brad E. and Drew M. Loewe. “Coordinating Citations and the Cartography of Knowledge: Finding True North in Five Scholarly Journals.” *The Changing of Knowledge in Composition: Contemporary Perspectives*, edited by Richard Gebhardt and Lance Massey, Utah State UP, 2011, pp. 264-82.
 #### titles, blog posts or single pages from a website
-Use quotation marks. Examples: "Decrying Dialects and Despising Speakers,"About Us,""Our Mission," "Something is Wrong on the Internet."
+Use quotation marks. Examples: "Decrying Dialects and Despising Speakers, "About Us," "Our Mission," "Something is Wrong on the Internet."
 #### titles, books
 Italicize book titles. No quotation marks. Ex.: *A Rhetoric of Motives*, *The Hobbit*, *Rhetoric Retold: Regendering the Tradition from Antiquity Through the Renaissance*.
 #### titles, films
