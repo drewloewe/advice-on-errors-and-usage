@@ -19,25 +19,28 @@ You can save yourself some aggravation by using Google Docs' Tools-->Preferences
 You can do the same thing in MS Word under Tools--> Autocorrect Options.
 
 ### Replace----> With
-* for the reason that---> because
-* due to the fact that---> because
-* because of the fact that----> because
-* whether or not----> whether
+
 * based off----> based on
 * based off of----> based on
 * based around----> based on
-* hone in on----> home in on
+* because of the fact that----> because
 * came to an agreement-----> agreed
 * come to an agreement-----> agree
+* despite the fact that---> although
+* due to the fact that---> because
+* for the reason that---> because
+* hone in on----> home in on
 * in order to----> to
 * in order for----> for
+* is applicable to----> applies to
 * judgement----> judgment
 * make use of----> use
 * makes use of----> uses
 * try and----> try to
 * utilize----> use
 * utilized----> used
-* ways in which---->how 
+* whether or not----> whether
+* with the exception of----> except
 
 
 # A
