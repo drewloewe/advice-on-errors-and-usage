@@ -34,6 +34,8 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * in order for----> for
 * is applicable to----> applies to
 * judgement----> judgment
+* do an analysis of----> analyze
+* make an analysis of----> analyze
 * make use of----> use
 * makes use of----> uses
 * try and----> try to
