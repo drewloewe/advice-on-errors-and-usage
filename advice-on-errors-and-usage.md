@@ -157,7 +157,8 @@ Example of dropped quote: Harvard writing teacher Nancy Sommers argues that teac
 
 Possible fix: Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. She calls on teachers to **“develop comments which will provide an inherent reason for students to revise”** because students don’t yet have **“a sense of revision as discovery, as a repeated process of beginning again, as starting out new” (156)**. What are all the changes you see between the two versions of the Sommers quote? 
 
-**NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in as if it stops the conversation of your paper. 
+**NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in. 
+
 #### *due to the fact that*
 *Due to the fact that* can always be switched to a simple *because*. 
 #### *dynamic*
