@@ -93,7 +93,7 @@ Begging the question is a logical fallacy of circular argument, e.g., "God creat
 #### *being that*
 Never write *being that* to mean *because.* Just write *because.*
 #### *blatant, blatantly*
-As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid* or another non-pejorative adjective describing something that stands out.
+As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid,* *emphatic,* or another non-pejorative adjective describing something that stands out.
 #### Britishisms and UK-influenced spellings
 Avoid Britishisms (e.g., *whilst, maths, on holiday, in hospital*) and UK-influenced spellings (e.g., *colour, humour, behaviour, programme, centre*) in American writing contexts. 
 #### *broadcasted*
