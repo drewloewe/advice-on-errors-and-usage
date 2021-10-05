@@ -338,7 +338,7 @@ If you mean *that* or *those*, write *that* or *those.* *Said* sounds like a leg
 #### semicolons in series
 If even one of the individual items in a list has a comma, separate all list items with semicolons. 
 #### serial comma aka "Oxford comma"
-I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](http://www.oxforddictionaries.com/words/what-is-the-oxford-comma)
+I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](https://style.mla.org/serial-commas-and-semicolons/)
 #### *setup* vs. *set up*
 These sound identical, and involve similar concepts, but are not interchangeable. *Setup* is a noun that means "the way that things are arranged" (*The conference room setup includes three whiteboards"). *Set up* is a verb phrase, meaning the action of preparing something or arranging it; it often brackets its object: set X up. (*To set students up for success, the professor gave them a packet of previous years' exams*).
 #### sexist language
