@@ -92,6 +92,8 @@ Logically, nothing can be "based off of/off/around" something else. Just write *
 Begging the question is a logical fallacy of circular argument, e.g., "God created the world because the Bible says so." Using *beg the question* to mean *raise the question* is imprecise. If you mean *raise the question*, write that. 
 #### *being that*
 Never write *being that* to mean *because.* Just write *because.*
+#### *bias* v. *biased*
+*Bias* is a noun; *biased* is an adjective. Sometimes, writers write *bias* when they really mean *biased*, e.g., "The study's conclusion was unacceptably bias (should read: biased) because it excluded the control group." More [here from Paul Brians](https://brians.wsu.edu/2016/05/19/bias-biased/).
 #### *blatant, blatantly*
 As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid,* *emphatic,* or another non-pejorative adjective describing something that stands out.
 #### Britishisms and UK-influenced spellings
