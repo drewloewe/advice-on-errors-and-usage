@@ -233,7 +233,7 @@ The in-text citation is part of the sentence, so the closing punctuation (typica
 It's tedious and unnecessary to keep repeating a long title of a source in an in-text citation. [Writing Commons offers this advice](https://writingcommons.org/open-text/collaboration/167-common-comments/in-text-citations-/625-abbreviate-the-title-of-this-source-in-the-citation) on shortening titles meaningfully.
 #### *issue* vs. *problem*
 If you mean *problem*, you should just write *problem*. Many people use *issue* as a synonym, but it's imprecise. Rework.  
-#### *its* vs. *it's*: 
+#### *its* vs. *it's*
 *Its* is the possessive of *it*: *The monkey played with its tail*. *Its* means "belonging to it." *It's* is a contraction for *it is*: *It's important to know how to cook.* Try reading your writing aloud and seeing if you mean "belonging to it" or "it is." [The Oxford Dictionaries](https://en.oxforddictionaries.com/usage/its-or-it-s) explain more.
 
 # J
