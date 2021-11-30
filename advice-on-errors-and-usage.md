@@ -240,7 +240,7 @@ It's tedious and unnecessary to keep repeating a long title of a source in an in
 #### *issue* vs. *problem*
 If you mean *problem*, you should just write *problem*. Many people use *issue* as a synonym, but it's imprecise. Rework.  
 #### *its* vs. *it's*
-*Its* is the possessive of *it*: *The monkey played with its tail*. *Its* means "belonging to it." *It's* is a contraction for *it is*: *It's important to know how to cook.* Try reading your writing aloud and seeing if you mean "belonging to it" or "it is." [The Oxford Dictionaries](https://en.oxforddictionaries.com/usage/its-or-it-s) explain more.
+*Its* is the possessive of *it*: *The monkey played with its tail*. *Its* means "belonging to it." *It's* is a contraction for *it is*: *It's important to know how to cook.* Try reading your writing aloud, saying "it is" when you come across "it's." If you meant "it is," then the contraction "it's" is correct. If you did not mean "it is," you have mistakenly written "it's" when you meant "its" (the possessive of it). [The Oxford Dictionaries](https://en.oxforddictionaries.com/usage/its-or-it-s) explain more.
 
 # J
 #### *judgment* vs. *judgement*
