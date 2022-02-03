@@ -36,6 +36,7 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * ❌  judgement----> ✅ judgment
 * ❌  do an analysis of----> ✅ analyze
 * ❌  make an analysis of----> ✅ analyze
+* ❌  analyzation---> ✅ analysis
 * ❌  make use of----> ✅ use
 * ❌  makes use of----> ✅ uses
 * ❌  try and----> ✅ try to
