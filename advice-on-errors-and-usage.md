@@ -199,7 +199,7 @@ Current usage favors *first*, *second*, etc. [Merriam-Webster explains why](http
 #### fragment (sentence fragment) (SF)
 I mark these **SF**. Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html). 
 #### fused (aka run-on) sentence (FS)
-I mark these **FS**. If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice on fused sentences from the Center for Writing Studies, UIUC](http://www.cws.illinois.edu/workshop/writers/fusedsentences/).
+I mark these **FS**. If you have two clauses that could each stand alone as individual sentences but they are “smushed” together without punctuation or words to link them, you have a fused/run-on sentence. The run-on sentence is a major disruptive sentence error that harms a writer's credibility--perhaps more than any other disruptive sentence error. [Advice on fused sentences(https://writingcommons.org/section/grammar/sentences/sentence-errors/avoid-run-on-sentences/).
 
 
 # G
