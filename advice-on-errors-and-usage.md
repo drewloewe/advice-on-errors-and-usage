@@ -177,7 +177,7 @@ What are all the changes you see between the two versions of the Sommers quote?
 
 
 # E
-#### editorial *we*/royal *we*
+#### editorial *we* or royal *we*
 As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *we* and *our* when no one else is involved." In the same vein, but with more humor, Mark Twain argues: "Only kings, presidents, editors, and people with tapeworms have the right to use the editorial 'we.'" Rework.
 #### *effectivity*
 *Effectivity* is a word, but it is a rarely used word that most readers would not know—just write *effectiveness*.
@@ -245,7 +245,7 @@ If you mean *problem*, you should just write *problem*. Many people use *issue* 
 
 # J
 #### *judgment* vs. *judgement*
-In American spelling, it's *judgment.* 
+In American spelling, it's *judgment* (*judgement* is UK spelling).
 
 # L 
 
@@ -263,7 +263,7 @@ These phrases as synonyms for *analyze* or *examine* are okay in informal speech
 All this means is "use," so just write "use."
 #### *Meaning that*
 If you begin a sentence *Meaning that....*, you are probably trying to express something like *In other words,...* *Meaning that....* usually indicates a sentence fragment.
-#### *medium/media*
+#### *medium*, *media*
 *Media* as a mass noun is perfectly okay: *The media are investigating Anthony Weiner's tweets.* When referring to a single medium, such as TV, radio, etc., use *medium.* When referring to more than one medium, use *media,* never *mediums*: *Shep Gordon has promoted a variety of artists in several media: live performance, television, films, and books.* *Mediums* is the plural of *medium,* i.e., a person who claims to be in contact with the spirit world: *Madame Xsaya is a medium who charges $500 for a seance* or sizes of things: *Old Navy was sold out of large T-shirts--I could only find mediums.* 
 #### *moreso*
 The one-word spelling *moreso* is gaining in usage and at least one dictionary accepts it. Still, though, most usage is of the two-word phrase *more so.* Maybe in ten years, *moreso* will be fully accepted, but it's not there yet.
@@ -403,7 +403,7 @@ If you are used to thinking, speaking, reading, and writing in Spanish, and are 
 
 # U
 #### *utilize* (vs *use*)
-Some people [claim that there is a meaningful distinction between these words](http://throwgrammarfromthetrain.blogspot.com/2013/12/using-utilize-what-mavens-say.html), but I am not convinced. In my view, *utilize* is always inferior to *use* because it is bureucratic-sounding, elliptical, and unnecessarily burdensome.
+Some people [claim that there is a meaningful distinction between these words](http://throwgrammarfromthetrain.blogspot.com/2013/12/using-utilize-what-mavens-say.html), but I am not convinced. In my view, *utilize* is always inferior to *use* because it is bureucratic-sounding, elliptical, and unnecessarily burdensome. 
 
 # V
 
