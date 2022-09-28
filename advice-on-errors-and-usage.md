@@ -80,7 +80,7 @@ These phrases usually come across as wooly, abstract clutter. Rework for clarity
 This phrase is rank bizspeak/legalese and adds nothing of value. [Prof. Paul Brians has some good advice](https://brians.wsu.edu/2016/05/17/as-per/) for fixing it. Figure out what you are trying to express (it will have something to do with specifications, orders, some stipulated content, directions, etc.) and replace *as per* with a more direct construction. *Per* by itself in this context is just as weak, too.
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
-#### *at this time* / *at this point in time*
+#### *at this time* or *at this point in time*
 These phrases say nothing more than *now,* so you should probably just use *now.*
 
 
@@ -135,7 +135,7 @@ Misused of the phrase *is comprised of* is increasingly common. Bryan Garner exp
 #### conclusions
 Don't begin a conclusion to an essay by writing "In conclusion," "In summary," or some such. As the Harvard Writing Center explains: "These phrases can be useful--even welcome--in oral presentations. But readers can see, by the tell-tale compression of the pages, when an essay is about to end. You'll irritate your audience if you belabor the obvious."
 #### court cases
-Italicize the names of parties in court cases, e.g., *Roe v. Wade,* both in MLA style and in legal citation style that you'll use if you take Legal Writing. 
+Italicize the names of parties in court cases, e.g., *Roe* v. *Wade,* both in MLA style and in legal citation style that you'll use if you take Legal Writing. Don't italicize the v.
 #### *counsel*, *council*, *consul*
 These words are often confused. [This handout from The University of Denver School of Law](https://www.law.du.edu/documents/aap/writing-tips-counsel-council-and-consul.pdf) can help you figure out which of these words you really mean.
 #### *cut and dry*
