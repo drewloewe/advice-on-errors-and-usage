@@ -361,8 +361,7 @@ The slash mark, also sometimes called a *virgule*, is the source of much ambigui
 #### *study*
 If a source did a "study" of something, you have to unpack that for the reader. Of course, there's nothing wrong with using the word "study" to describe some scientific or social-scientific examination of a question and report of findings. But I want to make you aware that writers often fail to sufficiently understand what the particular study is all about and can unwittingly participate in creating misunderstandings. Just telling a reader something like *Smith studied undergraduate writers and found X (67)* is not in fact telling the reader much of value. Whenever you read or hear the word "study," you should ask questions about **who or what was studied exactly, how it was studied, what the sample size was, what the control group was, what the limitations on the findings were, where was the study published**, etc. Unpack those basics for your reader so you understand the importance of the study and why it helps you to explain or argue something. Just reporting the bottom-line finding is usually not enough. See [this article](https://greatergood.berkeley.edu/article/item/10_questions_to_ask_about_scientific_studies) for more advice and critical questions to answer.
 
-### subject-verb mismatch (SV)
-
+#### subject-verb mismatch (SV)
 I mark these SV. Subjects and verbs must agree (that is, match) in your sentences. Errors in subject-verb agreement are rare among writers proficient in English, but even among those writers, they can appear in tricky situations, such as when the subject of the sentence is compound (joined by *and*). The writing center at the University of Wisconsin offers [useful advice on subject-verb agreement](https://www.masterclass.com/articles/subject-verb-agreement). 
 
 
