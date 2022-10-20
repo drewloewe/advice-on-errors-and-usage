@@ -39,6 +39,8 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * ❌  analyzation---> ✅ analysis
 * ❌  make use of----> ✅ use
 * ❌  makes use of----> ✅ uses
+* ❌  prior to----> before
+* ❌  subsequent to----> after
 * ❌  try and----> ✅ try to
 * ❌  utilize----> ✅ use
 * ❌  utilized----> ✅ used
