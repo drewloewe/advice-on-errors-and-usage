@@ -414,6 +414,8 @@ Some people [claim that there is a meaningful distinction between these words](h
 
 #### verbs, precise
 Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://tutoring.asu.edu/sites/default/files/Annotation%20Verbs.pdf) that you will find useful in replacing weak verbs (but try to stay away from *thinks* or *writes,* which are on that list).
+#### *verses* and *versus*
+*Verses* are parts of the Bible, songs, or poems. *Versus* means *in opposition to*. These words sound identical and thus are easy to confuse, but they have entirely different meanings.
 #### *very*
 *Very* should often be cut. It is usually a filler word. *Very* followed by an adjective usually signals a weak construction that should be tightened by cutting *very* and choosing a precise adjective. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*). 
 #### *very unique*
