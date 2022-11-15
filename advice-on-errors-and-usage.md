@@ -71,7 +71,7 @@ Although some writers use *and/or*, don't use it in your own writing. In the wor
 #### APA, multiple uses of single source in one paragraph
 How do you handle multiple uses of a single source in a paragraph? You **can't** just save up one citation for the end of the paragraph and hope that your reader knows that the citation means "all that stuff in this paragraph came from this source." But APA style doesn't oblige you to keep putting the same citation after multiple sentences drawing from the same source in the same paragraph. So what to do? See [this advice](https://rasmussen.libanswers.com/faq/32328) from Rasmussen College Library and Learning Services (the three "good" examples).
 #### apostrophe error
-The Purdue OWL [has some great advice on using apostrophes](https://owl.purdue.edu/owl/general_writing/punctuation/apostrophe_introduction.html).
+The Purdue OWL [has some great advice on using apostrophes](https://owl.purdue.edu/owl/general_writing/punctuation/apostrophe_introduction.html). In particular, watch out for [the dreaded "grocer's apostrophe,"](http://walkinthewords.blogspot.com/2009/05/grocers-apostrophe.html) a common error.
 #### appositive punctutation error
 The Purdue OWL [explains what an appositive is and how to punctuate one](https://owl.english.purdue.edu/owl/resource/596/01/)
 #### article errors
