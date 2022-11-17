@@ -132,8 +132,8 @@ Writers often stumble by not using commas with restrictive clauses. What's a res
 This is one of the most frequent errors that writers make. I mark comma splices as CS. If you have two clauses that could each stand alone as individual sentences but they are joined with a comma, you have a comma splice. Comma splices are disruptive errors because a comma is considered to be “too weak” (too short a pause) to join sentences. You have several options to rework a comma splice. See [this advice](http://advice.writing.utoronto.ca/revising/comma-splices/) for help. 
 #### *compliment* vs. *complement*
 To *compliment* (verb) is to express raise or admiration; as a noun, it's that expression (*He paid me a compliment.*). To *complement* something is to complete it or enhance it: *The red wine was the perfect complement to the grilled steak.* See the [Oxford Dictionaries website](https://blog.oxforddictionaries.com/2011/04/13/compliment-or-complement/) for more information on these commonly confused words.
-#### *comprised of*
-Misused of the phrase *is comprised of* is increasingly common. Bryan Garner explains the problem and offers [this advice](https://www.lawprose.org/lawprose-lesson-145-is-comprised-of/).
+#### *is comprised of* (*comprise, compose, constitute*)
+Perceived misuse of the phrase *is comprised of* is common. Bryan Garner explains the problem and offers [this advice](https://www.lawprose.org/lawprose-lesson-145-is-comprised-of/). As Garner notes, *is comprised of* is in widespread use, but some readers will continue to perceive it as inaccurate. Since part of my job is to help you understand precise usage and avoid making potential gaffes, I ask you to follow Garner's advice on the distinctions between *comprise*, *compose*, and *constitute*.
 #### conclusions
 Don't begin a conclusion to an essay by writing "In conclusion," "In summary," or some such. As the Harvard Writing Center explains: "These phrases can be useful--even welcome--in oral presentations. But readers can see, by the tell-tale compression of the pages, when an essay is about to end. You'll irritate your audience if you belabor the obvious."
 #### court cases
