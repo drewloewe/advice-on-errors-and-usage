@@ -51,21 +51,21 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 # A
 
 #### *is/was able to*
-When describing something someone else did, wrote, or said, students often write that the other person *is/was able to* do, write, or say such and such. If someone actually did something, then it follows that they must have been able to do that thing. The problem is one of emphasis: is the emphasis on the thing that they did, or on their ability to do it? Compare: *Richard Sherman was able to intercept Tom Brady's pass, ending the Patriots' drive.// Richard Sherman intercepted Tom Brady's pass, ending the Patriots' drive.* Where do you want the emphasis? If some precondition is or was necessary to the action, and you want to bring all that out in your sentence, *is/was able to* can be okay: *By watching the receiver's eyes, Richard Sherman was able to time his jump just right to intercept Tom Brady's pass.* 
+When describing something someone else did, wrote, or said, students often write that the other person *is/was able to* do, write, or say such and such. If someone actually did something, then it follows that they must have been able to do that thing. The problem is one of emphasis: is the emphasis on the thing that they did, or on their ability to do it? Compare: *Richard Sherman was able to intercept Tom Brady's pass, ending the Patriots' drive.// Richard Sherman intercepted Tom Brady's pass, ending the Patriots' drive.* Where do you want the emphasis? If some precondition is or was necessary to the action, and you want to bring all that out in your sentence, *is/was able to* can be okay: *By watching the receiver's eyes, Richard Sherman was able to time his jump just right to intercept Tom Brady's pass.* But unless you want to emphasize the precondition, *is/was able to* risks being deadwood.
 #### *aid* vs. *aide*
 *Aid* as a verb means to help or assist; *aid* as a noun means some sort of assistance, e.g., *financial aid.* *Aide* means a staff member that you supervise or direct, e.g., *Wary of causing offense, the President brought his aide for protocol to the state dinner with the Prime Minister of Freedonia.* 
 #### *affect* vs. *effect*
 [Paul Brians explains the correct usage of these commonly confused words](http://public.wsu.edu/~brians/errors/affect.html).
 #### *aforementioned*
-Assuming that the reference to something that came before is clear (is it?), this stuffy, highfalutin, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* which creates tone problems, rewrite for clarity.
+Assuming that the reference to something that came before is clear (is it?), this stuffy, highfalutin, legalese-sounding word can be replaced with some other pointing word such as *these, that,* or *those.* Rather than using *aforementioned,* which creates tone problems, rewrite.
 #### *allot*, *a lot*, *alot*
 *Allot* is a verb meaning to share or apportion something, e.g., *The prosecution and defense teams were allotted one hour each*. *A lot* is an informal way of expressing a large quantity when formality and specifics don't matter (*He ate a lot of green beans yesterday. A lot of the first-down plays were short passes over the middle.*) *Allot* is not a synonym for *a lot* and *a lot* should be tightened up in polished expository prose anyway since it's too imprecise. *Alot* is an incorrect way of writing *a lot.*
 #### *alright* vs *all right*
-*Alright* is definitely not standard usage and is likely to be seen as a blunder by many audiences. In informal contexts and genres, nobody might care if you write *alright.* But in college and workplace writing, stick to *all right* as a two-word phrase and you'll be *all right.* 
+*Alright* is not standard usage and is likely to be seen as a blunder by some audiences. In informal contexts and genres, nobody might care if you write *alright.* But in college and workplace writing, stick to *all right* as a two-word phrase and you'll be, well,... *all right.* 
 #### *among* vs *amongst*
-In American English (and assuming expository writing), there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
+In US English (and assuming expository writing), there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
 #### *analyzation*
-This is arguably a word (so say some sources), though Garner calls it "pseudo-learned," a "nonword," and a needless variant. In anyone's hands, even if it's a word, it just means "analysis." So why use it?
+This is arguably a word (so say some sources), though Garner calls it "pseudo-learned," a "nonword," and a "needless variant." In anyone's hands, even if it's a word, it just means "analysis." So rewrite it.
 #### *and/or*
 Although some writers use *and/or*, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this Janus-faced term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities." *And/or* is a misunderstanding waiting to happen. 
 #### APA, multiple uses of single source in one paragraph
@@ -75,7 +75,7 @@ The Purdue OWL [has some great advice on using apostrophes](https://owl.purdue.e
 #### appositive punctutation error
 The Purdue OWL [explains what an appositive is and how to punctuate one](https://owl.english.purdue.edu/owl/resource/596/01/)
 #### article errors
-Articles (a, an, the) often confuse English language learners because such learners' languages may not use articles at all, but English uses them extensively. [Claus Wilke offers a good overview of correct article use in English](https://serialmentor.com/blog/2013/10/1/articles#note2).
+Articles (*a, an, the*) often confuse English language learners because such learners' languages may not use articles at all, but English uses them extensively. [The Purdue OWL has some good advice](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html).
 #### *as humans*, *we as humans*, *as people*
 These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut. Consider why *as humans* is in the sentence in the first place. Try substituting it with other terms: *we as basketballs, we as fish* to see the oddness of this phrase. 
 #### *as per*
