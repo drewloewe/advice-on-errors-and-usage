@@ -79,11 +79,11 @@ Articles (*a, an, the*) often confuse English language learners because such lea
 #### *as humans*, *we as humans*, *as people*
 These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut. Consider why *as humans* is in the sentence in the first place. Try substituting it with other terms: *we as basketballs, we as fish* to see the oddness of this phrase. 
 #### *as per*
-This phrase is rank jargon and adds nothing of value. [Prof. Paul Brians has some good advice](https://brians.wsu.edu/2016/05/17/as-per/) for fixing it. Figure out what you are trying to express (it will have something to do with specifications, orders, some stipulated content, directions, etc.) and replace *as per* with a more direct construction. *Per* by itself in this context is just as weak, too.
+This phrase is mere jargon and should be reworked. [Prof. Paul Brians has some good advice](https://brians.wsu.edu/2016/05/17/as-per/) for fixing it. Figure out what you are trying to express (it will have something to do with specifications, orders, some stipulated content, directions, etc.) and replace *as per* with a more direct construction. *Per* by itself in this context is just as weak, too.
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
 #### *at this time* or *at this point in time*
-These phrases say nothing more than *now,* so you should probably just use *now.*
+These phrases say nothing more than *now,* so consider just using *now.*
 
 
 
@@ -96,11 +96,11 @@ Begging the question is a logical fallacy of circular argument, e.g., "God creat
 #### *being that*
 Never write *being that* to mean *because.* Just write *because.*
 #### *bias* v. *biased*
-*Bias* is a noun; *biased* is an adjective. Sometimes, writers write *bias* when they really mean *biased*, e.g., "The study's conclusion was unacceptably bias (should read: biased) because it excluded the control group." [Paul Brians explains the difference more here.](https://brians.wsu.edu/2016/05/19/bias-biased/)
+*Bias* is a noun; *biased* is an adjective. Sometimes, writers write *bias* when they really mean *biased*, e.g., "The study's conclusion was unacceptably bias (should read: *biased*) because it excluded the control group." [Paul Brians explains the difference more here.](https://brians.wsu.edu/2016/05/19/bias-biased/)
 #### *blatant, blatantly*
-As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid,* *emphatic,* or another non-pejorative adjective describing something that stands out.
+As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid,* *emphatic,* or another non-pejorative adjective describing something that stands out. Do you intend a pejorative characterization?
 #### Britishisms and UK-influenced spellings
-While they are not "errors," avoid Britishisms (e.g., *whilst, maths, on holiday, in hospital*, *at the weekend*) and UK-influenced spellings (e.g., *colour, humour, behaviour, programme, centre*) in US writing contexts. 
+While they are not "errors," avoid Britishisms (e.g., *whilst, maths, on holiday, in hospital*, *at the weekend*) and UK-influenced spellings (e.g., *colour, humour, behaviour, programme, judgement, kerb, centre*) in US writing contexts. 
 #### *broadcasted*
 The past tense of *broadcast is *broadcast,* not *broadcasted.* *Broadcasted* seems logical, but its usage in quality print sources is far outweighed by *broadcast.* So, *The show was broadcast on March 7, 1989* is correct. 
 #### buried verb
