@@ -78,7 +78,7 @@ The Purdue OWL [explains what an appositive is and how to punctuate one](https:/
 Articles (*a, an, the*) often confuse English language learners because such learners' languages may not use articles at all, but English uses them extensively. [The Purdue OWL has some good advice](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html).
 #### *as humans*, *we as humans*, *as people*
 These phrases usually come across as wooly, abstract clutter. Rework for clarity or simply cut. Consider why *as humans* is in the sentence in the first place. Try substituting it with other terms: *we as basketballs, we as fish* to see the oddness of this phrase. 
-#### *as per*
+#### *as per*, *per* as substitute for *as per*
 This phrase is mere jargon and should be reworked. [Prof. Paul Brians has some good advice](https://brians.wsu.edu/2016/05/17/as-per/) for fixing it. Figure out what you are trying to express (it will have something to do with specifications, orders, some stipulated content, directions, etc.) and replace *as per* with a more direct construction. *Per* by itself in this context is just as weak, too.
 #### *as such*
 Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
