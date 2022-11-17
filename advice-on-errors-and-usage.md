@@ -172,6 +172,8 @@ What are all the changes you see between the two versions of the Sommers quote?
 
 **NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in. See this [advice from the UNC Writing Center](https://writingcenter.unc.edu/tips-and-tools/quotations/), as well as this advice from [Trinity University's library](https://lib.trinity.edu/integrating-sources-in-the-text-of-your-paper/).
 
+Interestingly, legal writing often uses what would be considered dropped quotes, but 
+
 #### *due to the fact that*
 *Due to the fact that* can always be switched to a simple *because*. 
 #### *dynamic*
