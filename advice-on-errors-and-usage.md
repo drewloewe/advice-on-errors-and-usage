@@ -393,7 +393,7 @@ Titles of articles in periodicals (newspapers, magazines, scholarly journals) an
 #### titles, blog posts or single pages from a website
 Use quotation marks. Examples: "Decrying Dialects and Despising Speakers, "About Us," "Our Mission," "Something is Wrong on the Internet."
 #### titles, books
-Italicize book titles. No quotation marks. Ex.: *A Rhetoric of Motives*, *The Hobbit*, *Rhetoric Retold: Regendering the Tradition from Antiquity Through the Renaissance*.
+Italicize book titles. No quotation marks. Ex.: *A Rhetoric of Motives*, *The Hobbit*, *The Copyeditor's Handbook: A Guide for Book Publishing and Corporate Communications*.
 #### titles, films
 In MLA style, film titles are italicized: *The Godfather*, *Shrek*, *Sharknado*. Other styles, such as the *New York Times* style sheet, use double quotation marks: "The Godfather," "Shrek," "Sharknado."
 #### titles, music
