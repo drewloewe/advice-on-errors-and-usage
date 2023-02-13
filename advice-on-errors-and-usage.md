@@ -37,6 +37,7 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * ❌  do an analysis of----> ✅ analyze
 * ❌  make an analysis of----> ✅ analyze
 * ❌  analyzation---> ✅ analysis
+* ❌  made use of----> ✅ used
 * ❌  make use of----> ✅ use
 * ❌  makes use of----> ✅ uses
 * ❌  prior to----> before
