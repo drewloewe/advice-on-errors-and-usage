@@ -89,6 +89,8 @@ These phrases say nothing more than *now,* so consider just using *now.*
 
 # B
 
+#### *basis* v. *bases*
+These words are often confused. *Basis* (bay-siss) has several meanings, which [Merriam Webster explains here](https://www.merriam-webster.com/dictionary/basis). *Bases* (bay-sees) is the plural of *basis*. Do you mean singular or plural?
 #### *based off*, *based off of*, *based around*
 Logically, nothing can be "based off of/off/around" something else. Just write *based on.*
 #### *begs the question* vs. *raises the question*
