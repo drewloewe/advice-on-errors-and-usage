@@ -161,7 +161,7 @@ Although this sort of shift in function (*disconnect* is first a verb, not a nou
 #### *discreet* vs. *discrete*
 These two words are often confused, but [they have distinct meanings.](https://en.oxforddictionaries.com/usage/discreet-or-discrete)
 #### dropped quote (DQ)
-Always integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. A “dropped quote” is a quote that you do not set up, introduce, or explain with your own writing. 
+In contexts outside of legal writing (which has different conventions), ALWAYS integrate quoted material into a sentence of your own writing. If you don’t, the quote feels “dropped” or plunked into the paper, harming both your voice and your control of source material. [Kyle Stedman calls this misuse of source material "Armadillo Roadkill."](https://wac.colostate.edu/books/writingspaces2/stedman--annoying-ways.pdf) Others call it a "dropped quote." A dropped quote is a quote that you do not set up, introduce, or explain with your own writing. 
 
 Example of dropped quote: 
   * Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. **“The challenge we face as teachers is to develop comments which will provide an inherent reason for students to revise; it is a sense of revision as discovery, as a repeated process of beginning again, as starting out new, that our students have not learned” (156).** 
@@ -175,7 +175,6 @@ What are all the changes you see between the two versions of the Sommers quote?
 
 **NB**: After the quote, you should use it in some way: connect it to other source material, comment on it, argue with it, etc. Even if you integrate sources correctly and avoid dropped quotes, you still have to work with the source, not just plop it in. See this [advice from the UNC Writing Center](https://writingcenter.unc.edu/tips-and-tools/quotations/), as well as this advice from [Trinity University's library](https://lib.trinity.edu/integrating-sources-in-the-text-of-your-paper/).
 
-Interestingly, legal writing often uses what would be considered dropped quotes, but 
 
 #### *due to the fact that*
 *Due to the fact that* can always be switched to a simple *because*. 
