@@ -82,7 +82,7 @@ These phrases usually come across as wooly, abstract clutter. Rework for clarity
 #### *as per*, *per* as substitute for *as per*
 This phrase is mere jargon and should be reworked. [Prof. Paul Brians has some good advice](https://brians.wsu.edu/2016/05/17/as-per/) for fixing it. Figure out what you are trying to express (it will have something to do with specifications, orders, some stipulated content, directions, etc.) and replace *as per* with a more direct construction. *Per* by itself in this context is just as weak, too.
 #### *as such*
-Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/)
+Bryan Garner: "Take care when using this phrase. Good usage requires employing *as such* only if you can replace it with “as [some noun just mentioned].” Never use *as such* to express causation (instead, use *thus,* *therefore,* or *so*). [Read more from Garner on this phrase](http://www.lawprose.org/lawprose-lesson-179-as-such/).
 #### *at this time* or *at this point in time*
 These phrases say nothing more than *now,* so consider just using *now.*
 
@@ -91,7 +91,7 @@ These phrases say nothing more than *now,* so consider just using *now.*
 # B
 
 #### *basis* v. *bases*
-These words are often confused. *Basis* (bay-siss) has several meanings, which [Merriam Webster explains here](https://www.merriam-webster.com/dictionary/basis). *Bases* (bay-sees) is the plural of *basis*. Do you mean singular or plural?
+These words are often confused. *Basis* (bay-siss) has several meanings, which [Merriam Webster explains here](https://www.merriam-webster.com/dictionary/basis). *Bases* (bay-sees) is the plural of *basis*. Do you mean singular or plural? Double-check.
 #### *based off*, *based off of*, *based around*
 Logically, nothing can be "based off of/off/around" something else. Just write *based on.*
 #### *begs the question* vs. *raises the question*
@@ -103,7 +103,7 @@ Never write *being that* to mean *because.* Just write *because.*
 #### *blatant, blatantly*
 As Bryan Garner explains, "What is blatant stands out glaringly or repungnantly." *Blatant* has a pejorative connotation, e.g., *A blatant lie.* Often, students write *blatant* when they mean something like *vivid,* *emphatic,* or another non-pejorative adjective describing something that stands out. Do you intend a pejorative characterization?
 #### Britishisms and UK-influenced spellings
-While they are not "errors," avoid Britishisms (e.g., *whilst, maths, on holiday, in hospital*, *at the weekend*) and UK-influenced spellings (e.g., *colour, humour, behaviour, programme, judgement, kerb, centre*) in US writing contexts. 
+While they are certainly not "errors," you should avoid Britishisms (e.g., *whilst, maths, on holiday, in hospital*, *at the weekend*) and UK-influenced spellings (e.g., *colour, humour, behaviour, programme, judgement, kerb, centre*) in US writing contexts. 
 #### *broadcasted*
 The past tense of *broadcast is *broadcast,* not *broadcasted.* *Broadcasted* seems logical, but its usage in quality print sources is far outweighed by *broadcast.* So, *The show was broadcast on March 7, 1989* is correct. 
 #### buried verb
