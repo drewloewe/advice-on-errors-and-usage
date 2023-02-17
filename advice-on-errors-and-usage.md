@@ -268,7 +268,7 @@ Errors with these irregular verbs are common. [Here is some solid advice](http:/
 #### *like* vs. *such as*
 Strict usage sticklers insist that *like* (in this sense) means "similar to," while *such as* introduces examples. This so-called rule may never have been a rule in the first place, but some readers insist upon it. In general, it might be a good idea to ask whether you mean to focus on the class of things (drawing similarities) or on examples and choose accordingly. I have read that academic writing favors *such as* because it often uses examples, but I have not seen the support for that position myself. A [history and synopsis of this usage question](http://www.grammarphobia.com/blog/2012/02/like-such-as.html) can be found at the Grammarphobia blog. 
 #### *Look at/looking at*/*look into*/*talk about*
-These phrases as synonyms for *analyze* or *examine* are okay in informal speech and informal writing, but you're probably better off being precise and just writing *analyze,* *examine,* or some such in most of your expository writing.
+These phrases as synonyms for *analyze*, *explain*, or *examine* are okay in informal speech and informal writing, but you're probably better off being precise and just writing *analyze,* *explain*, *examine,* or some such in most of your expository writing.
 
 # M
 #### *make use of*
