@@ -413,6 +413,8 @@ Titles of periodicals (newspapers, magazines, scholarly journals) should be ital
 In MLA style, play titles are italicized: *The Book of Mormon,* *Hamlet,* *Glengarry Glen Ross.* The titles of short plays, e.g., one-act plays, are in quotation marks: "This Is a Test," "Two Guys in a Bar." Individual numbers (songs) in a musical are titled in quotation marks: "Man Up," "Aaron Burr, Sir." 
 #### titles, TV shows
 In MLA style, italicize the titles of TV programs: *The Wire,* *Monday Night Football*. Use quotation marks for titles of individual episodes: The “Amok Time” episode of *Star Trek*
+#### titles, videogames
+In MLA style, italicize the titles of videogames: *Red Dead Redemption 2*, *The Witcher III: Wild Hunt*, *Dead Rising 4*, *Galaga*. 
 #### *toward* vs *towards*
 You should, in US English contexts, favor *toward* over *towards.* Brian Garner explains that *toward* has been preferred in US English usage "[s]ince about 1900."
 #### transfer errors, Spanish to English
