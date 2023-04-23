@@ -374,7 +374,7 @@ When a source truly misspells something or is ungrammatical, but you are quoting
 #### slash mark
 The slash mark, also sometimes called a *virgule*, is the source of much ambiguity and ineffective writing. You should generally avoid it, unless it's in a well-known phrase such as *he said/she said*. But writers often use the slash to mean *or, *and, *X or Y, or both*, leaving readers guessing as to which possibility is the intended one. Rework to use whatever words express the intended relationship rather than leaning on the ambiguity-spawning slash mark.  
 #### spacing errors
-Recently (academic year '22-'23), I have seen a remarkable uptick in spacing errors in students' writing, usually in the form of not having any spacing after a period ending a sentence. While putting two spaces after a period (older preference) or one space after a period (newer preference in the age of ubiquitous word processing) has been a matter of debate, it's not correct to have NO space after a period ending a sentence. 
+Recently (academic year '22-'23), I have seen a remarkable uptick in spacing errors in students' writing, usually in the form of not having any spacing after a period ending a sentence. While putting two spaces after a period (older preference) or one space after a period (recent preference) has been a matter of debate, it's not correct to have NO space after a period ending a sentence. 
 
 - **Wrong** You should put a space after a period ending a sentence.You don't want the text crowded too closely.
 - **Right** You should put a space after a period ending a sentence. You don't want the text crowded too closely.
