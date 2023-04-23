@@ -381,7 +381,7 @@ Recently (academic year '22-'23), I have seen a remarkable uptick in spacing err
 
 Less common are spacing errors such as this:
 
-- **Wrong** Smith also notes that "reading your writing aloud provides several benefits, including the opportunity to get closer to hearing how your writing sounds in a reader's head" (9 ). (No space should be after the page number and before the closing parenthesis.
+- **Wrong** Smith also notes that "reading your writing aloud provides several benefits, including the opportunity to get closer to hearing how your writing sounds in a reader's head" (9 ).
 - **Right** Smith also notes that "reading your writing aloud provides several benefits, including the opportunity to get closer to hearing how your writing sounds in a reader's head" (9).
 
 #### *study*
