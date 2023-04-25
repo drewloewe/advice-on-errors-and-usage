@@ -321,7 +321,7 @@ I agree with Bryan Garner that *per* is an avoidable Latinism that should simply
 #### periods or other closing punctuation, spaces after
 Use [one space after a period or other closing punctuation](http://www.chicagomanualofstyle.org/qanda/data/faq/topics/OneSpaceorTwo.html) in Loewe classes and in most situations when you're writing to people who understand typography. However, a few specific audiences still want two spaces after a period, including [the APA (in preparing manuscripts](https://owl.english.purdue.edu/owl/resource/560/24/)--I'd like to see the resulting printed journals from these manuscripts, which likely do not have two spaces). 
 #### people vs entities: pronouns
-Is it *it/its* or *they/theirs* when referring to groups of people, companies, institutions, countries? Students often write *they/their* when it should be *it/its*. See [this advice](http://www.quickanddirtytips.com/education/grammar/people-versus-entities).
+Is it *it/its* or *they/theirs* when referring to groups of people, companies, institutions, countries? Students often write *they/their* when it should be *it/its*. See also [this advice](https://www.quickanddirtytips.com/articles/is-it-a-company-who-or-a-company-that/) for the problem of "a company that" vs. "a company who."
 #### *piece of rhetoric* (or *rhetoric piece/rhetorical piece,* etc.)
 Please do not write about rhetorical artifacts or occasions as "piece(s) of rhetoric." Sometimes, articles or op-eds or similar writings are informally called "pieces," but "piece of rhetoric" makes no sense. Rhetoric is not reducible to any particular artifact or contained within it. Finally, nobody in the discipline uses the term "piece of rhetoric," so it's best to avoid that phrase.
 #### *principal* vs *principle*
