@@ -437,7 +437,7 @@ If you are used to thinking, speaking, reading, and writing in Spanish, and are 
 
 # U
 #### *utilize* (vs *use*)
-Some people [claim that there is a meaningful distinction between these words](http://throwgrammarfromthetrain.blogspot.com/2013/12/using-utilize-what-mavens-say.html), but I am not convinced. In my view, *utilize* is always inferior to *use* because it is bureucratic-sounding, elliptical, and unnecessarily burdensome. 
+Some people [claim that there is a meaningful distinction between these words](http://throwgrammarfromthetrain.blogspot.com/2013/12/using-utilize-what-mavens-say.html), but I am not convinced. In my view, *use* is almost always preferable to *utilize* because *utilize* is bureaucratic in tone and uses three syllables to do what *use* does in just one. So *use* should be your default choice unless there's a good reason to write *utilize.*
 
 # V
 
