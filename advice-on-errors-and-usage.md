@@ -442,7 +442,7 @@ Some people [claim that there is a meaningful distinction between these words](h
 # V
 
 #### verbs, precise
-Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://tutoring.asu.edu/sites/default/files/Annotation%20Verbs.pdf) that you will find useful in replacing weak verbs (but try to stay away from *thinks* or *writes,* which are on that list).
+Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or precise than other verbs you can choose. Try to choose a verb that most accurately characterizes the action you are trying to show. Here is a [list of precise verbs](https://www.centralia.edu/resources/docs/verbsatrib.pdf) that you will find useful in replacing weak verbs (but try to stay away from *thinks* or *writes,* which are on that list).
 #### *verses* and *versus*
 *Verses* are parts of the Bible, songs, or poems. *Versus* means *in opposition to*. These words sound identical and thus are easy to confuse, but they have entirely different meanings.
 #### *very*
