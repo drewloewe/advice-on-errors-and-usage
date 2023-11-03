@@ -364,7 +364,7 @@ I mark these **SF**. Sometimes, expert writers use sentence fragments for voice 
 #### serial comma aka "Oxford comma"
 I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](https://style.mla.org/serial-commas-and-semicolons/)
 #### *setup* vs. *set up*
-These sound identical, and involve similar concepts, but are not interchangeable. *Setup* is a noun that means "the way that things are arranged" (*The conference room setup includes three whiteboards"). *Set up* is a verb phrase, meaning the action of preparing something or arranging it; it often brackets its object: set X up. (*To set students up for success, the professor gave them a packet of previous years' exams*).
+These sound identical, and involve similar concepts, but are not interchangeable. *Setup* is a noun that means "the way that things are arranged" (*The conference room setup includes three whiteboards*). *Set up* is a verb phrase, meaning the action of preparing something or arranging it; it often brackets its object: set X up. (*To set students up for success, the professor gave them a packet of previous years' exams*).
 #### sexist language
 [Garner offers strategies](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-3/) for reworking sentences to avoid a generic masculine pronoun and for [handling words that traditionally end in -man](http://www.lawprose.org/garners-usage-tip-of-the-day-sexism-5/) (e.g., *fireman* becomes *firefighter*). 
 #### *showcase*
@@ -376,7 +376,7 @@ When a source truly misspells something or is ungrammatical, but you are quoting
 #### slash mark
 The slash mark, also sometimes called a *virgule*, is the source of much ambiguity and ineffective writing. You should generally avoid it, unless it's in a well-known phrase such as *he said/she said*. But writers often use the slash to mean *or, *and, *X or Y, or both*, leaving readers guessing as to which possibility is the intended one. Rework to use whatever words express the intended relationship rather than leaning on the ambiguity-spawning slash mark.  
 #### spacing errors
-Recently (academic year '22-'23), I have seen a remarkable uptick in spacing errors in students' writing, usually in the form of not having any spacing after a period ending a sentence. While putting two spaces after a period (older preference) or one space after a period (recent preference) has been a matter of debate, it's not correct to have NO space after a period ending a sentence. 
+Recently (beginning in academic year '22-'23), I have seen a remarkable uptick in spacing errors in students' writing, usually in the form of not having any spacing after a period ending a sentence. While putting two spaces after a period (older preference) or one space after a period (recent preference) has been a matter of debate, it's never correct to have NO space after a period ending a sentence. 
 
 - **Wrong** You should put a space after a period ending a sentence.You don't want the text crowded too closely.
 - **Right** You should put a space after a period ending a sentence. You don't want the text crowded too closely.
@@ -385,6 +385,8 @@ Less common are spacing errors such as this:
 
 - **Wrong** Smith also notes that "reading your writing aloud provides several benefits, including the opportunity to get closer to hearing how your writing sounds in a reader's head" (9 ).
 - **Right** Smith also notes that "reading your writing aloud provides several benefits, including the opportunity to get closer to hearing how your writing sounds in a reader's head" (9).
+
+Find and fix your spacing errors. Usually, Google Docs or MS Word will show spacing errors.
 
 #### *study*
 If a source did a "study" of something, you have to unpack that for the reader. Of course, there's nothing wrong with using the word "study" to describe some scientific or social-scientific examination of a question and report of findings. But I want to make you aware that writers often fail to sufficiently understand what the particular study is all about and can unwittingly participate in creating misunderstandings. Just telling a reader something like *Smith studied undergraduate writers and found X (67)* is not in fact telling the reader much of value. Whenever you read or hear the word "study," you should ask questions about **who or what was studied exactly, how it was studied, what the sample size was, what the control group was, what the limitations on the findings were, where was the study published**, etc. Unpack those basics for your reader so you understand the importance of the study and why it helps you to explain or argue something. Just reporting the bottom-line finding is usually not enough. See [this article](https://greatergood.berkeley.edu/article/item/10_questions_to_ask_about_scientific_studies) for more advice and critical questions to answer.
