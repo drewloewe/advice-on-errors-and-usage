@@ -66,7 +66,7 @@ Assuming that the reference to something that came before is clear (is it?), thi
 #### *among* vs *amongst*
 In US English (and assuming expository writing), there is no reason to write the stuffy and old-fashioned-sounding *amongst.* Just write *among.* 
 #### ampersand
-In the writing that you'll do in my classes, spell out the word *and* instead of using the ampersand (&) character. **Exception: use the ampersand if it's part of a company name, e.g., Proctor & Gamble.
+In the writing that you'll do in my classes, spell out the word *and* instead of using the ampersand (&) character. **Exception:** use the ampersand if it's part of a company name, e.g., Proctor & Gamble.
 #### *analyzation*
 This is arguably a word (so say some sources), though Garner calls it "pseudo-learned," a "nonword," and a "needless variant." In anyone's hands, even if it's a word, it just means "analysis." So rewrite it.
 #### *and/or*
