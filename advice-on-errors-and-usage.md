@@ -71,7 +71,7 @@ In the writing that you'll do in my classes, spell out the word *and* instead of
 This is arguably a word (so say some sources), though Garner calls it "pseudo-learned," a "nonword," and a "needless variant." In anyone's hands, even if it's a word, it just means "analysis." So rewrite it.
 #### *and/or*
 Although some writers use *and/or*, don't use it in your own writing. In the words of the *Chicago Manual of Style*, 16th ed (Chicago: University of Chicago Press, 2010), Rule 5.220 at 266: "Avoid this [Janus-faced](https://www.merriam-webster.com/dictionary/Janus-faced) term. It can often be replaced by "and" or "or" with no loss in meaning. Where it seems needed . . . , try "or" . . . or both (e.g., "take a sleeping pill or a warm drink or both"). But think of other possibilities." *And/or* is a misunderstanding waiting to happen. 
-#### APA, multiple uses of single source in one paragraph
+#### APA, multiple uses of a single source in one paragraph
 How do you handle multiple uses of a single source in a paragraph? You **can't** just save up one citation for the end of the paragraph and hope that your reader knows that the citation means "all that stuff in this paragraph came from this source." But APA style doesn't oblige you to keep putting the same citation after multiple sentences drawing from the same source in the same paragraph. So what to do? See [this advice](https://rasmussen.libanswers.com/faq/32328) from Rasmussen College Library and Learning Services (the three "good" examples).
 #### apostrophe error
 The Purdue OWL [has some great advice on using apostrophes](https://owl.purdue.edu/owl/general_writing/punctuation/apostrophe_introduction.html), as does [The Punctuation Guide website](https://www.thepunctuationguide.com/apostrophe.html). In particular, watch out for [the dreaded "grocer's apostrophe,"](http://walkinthewords.blogspot.com/2009/05/grocers-apostrophe.html) a common error.
@@ -116,20 +116,20 @@ A “buried” verb is a noun that is really a verb or adjective in disguise, of
 #### capitalization, general
 The [Purdue OWL explains the rules for using capital letters](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html). NB: When referring to someone by title, capitalize the title if it precedes their name: *President Lincoln.* Don't capitalize titles that refer generically to the idea of the title: *College presidents need to listen to faculty.* Don't capitalize titles that come after the name: *Ted Cruz is a senator who has not always gotten along with his own party.* But: *Senator Cruz spoke at the luncheon.* 
 #### capitalization, *armed forces*
-"Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed-forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
+"Capitalize only as a proper name (*Armed Forces Day*), not as a noun (*the armed forces*) or adjective (*an armed forces member*). Lower case unless part of a title or when preceded by *U.S.*, as in *U.S. Armed Forces*." Source: [US Navy Style Guide](http://www.navy.mil/tools/view_styleguide_all.asp).
 #### *case-by-case*
-Bryan Garner, in his *Dictionary of Modern Legal Usage,* explains that this phrase needs to be hyphenated when appearing before the noun it modifies, but not hyphenated when appearing after it. So: *on a case-by-case basis:; *the court developed this doctrine case by case.*
+Bryan Garner, in his *Dictionary of Modern Legal Usage,* explains that this phrase needs to be hyphenated when appearing before the noun it modifies, but not hyphenated when appearing after it. So: *on a case-by-case basis*; *the court developed this doctrine case by case.*
 #### *Catholic, catholic*
 Capitalize *Catholic* when it has anything to do with the Catholic Church, (e.g., *St. Edward's is a Catholic university.*) The word *catholic* can be an adjective, lower-cased, connoting "universal," "broad-minded," "wide-ranging," and the like. 
 #### *cite* vs *site* vs. *sight*
-These words sound the same, but differ in meaning. In writing, to *cite* something is to refer to something and show a source for it, such as citing an article that you used in writing a paper or a lawyer citing a statute in their legal argument. *Site* means location, e.g., a construction site (physical location) or a social media site (online location). *Sight* means the ability to see, or something that is seen (e.g, *I am going to New York City to see the sights*).
+These words sound the same but differ in meaning. In writing, to *cite* something is to refer to something and show a source for it, such as citing an article that you used in writing a paper or a lawyer citing a statute in their legal argument. *Site* means location, e.g., a construction site (physical location) or a social media site (online location). *Sight* means the ability to see, or something that is seen (e.g., *I am going to New York City to see the sights*).
 #### classic style
 Classic style, a term coined by Francis Noel-Thomas and Mark Turner, describes a middle style between informal and formal. It aims for clarity and economy of expression. The goal is to make writing sound like educated speech (not stuffy speech, not highfalutin speech) and to create a confident, thoughtful persona through stylistic choices that are deeper than just the surface features of text. [Here is a good summary of classic style](https://www.stafforini.com/blog/summary-of-clear-and-simple-as-the-truth/). [Here is much more on classic style, including caveats](https://classicprose.com/csguide.html#RATIONALE.COURSE). 
 #### cliche
 A cliche can be any overused metaphor, word, or phrase that you've heard or read so many times that any clarity or vividness it might once have had is gone. Examples: *tried and true, easier said than done, student-centered learning, at the end of the day, straight and narrow, paradigm shift, think outside the box, everyone is entitled to their own opinion*, etc. Try to avoid cliches in your own writing. Here is a [website listing common cliches](http://clichesite.com/alpha_list.asp?which=lett+1). 
 #### commas with coordinating conjunctions
 Bryan Garner explains [the basics of handling this tricky situation](http://www.lawprose.org/lawprose-lesson-198-commas-with-coordinating-conjunctions/). 
-#### comma after introductory element
+#### comma after an introductory element
 Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [The Texas A&M Writing Center explains more here](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Punctuation/Comma-Guide).
 #### comma with nonrestrictive element
 Writers often stumble by not using commas with restrictive clauses. What's a restrictive clause? As the Writing Center at Texas A&M explains, "If you can eliminate the element [of the sentence] without altering \[your meaning\], then it’s a nonrestrictive element and should be marked off with commas." [More advice and explanation from A&M's Writing Center](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Punctuation/Comma-Guide) can be found under Nonrestrictive Elements (or “Extra Stuff”).
@@ -170,7 +170,7 @@ Example of dropped quote:
   
 The quote is simply plunked into the writing. Dropped quotes are easy to spot: they are sentences consisting only of quoted material, with no setup or lead-out in that sentence from the writer quoting the source.
 
-Possible fix for dropped quote: 
+Possible fix for a dropped quote: 
   * Harvard writing teacher Nancy Sommers argues that teachers should work on giving students feedback that motivates revision. She calls on teachers to **“develop comments which will provide an inherent reason for students to revise”** because students don’t yet have **“a sense of revision as discovery, as a repeated process of beginning again, as starting out new” (156)**. 
 
 What are all the changes you see between the two versions of the Sommers quote? 
@@ -190,11 +190,11 @@ As Bryan Garner puts it, "It is certainly eccentric to see a solo writer using *
 #### *effectivity*
 *Effectivity* is a word, but it is a rarely used word that most readers would not know—just write *effectiveness*.
 #### *elicit* and *illicit*
-*Elicit,* a verb, means "to bring forth," or to "draw out." *Illicit* is an adjective, meaning *illegal* or *not allowed.* More on these two words and how to keep their meanings clear [can be found on the Oxford Dictoniaries Blog](https://blog.oxforddictionaries.com/2014/03/31/elicit-illicit/).
+*Elicit,* a verb, means "to bring forth," or to "draw out." *Illicit* is an adjective, meaning *illegal* or *not allowed.* More on these two words and how to keep their meanings clear [can be found on the Oxford Dictionaries Blog](https://blog.oxforddictionaries.com/2014/03/31/elicit-illicit/).
 #### *every day* vs. *everyday*
 *Every day,* a two-word phrase that functions as an **adverb** describes the manner or extent of something that happens regularly, e.g.  *He walks his dog every day.* *Everyday,* a one-word **adjective**, describes something that is commonplace or ordinary: *Commuting on Mopac is an everyday torment for many drivers.* 
 #### existential filler
-A *There is...* or *There are...* or *It is...* sentence-opener is usually filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* Such phrases in other places in a sentence can also indicate wordiness. Search for these phrases and similar ones in your writing and see whether you should rework the sentences that have them. Most existential *it is*/*there is*/*there are* statements can be cut and reworked to be less wordy and abstract.
+A *There is...* or *There are...* or *It is...* sentence-opener is usually mere filler that can be cut. Example: *There are many people who believe that Sasquatch exists.* Rework to *Many people believe that Sasquatch exists.* Such phrases in other places in a sentence can also indicate wordiness. Search for these phrases and similar ones in your writing and see whether you should rework the sentences that have them. Most existential *it is*/*there is*/*there are* statements can be cut and reworked to be less wordy and abstract.
 
 # F
 
@@ -202,7 +202,7 @@ A *There is...* or *There are...* or *It is...* sentence-opener is usually fille
 Writers in the process of drafting texts often use fake transitions. This practice is to be expected because the writer is still working out their ideas and how the ideas connect. But when you have an advanced draft, such as a "good-faith full draft" for peer review or a submission for evaluation, the text needs to be free of fake transitions. Here are some examples of fake transitions:
 * To start off,...
 * Moving on,.....
-* Going forward,....
+* Going forward,...
 
 See [this advice from the UNC Writing Center on transitions](https://writingcenter.unc.edu/tips-and-tools/transitions/).
 #### *female* as noun
@@ -238,9 +238,9 @@ These two words are commonly confused. To imply is to suggest something without 
 #### *In conclusion*, *In summary*
 **Never** end a paper or other project with *In conclusion* or *In summary* because you'll sound like a fifth-grader writing a book report. Harvard's Writing Center has some [good advice](http://writingcenter.fas.harvard.edu/pages/ending-essay-conclusions), as does the [Writing Center at UNC-Chapel Hill](http://writingcenter.unc.edu/handouts/conclusions/).
 #### *incredible,* *incredibly*
-For some reason, students seem to love to write *incredible* and *incredibly.* I had a paper recently that had seven instances of *incredibly* in four pages. These words are hyperbolic, imprecise, and should usually be replaced. Much like the overused word *very,* *incredibly* usually signals a phrase that can be cut and then replaced by a single well-chosen adjective. 
+For some reason, students seem to love to write *incredible* and *incredibly.* I had a paper recently that had seven instances of *incredibly* in four pages. These words are hyperbolic and imprecise. Much like the overused word *very,* *incredibly* usually signals a phrase that can be cut and then replaced by a single well-chosen adjective. 
 #### indirect quote
-An "indirect quote" is a source quoted in another source. For example, suppose Source A quotes and cites Source B, but you don't have Source B yourself. In MLA style use *qtd. in* to indicate the source you actually used. For example: Sherman contends that "Writing centers across the country have struggled with the problem of securing adequate resources" (qtd. in Jefferson 493). That construction signals that you are using the quotation and citation to Sherman from p. 493 of Jefferson, but you are not using the original Sherman source itself. NB: Except for use of textbook-type materials, a good researcher will try to find the original source, rather than relying on indirect quotes. In any case, you have to accurately attribute quotes to their actual sources. 
+An "indirect quote" is a source quoted in another source. For example, suppose Source A quotes and cites Source B, but you don't have Source B yourself. In MLA style use *qtd. in* to indicate the source you actually used. For example: Sherman contends that "Writing centers across the country have struggled with the problem of securing adequate resources" (qtd. in Jefferson 493). That construction signals that you are using the quotation and citation to Sherman from p. 493 of Jefferson, but you are not using the original Sherman source itself. NB: Except for the use of textbook-type materials, a good researcher will try to find the original source, rather than relying on indirect quotes. In any case, you have to accurately attribute quotes to their actual sources. 
 #### *infamous*
 Be sure that you really mean *infamous,* which has negative connotations. Often, students write *infamous* when they mean *famous*. Merriam-Webster Dictionaries [explains the two words' meaning](https://www.merriam-webster.com/words-at-play/infamous-vs-famous).
 #### *in order to*, *in order for*
@@ -248,7 +248,7 @@ Be sure that you really mean *infamous,* which has negative connotations. Often,
 #### *X is interesting* claims
 *Interesting* is, well, interesting since it can mean many things. Because anything can be *interesting* in various ways, it is usually vague and ineffective to leave your own claims at the level of asserting that *X is interesting*, *X is an interesting phenomenon*, or some such. *X is interesting* is roughly the same as asserting "*So...thats a thing*." So what? What, specifically, about X is worth building an argument around? What about that is arguable and supportable with sound evidence? 
 #### in-text citations and closing punctuation--MLA and APA format
-The in-text citation is part of the sentence, so the closing punctuation (typically a period) of your sentence containing the citation goes **after** the closing parenthesis of the citation. So, like this (MLA example): Smith argues that "if students can be taught to develop a set of help-seeking behaviors, their peformance in writing courses "can exceed all predicted outcomes" (65). <---See that period after the closing parenthesis? See that the closing quotation mark goes **before** the opening parenthesis?
+The in-text citation is part of the sentence, so the closing punctuation (typically a period) of your sentence containing the citation goes **after** the closing parenthesis of the citation. So, like this (MLA example): Smith argues that "if students can be taught to develop a set of help-seeking behaviors, their performance in writing courses "can exceed all predicted outcomes" (65). <---See that period after the closing parenthesis? See that the closing quotation mark goes **before** the opening parenthesis?
 #### in-text citations and shortening titles (MLA)
 It's tedious and unnecessary to keep repeating a long title of a source in an in-text citation. [Writing Commons offers this advice](https://writingcommons.org/open-text/collaboration/167-common-comments/in-text-citations-/625-abbreviate-the-title-of-this-source-in-the-citation) on shortening titles meaningfully.
 #### *issue* vs. *problem*
@@ -277,7 +277,7 @@ All this means is "use," so just write "use."
 #### *Meaning that*
 If you begin a sentence *Meaning that....*, you are probably trying to express something like *In other words,...* *Meaning that....* usually indicates a sentence fragment.
 #### *medium*, *media*
-*Media* as a mass noun is perfectly okay: *The media are investigating Anthony Weiner's tweets.* When referring to a single medium, such as TV, radio, etc., use *medium.* When referring to more than one medium, use *media,* never *mediums*: *Shep Gordon has promoted a variety of artists in several media: live performance, television, films, and books.* *Mediums* is the plural of *medium,* i.e., a person who claims to be in contact with the spirit world: *Madame Xsaya is a medium who charges $500 for a seance* or sizes of things: *Old Navy was sold out of large T-shirts--I could only find mediums.* 
+*Media* as a mass noun is perfectly okay: *The media are investigating Anthony Weiner's tweets.* When referring to a single medium, such as TV, radio, etc., use *medium.* When referring to more than one medium, use *media,* never *mediums*: *Shep Gordon has promoted a variety of artists in several media: live performances, television, films, and books.* *Mediums* is the plural of *medium,* i.e., a person who claims to be in contact with the spirit world: *Madame Xsaya is a medium who charges $500 for a seance* or sizes of things: *Old Navy was sold out of large T-shirts--I could only find mediums.* 
 #### *moreso*
 The one-word spelling *moreso* is gaining in usage and at least one dictionary accepts it. Still, though, most usage is of the two-word phrase *more so.* Maybe in ten years, *moreso* will be fully accepted, but it's not there yet.
 
@@ -300,7 +300,7 @@ Journalistic (AP) style allows you to start a sentence with a number if the numb
 #### *obviously*
 This word can usually be cut. It adds little to something that you have shown already (if you have shown it clearly, there is no need to lard it up with *obviously*). 
 #### *OK*
-In class projects, it's *OK* or *okay,* (or even *O.K.,* but this is relatively uncommon). It is never *ok* (unless maybe you are quoting a text message or someething). *OK* is always casual, so consider whether you should replace it in precise writing occasions. 
+In class projects, it's *OK* or *okay,* (or even *O.K.,* but this is relatively uncommon). It is never *ok* (unless maybe you are quoting a text message or something). *OK* is always casual, so consider whether you should replace it in precise writing occasions. 
 #### *only* misplaced
 Bryan Garner argues that "The word *only* is probably misplaced more often than any other modifier," and Mignon Fogarty calls *only* "the most insidious misplaced modifier." Where *only* goes can radically alter the meaning of the sentence. See [the five examples here](http://www.shearsoneditorial.com/2012/02/adverb-placement-predominantly-mainly-mostly/). See also [Garner's advice](http://www.lawprose.org/lawprose-lesson-129-placement-of-only/). Read your writing aloud and ask yourself where the *only* should be placed to emphasize what you really meant to emphasize.
 #### *over time* vs. *overtime*
@@ -309,7 +309,7 @@ Bryan Garner argues that "The word *only* is probably misplaced more often than 
 # P
 
 #### *pallet* vs. *palette* vs. *palate*
-These words sound alike and are easy to confuse. A *pallet* is a flat wooden support structure that is used to move goods or materials, usually by means of a forklift. A *palette*, in the physical sense, is handheld surface on which an artist mixes paint colors; in the metaphorical sense, it is a range of colors, e.g., *HGTV is largely responsible for ruining Americans' aesthetic senses because it has saturated cable TV with remodeling shows that draw from a limited color palette of whites and grays.* Your *palate*, in the physical sense, is the roof of your mouth; in the metaphorical sense, it is your ability to discern and appreciate flavors and tastes, as in *The wine expert has a very sophisticated palate* or *The rule in my house growing up was that we had to try all foods at least once so that we could develop our palates.*
+These words sound alike and are easy to confuse. A *pallet* is a flat wooden support structure that is used to move goods or materials, usually by means of a forklift. A *palette*, in the physical sense, is a handheld surface on which an artist mixes paint colors; in the metaphorical sense, it is a range of colors, e.g., *HGTV is largely responsible for ruining Americans' aesthetic senses because it has saturated cable TV with remodeling shows that draw from a limited color palette of whites and grays.* Your *palate*, in the physical sense, is the roof of your mouth; in the metaphorical sense, it is your ability to discern and appreciate flavors and tastes, as in *The wine expert has a very sophisticated palate* or *The rule in my house growing up was that we had to try all foods at least once so that we could develop our palates.*
 #### paragraph length
 Generally speaking, paragraphs should be built around one core idea (which is usually part of a larger idea) and everything in the paragraph is germane to some facet of that idea. There is no ideal paragraph length, and different occasions, audiences, and genres might create different expectations for those contexts. In most essayistic writing, one- or two-sentence paragraphs are seen as underdeveloped and ineffective. Extremely long paragraphs, generally those more than about three-quarters of a page, might be exhausting and create information overload. [The Purdue OWL has some good advice on paragraphing](https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html), including some advice on how you might judge when a new paragraph is necessary. 
 #### Paramedic Method
@@ -317,13 +317,13 @@ Richard Lanham's famous Paramedic Method for revising sentences helps you to rew
 #### passive voice
 You should have a strong bias favoring active voice (*Lincoln delivered the speech*) over passive voice (*The speech was delivered by Lincoln*), unless you have a specific reason for using passive voice. Passive voice is not **wrong**; it’s just (usually) weaker. For more details, see [this handout from our Writing Center](https://sites.stedwards.edu/writing/files/2015/09/St.-Edwards-Univ-Writing-Center-Handout-on-Passive-Voice-19nzb1n.pdf). 
 #### *peak* vs. *pique*
-It's *pique* interest, not *peak.* The words sound identical, but are spelled differently and have different meanings. *Peak* means "highest point," but *pique* means "to stimulate, excite, or arouse," and is almost always followed by "curiosity" or "interest" as the feeling being excited.
+It's *pique* interest, not *peak.* The words sound identical but are spelled differently and have different meanings. *Peak* means "highest point," but *pique* means "to stimulate, excite, or arouse," and is almost always followed by "curiosity" or "interest" as the feeling being excited.
 #### *per,* *as per,* *as per usual/per usual*
-I agree with Bryan Garner that *per* is an avoidable Latinism that should simply be replaced with *under*, *according to,* or the like. *As per* is doubly clunky since it is both a Latinism and redundant bit of bizspeak, giving the reader nothing more than the already-clunky *per* gives. Finally, as Garner argues (and I agree), the phrase *as per usual/per usual* is "an embarassing barbarism" that one should never write. 
+I agree with Bryan Garner that *per* is an avoidable Latinism that should simply be replaced with *under*, *according to,* or the like. *As per* is doubly clunky since it is both a Latinism and redundant bit of bizspeak, giving the reader nothing more than the already clunky *per* gives. Finally, as Garner argues (and I agree), the phrase *as per usual/per usual* is "an embarrassing barbarism" that one should never write. 
 #### periods or other closing punctuation, spaces after
 Use [one space after a period or other closing punctuation](http://www.chicagomanualofstyle.org/qanda/data/faq/topics/OneSpaceorTwo.html) in Loewe classes and in most situations when you're writing to people who understand typography. However, a few specific audiences still want two spaces after a period, including [the APA (in preparing manuscripts](https://owl.english.purdue.edu/owl/resource/560/24/)--I'd like to see the resulting printed journals from these manuscripts, which likely do not have two spaces). 
 #### people vs entities: pronouns
-Is it *it/its* or *they/theirs* when referring to groups of people, companies, institutions, countries? Students often write *they/their* when it should be *it/its*. See also [this advice](https://www.quickanddirtytips.com/articles/is-it-a-company-who-or-a-company-that/) for the problem of "a company that" vs. "a company who."
+Is it *it/its* or *they/theirs* when referring to groups of people, companies, institutions, or countries? Students often write *they/their* when it should be *it/its*. See also [this advice](https://www.quickanddirtytips.com/articles/is-it-a-company-who-or-a-company-that/) for the problem of "a company that" vs. "a company who."
 #### *piece of rhetoric* (or *rhetoric piece/rhetorical piece,* etc.)
 Please do not write about rhetorical artifacts or occasions as "piece(s) of rhetoric." Sometimes, articles or op-eds or similar writings are informally called "pieces," but "piece of rhetoric" makes no sense. Rhetoric is not reducible to any particular artifact or contained within it. Finally, nobody in the discipline uses the term "piece of rhetoric," so it's best to avoid that phrase.
 #### *principal* vs *principle*
@@ -334,7 +334,7 @@ Writers often confuse these two words. They have nothing to do with each other, 
 # Q
 
 #### quotation marks, single vs. double
-In American usage, double quotation marks start a quotation and single quotation marks are for material quoted inside that quote: *Jones agrees with this point, adding that "Whenever he had a few too many Red Bulls, I often heard Dr. Doom claim that he was 'sure to vanquish that pesky Spider-Man'" (67).* Use double quotations for those ironic, sarcastic quotation marks that distance you from the term or material within the quotation marks: *This "innovation" that the consultant touted is not worth the effort.* These are sometimes called *shudder quotes* and have the effect of adding "so-called": *This [so-called] "innovation."* Use shudder quotes sparingly--a writer who leans too heavily on them comes off as snarky, hectoring, or tedious. 
+In American usage, double quotation marks start a quotation, and single quotation marks are for material quoted inside that quote: *Jones agrees with this point, adding that "Whenever he had a few too many Red Bulls, I often heard Dr. Doom claim that he was 'sure to vanquish that pesky Spider-Man'" (67).* Use double quotations for those ironic, sarcastic quotation marks that distance you from the term or material within the quotation marks: *This "innovation" that the consultant touted is not worth the effort.* These are sometimes called *shudder quotes* and have the effect of adding "so-called": *This [so-called] "innovation."* Use shudder quotes sparingly--a writer who leans too heavily on them comes off as snarky, hectoring, or tedious. 
 #### quotation marks with other punctuation 
 Students often mistakenly place periods and commas outside of quotation marks when they should be inside (in US usage). See [Bryan Garner's advice](http://www.lawprose.org/lawprose-lesson-160-correct-punctuation-with-quotation-marks/).
 
@@ -349,7 +349,7 @@ This phrase can always be modified. *Because* expresses a causal reason. *The re
 #### *relatable*
 *Relatable* is a vague word that many readers, including me, dislike. When students use *relatable*, they usually mean to express something about identification, empathy, or appealing to an audience. Can you reword to be clearer? 
 ####  *relate to*
-That X "relates to" Y explains almost nothing. Here is an exaggerated illustration: I "relate to" the planet Neptune because we are in the same solar system. So what? Can you reword to be clearer? Do you mean *identify with*, *understand*, or some relationship between X and Y that is about a particular kind of relevance or connection?
+That X "relates to" Y explains almost nothing. Here is an exaggerated illustration: I "relate to" the planet Neptune because we are in the same solar system. So what? Can you reword it to be clearer? Do you mean *identify with*, *understand*, or some relationship between X and Y that is about a particular kind of relevance or connection?
 #### *reveal* as noun
 This reality-show buzzword is becoming more and more common in everyday parlance, but it often causes a weird tone in academic or professional writing, making it borrow a hackneyed TV trope ("the big reveal"). In writing, stick to using *reveal* just as a verb and find some other way to express the thought. 
 
@@ -376,7 +376,7 @@ When a source truly misspells something or is ungrammatical, but you are quoting
 #### slash mark
 The slash mark, also sometimes called a *virgule*, is the source of much ambiguity and ineffective writing. You should generally avoid it, unless it's in a well-known phrase such as *he said/she said*. But writers often use the slash to mean *or, *and, *X or Y, or both*, leaving readers guessing as to which possibility is the intended one. Rework to use whatever words express the intended relationship rather than leaning on the ambiguity-spawning slash mark.  
 #### spacing errors
-Recently (beginning in academic year '22-'23), I have seen a remarkable uptick in spacing errors in students' writing, usually in the form of not having any spacing after a period ending a sentence. While putting two spaces after a period (older preference) or one space after a period (recent preference) has been a matter of debate, it's never correct to have NO space after a period ending a sentence. 
+Recently, I have seen a remarkable uptick in spacing errors in students' writing, usually in the form of not having any spacing after a period ending a sentence. While putting two spaces after a period (older preference) or one space after a period (recent preference) has been a matter of debate, it's never correct to have NO space after a period ending a sentence. 
 
 - **Wrong** You should put a space after a period ending a sentence.You don't want the text crowded too closely.
 - **Right** You should put a space after a period ending a sentence. You don't want the text crowded too closely.
@@ -412,7 +412,7 @@ These phrases are common, but historically inaccurate, vague, and often consider
 #### *this* (vague *this*, sometimes called the *unattended this* or *naked this*)
 I haven't tracked it empirically, but I have many years of anecdotal observations to support this statement: students' uses of the pronoun *this* are often vague. I'd go so far as to contend that the majority of students' uses of *This* to start a sentence are vague. Consider whether your uses of *this* (especially at the beginning of the sentence) are clear as to what is being pointed back to by the *this.* **Always ask: “This what?” because your readers will be asking that same question.** 
 
-#### titles, articles in periodicals, chapters in edited collections of scholary essays
+#### titles, articles in periodicals, chapters in edited collections of scholarly essays
 Titles of articles in periodicals (newspapers, magazines, scholarly journals) and chapters in edited collections of scholarly essays should be in quotation marks, in title case, no italics, no bolding: Lucas, Brad E. and Drew M. Loewe. “Coordinating Citations and the Cartography of Knowledge: Finding True North in Five Scholarly Journals.” *The Changing of Knowledge in Composition: Contemporary Perspectives*, edited by Richard Gebhardt and Lance Massey, Utah State UP, 2011, pp. 264-82.
 #### titles, blog posts or single pages from a website
 Use quotation marks. Examples: "Decrying Dialects and Despising Speakers, "About Us," "Our Mission," "Something is Wrong on the Internet."
@@ -450,7 +450,7 @@ Forms of: *says, writes, states, thinks*, and *feels* are usually less vivid or 
 #### *very*
 *Very* should often be cut. It is usually a filler word. *Very* followed by an adjective usually signals a weak construction that should be tightened by cutting *very* and choosing a precise adjective. Examples: *very smart* (try *brilliant)*, *very important* (try *essential*), or *very old* (try *ancient*). 
 #### *very unique*
-*Very unique* is a phrase that should be used with caution in edited writing. [The folks at Merriam-Webster explain why](https://www.merriam-webster.com/words-at-play/very-unique-and-absolute-adjectives) (scroll to bottom of page).
+*Very unique* is a phrase that should be used with caution in edited writing. [The folks at Merriam-Webster explain why](https://www.merriam-webster.com/words-at-play/very-unique-and-absolute-adjectives) (scroll to the bottom of the page).
 
 # W
 #### *whether or not*
