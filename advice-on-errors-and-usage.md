@@ -360,7 +360,7 @@ If you mean *that* or *those*, write *that* or *those.* *Said* sounds like a leg
 #### semicolons in series
 If even one of the individual items in a list has a comma, separate all list items with semicolons. 
 #### sentence fragment (SF)
-I mark these **SF**. Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html). [The University of Arizona](http://www.u.arizona.edu/~ordover/ENGL102/_ENGL102/OnlineHelpfulDocs/correcting_fragments.pdf) has some more advice.
+I mark these **SF**. Sometimes, expert writers use sentence fragments for voice or rhetorical flourish. *Like this. Really*. Usually, though, and especially in more formal genres, students are better off making sure that each of their sentences is a complete sentence with a subject and a verb. In many cases, sentence fragments in student writing are disruptive errors. The Purdue OWL has some [great advice on finding and fixing sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html). 
 #### serial comma aka "Oxford comma"
 I favor the serial comma (aka “Oxford comma") because it enhances clarity. [Definition and examples](https://style.mla.org/serial-commas-and-semicolons/)
 #### *setup* vs. *set up*
