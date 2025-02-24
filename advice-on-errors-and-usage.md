@@ -340,7 +340,7 @@ Students often mistakenly place periods and commas outside of quotation marks wh
 
 # R
 
-####otreach out to*
+#### *reach out to*
 *Reach out to* is voguish bizspeak for *contact, call, write*, or some other specific verb. *Reach out to* is becoming common usage, but many readers (I am one) find it grating, vague, and wordy. A specific single verb is probably best.
 #### *reason[s] as to why*
 This phrase expresses nothing more than writing *reason[s] why*; *as to* should be cut in all cases. Try also to cut *why* and see if the sentence can be improved. *Reason[s] why* is mildly redundant, but (according to Garner), well-established and accepted. 
