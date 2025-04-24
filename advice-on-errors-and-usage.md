@@ -33,15 +33,16 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * ❌  in order to----> ✅ to
 * ❌  in order for----> ✅ for
 * ❌  is applicable to----> ✅ applies to
-* ❌  judgement----> ✅ judgment
+* ❌  judgement (UK)----> ✅ judgment (US)
 * ❌  do an analysis of----> ✅ analyze
 * ❌  make an analysis of----> ✅ analyze
 * ❌  analyzation---> ✅ analysis
 * ❌  made use of----> ✅ used
 * ❌  make use of----> ✅ use
 * ❌  makes use of----> ✅ uses
-* ❌  prior to----> before
-* ❌  subsequent to----> after
+* ❌  prior to----> ✅ before
+* ❌  pursuant to----> ✅ under
+* ❌  subsequent to----> ✅ after
 * ❌  try and----> ✅ try to
 * ❌  utilize----> ✅ use
 * ❌  utilized----> ✅ used
