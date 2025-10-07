@@ -131,7 +131,7 @@ A cliche can be any overused metaphor, word, or phrase that you've heard or read
 #### commas with coordinating conjunctions
 Bryan Garner explains [the basics of handling this tricky situation](http://www.lawprose.org/lawprose-lesson-198-commas-with-coordinating-conjunctions/). 
 #### comma missing after an introductory element
-Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [See this advice](https://digfir-published.macmillanusa.com/writershelp2e_axs/writershelp2e_axs_ch17_6.html).
+Introductory elements are dependent clauses that set up, contextualize, or introduce the main subject-verb part of a sentence (i.e., the independent clause). Example: *Before I could kill Count Dracula, I had to find a wooden stake.* Introductory elements often (but not always) require a comma. [See this advice](https://owl.excelsior.edu/grammar-essentials/common-errors/common-errors-comma-after-introductory-element/).
 #### comma with nonrestrictive element
 Writers often stumble by not using commas with restrictive clauses. What's a restrictive clause? As the Writing Center at Texas A&M explains, "If you can eliminate the element [of the sentence] without altering \[your meaning\], then it’s a nonrestrictive element and should be marked off with commas." [More advice and explanation from A&M's Writing Center](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Punctuation/Comma-Guide) can be found under Nonrestrictive Elements (or “Extra Stuff”).
 #### comma splice (CS)
