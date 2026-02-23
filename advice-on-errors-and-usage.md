@@ -32,6 +32,7 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * ❌  hone in on----> ✅ home in on
 * ❌  in order to----> ✅ to
 * ❌  in order for----> ✅ for
+* ❌  in close proximity to----> ✅ near
 * ❌  is applicable to----> ✅ applies to
 * ❌  judgement (UK)----> ✅ judgment (US)
 * ❌  do an analysis of----> ✅ analyze
