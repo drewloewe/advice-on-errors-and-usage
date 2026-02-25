@@ -28,6 +28,7 @@ You can do the same thing in MS Word under Tools--> Autocorrect Options.
 * ❌  come to an agreement-----> ✅ agree
 * ❌  despite the fact that---> ✅ although
 * ❌  due to the fact that---> ✅ because
+* ❌  First and foremost,---> ✅ First,
 * ❌  for the reason that---> ✅ because
 * ❌  hone in on----> ✅ home in on
 * ❌  in order to----> ✅ to
